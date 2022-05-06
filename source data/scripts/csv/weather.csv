@@ -1,0 +1,2765 @@
+country,date,temp,humidity,weatherDesc
+Haiti,2020-01-01,26,79.75,Patchy rain possible
+Haiti,2020-01-02,27,80.625,Patchy rain possible
+Haiti,2020-01-03,27,76.5,Partly cloudy
+Haiti,2020-01-04,27,71.875,Clear
+Haiti,2020-01-05,27,76.75,Partly cloudy
+Haiti,2020-01-06,26,70.75,Patchy rain possible
+Haiti,2020-01-07,25,70.375,Partly cloudy
+Haiti,2020-01-08,26,73.375,Partly cloudy
+Haiti,2020-01-09,26,73.375,Partly cloudy
+Haiti,2020-01-10,26,64.625,Partly cloudy
+Haiti,2020-01-11,26,66.375,Partly cloudy
+Haiti,2020-01-12,25,66.0,Partly cloudy
+Haiti,2020-01-13,25,66.5,Partly cloudy
+Haiti,2020-01-14,25,64.125,Partly cloudy
+Haiti,2020-01-15,25,66.75,Patchy rain possible
+Haiti,2020-01-16,26,67.0,Partly cloudy
+Haiti,2020-01-17,25,69.25,Partly cloudy
+Haiti,2020-01-18,26,70.25,Partly cloudy
+Haiti,2020-01-19,26,67.75,Partly cloudy
+Haiti,2020-01-20,26,73.125,Partly cloudy
+Haiti,2020-01-21,26,76.875,Patchy rain possible
+Haiti,2020-01-22,24,80.25,Patchy rain possible
+Haiti,2020-01-23,23,83.375,Patchy rain possible
+Haiti,2020-01-24,24,80.375,Patchy rain possible
+Haiti,2020-01-25,25,78.125,Partly cloudy
+Haiti,2020-01-26,24,78.375,Partly cloudy
+Haiti,2020-01-27,26,74.125,Light rain shower
+Haiti,2020-01-28,26,72.0,Patchy rain possible
+Haiti,2020-01-29,26,72.75,Partly cloudy
+Haiti,2020-01-30,25,77.5,Partly cloudy
+Haiti,2020-01-31,27,70.625,Light rain shower
+Haiti,2020-02-01,28,69.25,Partly cloudy
+Haiti,2020-02-01,28,69.25,Partly cloudy
+Haiti,2020-02-02,26,77.25,Partly cloudy
+Haiti,2020-02-03,26,77.0,Partly cloudy
+Haiti,2020-02-04,26,78.625,Patchy rain possible
+Haiti,2020-02-05,27,71.25,Patchy rain possible
+Haiti,2020-02-06,26,71.625,Partly cloudy
+Haiti,2020-02-07,27,68.25,Clear
+Haiti,2020-02-08,28,68.5,Partly cloudy
+Haiti,2020-02-09,27,70.5,Patchy rain possible
+Haiti,2020-02-10,28,65.5,Patchy rain possible
+Haiti,2020-02-11,27,65.375,Partly cloudy
+Haiti,2020-02-12,28,61.5,Patchy rain possible
+Haiti,2020-02-13,28,62.5,Partly cloudy
+Haiti,2020-02-14,28,58.625,Partly cloudy
+Haiti,2020-02-15,27,66.375,Partly cloudy
+Haiti,2020-02-16,27,68.0,Light rain shower
+Haiti,2020-02-17,27,72.5,Patchy rain possible
+Haiti,2020-02-18,28,69.0,Patchy rain possible
+Haiti,2020-02-19,28,68.625,Partly cloudy
+Haiti,2020-02-20,28,69.875,Light rain shower
+Haiti,2020-02-21,26,73.875,Patchy rain possible
+Haiti,2020-02-22,26,75.125,Patchy rain possible
+Haiti,2020-02-23,26,74.625,Patchy rain possible
+Haiti,2020-02-24,24,78.625,Patchy rain possible
+Haiti,2020-02-25,27,74.125,Patchy rain possible
+Haiti,2020-02-26,27,71.625,Patchy rain possible
+Haiti,2020-02-27,27,73.0,Partly cloudy
+Haiti,2020-02-28,27,73.75,Patchy rain possible
+Haiti,2020-02-29,27,70.875,Patchy rain possible
+Haiti,2020-03-01,24,76.375,Patchy rain possible
+Haiti,2020-03-01,24,76.375,Patchy rain possible
+Haiti,2020-03-02,25,76.75,Partly cloudy
+Haiti,2020-03-03,26,77.375,Patchy rain possible
+Haiti,2020-03-04,28,69.625,Light rain shower
+Haiti,2020-03-05,29,65.625,Light rain shower
+Haiti,2020-03-06,27,71.5,Patchy rain possible
+Haiti,2020-03-07,26,75.25,Light rain shower
+Haiti,2020-03-08,23,79.5,Patchy rain possible
+Haiti,2020-03-09,23,73.375,Partly cloudy
+Haiti,2020-03-10,25,75.0,Patchy rain possible
+Haiti,2020-03-11,25,75.125,Patchy rain possible
+Haiti,2020-03-12,26,73.25,Patchy rain possible
+Haiti,2020-03-13,26,74.25,Patchy rain possible
+Haiti,2020-03-14,26,75.25,Patchy rain possible
+Haiti,2020-03-15,27,67.25,Patchy rain possible
+Haiti,2020-03-16,26,62.875,Partly cloudy
+Haiti,2020-03-17,26,64.75,Partly cloudy
+Haiti,2020-03-18,26,67.625,Partly cloudy
+Haiti,2020-03-19,27,72.125,Patchy rain possible
+Haiti,2020-03-20,26,72.375,Light rain shower
+Haiti,2020-03-21,26,70.625,Light rain shower
+Haiti,2020-03-22,26,70.0,Light rain shower
+Haiti,2020-03-23,27,68.5,Patchy rain possible
+Haiti,2020-03-24,27,70.75,Patchy rain possible
+Haiti,2020-03-25,27,76.25,Light rain shower
+Haiti,2020-03-26,27,72.5,Light rain shower
+Haiti,2020-03-27,27,71.5,Partly cloudy
+Haiti,2020-03-28,28,65.5,Patchy rain possible
+Haiti,2020-03-29,27,66.5,Patchy rain possible
+Haiti,2020-03-30,28,70.375,Patchy rain possible
+Haiti,2020-03-31,27,72.25,Patchy rain possible
+Haiti,2020-04-01,27,71.0,Light rain shower
+Haiti,2020-04-01,27,71.0,Light rain shower
+Haiti,2020-04-02,26,75.875,Patchy rain possible
+Haiti,2020-04-03,26,78.75,Light rain shower
+Haiti,2020-04-04,27,76.5,Patchy rain possible
+Haiti,2020-04-05,27,76.625,Light rain shower
+Haiti,2020-04-06,28,76.25,Light rain shower
+Haiti,2020-04-07,27,73.5,Patchy rain possible
+Haiti,2020-04-08,28,74.5,Light rain shower
+Haiti,2020-04-09,28,75.625,Light rain shower
+Haiti,2020-04-10,29,77.375,Light rain shower
+Haiti,2020-04-11,29,74.125,Partly cloudy
+Haiti,2020-04-12,29,71.375,Patchy rain possible
+Haiti,2020-04-13,29,73.125,Light rain shower
+Haiti,2020-04-14,28,73.625,Light rain shower
+Haiti,2020-04-15,28,76.875,Light rain shower
+Haiti,2020-04-16,28,74.25,Light rain shower
+Haiti,2020-04-17,28,73.75,Light rain shower
+Haiti,2020-04-18,28,73.875,Light rain shower
+Haiti,2020-04-19,29,70.0,Light rain shower
+Haiti,2020-04-20,28,66.625,Patchy rain possible
+Haiti,2020-04-21,28,71.875,Light rain shower
+Haiti,2020-04-22,28,70.375,Patchy rain possible
+Haiti,2020-04-23,29,71.25,Patchy rain possible
+Haiti,2020-04-24,28,74.25,Patchy rain possible
+Haiti,2020-04-25,28,70.0,Patchy rain possible
+Haiti,2020-04-26,29,70.375,Patchy rain possible
+Haiti,2020-04-27,29,65.125,Patchy rain possible
+Haiti,2020-04-28,28,73.0,Light rain
+Haiti,2020-04-29,27,75.75,Moderate or heavy rain shower
+Haiti,2020-04-30,28,69.875,Light rain shower
+Haiti,2020-05-01,29,68.125,Patchy rain possible
+Haiti,2020-05-01,29,68.125,Patchy rain possible
+Haiti,2020-05-02,28,70.75,Patchy rain possible
+Haiti,2020-05-03,28,71.875,Light rain shower
+Haiti,2020-05-04,29,70.125,Light rain shower
+Haiti,2020-05-05,28,75.25,Patchy rain possible
+Haiti,2020-05-06,28,76.25,Light rain shower
+Haiti,2020-05-07,29,76.625,Patchy rain possible
+Haiti,2020-05-08,30,74.5,Patchy rain possible
+Haiti,2020-05-09,31,65.375,Partly cloudy
+Haiti,2020-05-10,29,64.25,Partly cloudy
+Haiti,2020-05-11,28,66.5,Clear
+Haiti,2020-05-12,28,73.875,Patchy rain possible
+Haiti,2020-05-13,28,76.25,Light rain shower
+Haiti,2020-05-14,27,77.25,Light rain shower
+Haiti,2020-05-15,28,71.25,Partly cloudy
+Haiti,2020-05-16,30,67.75,Partly cloudy
+Haiti,2020-05-17,29,69.125,Patchy rain possible
+Haiti,2020-05-18,30,69.625,Patchy rain possible
+Haiti,2020-05-19,29,73.0,Patchy rain possible
+Haiti,2020-05-20,28,75.375,Light rain shower
+Haiti,2020-05-21,28,74.75,Light rain shower
+Haiti,2020-05-22,29,73.375,Light rain shower
+Haiti,2020-05-23,28,76.375,Patchy rain possible
+Haiti,2020-05-24,29,74.75,Light rain shower
+Haiti,2020-05-25,29,74.875,Patchy rain possible
+Haiti,2020-05-26,29,75.375,Patchy rain possible
+Haiti,2020-05-27,29,73.375,Patchy rain possible
+Haiti,2020-05-28,28,75.25,Patchy rain possible
+Haiti,2020-05-29,27,78.0,Patchy rain possible
+Haiti,2020-05-30,28,75.875,Patchy rain possible
+Haiti,2020-05-31,29,73.5,Patchy rain possible
+Haiti,2020-06-01,30,69.375,Partly cloudy
+Haiti,2020-06-01,30,69.375,Partly cloudy
+Haiti,2020-06-02,29,75.5,Patchy rain possible
+Haiti,2020-06-03,29,75.5,Patchy rain possible
+Haiti,2020-06-04,30,70.75,Patchy rain possible
+Haiti,2020-06-05,30,67.125,Clear
+Haiti,2020-06-06,29,68.5,Clear
+Haiti,2020-06-07,26,74.75,Partly cloudy
+Haiti,2020-06-08,28,73.0,Patchy rain possible
+Haiti,2020-06-09,28,76.25,Patchy rain possible
+Haiti,2020-06-10,28,76.75,Patchy rain possible
+Haiti,2020-06-11,27,78.5,Patchy rain possible
+Haiti,2020-06-12,27,76.875,Patchy rain possible
+Haiti,2020-06-13,28,76.125,Patchy rain possible
+Haiti,2020-06-14,28,78.625,Light rain shower
+Haiti,2020-06-15,29,75.5,Patchy rain possible
+Haiti,2020-06-16,28,72.875,Patchy rain possible
+Haiti,2020-06-17,28,73.125,Patchy rain possible
+Haiti,2020-06-18,29,77.625,Patchy rain possible
+Haiti,2020-06-19,29,73.125,Patchy rain possible
+Haiti,2020-06-20,30,68.625,Clear
+Haiti,2020-06-21,30,72.25,Patchy rain possible
+Haiti,2020-06-22,30,72.125,Partly cloudy
+Haiti,2020-06-23,32,66.875,Partly cloudy
+Haiti,2020-06-24,29,73.125,Patchy rain possible
+Haiti,2020-06-25,30,74.75,Light rain shower
+Haiti,2020-06-26,29,71.25,Patchy rain possible
+Haiti,2020-06-27,29,70.25,Patchy rain possible
+Haiti,2020-06-28,30,74.625,Partly cloudy
+Haiti,2020-06-29,29,74.875,Moderate rain at times
+Haiti,2020-06-30,27,75.5,Patchy rain possible
+Haiti,2020-07-01,28,75.75,Patchy rain possible
+Haiti,2020-07-01,28,75.75,Patchy rain possible
+Haiti,2020-07-02,29,74.0,Patchy rain possible
+Haiti,2020-07-03,30,73.625,Patchy rain possible
+Haiti,2020-07-04,29,74.0,Patchy rain possible
+Haiti,2020-07-05,29,76.75,Patchy rain possible
+Haiti,2020-07-06,29,76.25,Patchy rain possible
+Haiti,2020-07-07,29,73.5,Light rain shower
+Haiti,2020-07-08,29,77.0,Patchy rain possible
+Haiti,2020-07-09,29,72.625,Light rain shower
+Haiti,2020-07-10,31,67.5,Clear
+Haiti,2020-07-11,30,69.375,Patchy rain possible
+Haiti,2020-07-12,29,71.75,Moderate rain at times
+Haiti,2020-07-13,29,74.0,Patchy rain possible
+Haiti,2020-07-14,31,72.875,Partly cloudy
+Haiti,2020-07-15,30,75.875,Patchy rain possible
+Haiti,2020-07-16,28,78.625,Light rain shower
+Haiti,2020-07-17,28,75.125,Light rain shower
+Haiti,2020-07-18,29,74.5,Patchy rain possible
+Haiti,2020-07-19,26,78.625,Patchy rain possible
+Haiti,2020-07-20,28,74.0,Patchy rain possible
+Haiti,2020-07-21,29,74.5,Patchy rain possible
+Haiti,2020-07-22,29,73.125,Patchy rain possible
+Haiti,2020-07-23,28,74.875,Light rain shower
+Haiti,2020-07-24,27,69.625,Patchy rain possible
+Haiti,2020-07-25,30,69.125,Clear
+Haiti,2020-07-26,29,72.25,Patchy rain possible
+Haiti,2020-07-27,29,74.5,Patchy rain possible
+Haiti,2020-07-28,29,74.875,Patchy rain possible
+Haiti,2020-07-29,30,74.625,Partly cloudy
+Haiti,2020-07-30,30,74.625,Partly cloudy
+Haiti,2020-07-31,28,77.5,Patchy rain possible
+Haiti,2020-08-01,28,76.625,Partly cloudy
+Haiti,2020-08-01,28,76.625,Partly cloudy
+Haiti,2020-08-02,28,78.625,Patchy rain possible
+Haiti,2020-08-03,28,75.25,Light rain shower
+Haiti,2020-08-04,28,75.75,Partly cloudy
+Haiti,2020-08-05,31,72.25,Patchy rain possible
+Haiti,2020-08-06,29,73.0,Patchy rain possible
+Haiti,2020-08-07,29,71.75,Patchy rain possible
+Haiti,2020-08-08,30,69.125,Partly cloudy
+Haiti,2020-08-09,31,67.75,Partly cloudy
+Haiti,2020-08-10,29,78.25,Patchy rain possible
+Haiti,2020-08-11,28,78.125,Light rain shower
+Haiti,2020-08-12,29,73.5,Patchy rain possible
+Haiti,2020-08-13,30,72.25,Patchy rain possible
+Haiti,2020-08-14,30,72.625,Patchy rain possible
+Haiti,2020-08-15,29,79.0,Light rain shower
+Haiti,2020-08-16,28,79.375,Light rain shower
+Haiti,2020-08-17,30,75.625,Light rain shower
+Haiti,2020-08-18,30,75.5,Patchy rain possible
+Haiti,2020-08-19,31,69.375,Patchy rain possible
+Haiti,2020-08-20,30,65.375,Patchy rain possible
+Haiti,2020-08-21,29,72.875,Patchy rain possible
+Haiti,2020-08-22,29,79.25,Light rain shower
+Haiti,2020-08-23,24,89.25,Patchy rain possible
+Haiti,2020-08-24,28,76.75,Patchy rain possible
+Haiti,2020-08-25,28,78.875,Patchy rain possible
+Haiti,2020-08-26,29,78.25,Patchy rain possible
+Haiti,2020-08-27,29,76.0,Patchy rain possible
+Haiti,2020-08-28,30,77.875,Partly cloudy
+Haiti,2020-08-29,30,78.0,Partly cloudy
+Haiti,2020-08-30,27,80.0,Patchy rain possible
+Haiti,2020-08-31,29,77.625,Patchy rain possible
+Haiti,2020-09-01,28,77.25,Partly cloudy
+Haiti,2020-09-01,28,77.25,Partly cloudy
+Haiti,2020-09-02,28,80.5,Light rain shower
+Haiti,2020-09-03,28,77.75,Patchy rain possible
+Haiti,2020-09-04,28,75.5,Patchy rain possible
+Haiti,2020-09-05,29,70.75,Patchy rain possible
+Haiti,2020-09-06,28,76.5,Partly cloudy
+Haiti,2020-09-07,26,82.5,Patchy rain possible
+Haiti,2020-09-08,26,81.375,Light rain shower
+Haiti,2020-09-09,27,77.625,Patchy rain possible
+Haiti,2020-09-10,29,77.75,Patchy rain possible
+Haiti,2020-09-11,26,81.375,Patchy rain possible
+Haiti,2020-09-12,27,81.625,Light rain shower
+Haiti,2020-09-13,28,81.375,Light rain shower
+Haiti,2020-09-14,29,80.125,Patchy rain possible
+Haiti,2020-09-15,28,80.0,Patchy rain possible
+Haiti,2020-09-16,28,79.375,Patchy rain possible
+Haiti,2020-09-17,28,76.5,Patchy rain possible
+Haiti,2020-09-18,29,78.75,Patchy rain possible
+Haiti,2020-09-19,28,81.125,Partly cloudy
+Haiti,2020-09-20,28,81.625,Partly cloudy
+Haiti,2020-09-21,28,82.0,Patchy rain possible
+Haiti,2020-09-22,29,81.0,Patchy rain possible
+Haiti,2020-09-23,29,77.25,Patchy rain possible
+Haiti,2020-09-24,29,74.875,Patchy rain possible
+Haiti,2020-09-25,30,74.875,Patchy rain possible
+Haiti,2020-09-26,28,78.125,Patchy rain possible
+Haiti,2020-09-27,28,75.25,Patchy rain possible
+Haiti,2020-09-28,28,76.0,Partly cloudy
+Haiti,2020-09-29,27,77.625,Patchy rain possible
+Haiti,2020-09-30,28,74.875,Partly cloudy
+Haiti,2020-10-01,29,76.0,Patchy rain possible
+Haiti,2020-10-01,29,76.0,Patchy rain possible
+Haiti,2020-10-02,29,74.875,Partly cloudy
+Haiti,2020-10-03,30,69.5,Partly cloudy
+Haiti,2020-10-04,25,81.125,Patchy rain possible
+Haiti,2020-10-05,27,76.5,Partly cloudy
+Haiti,2020-10-06,28,80.5,Partly cloudy
+Haiti,2020-10-07,27,79.75,Patchy rain possible
+Haiti,2020-10-08,27,79.5,Patchy rain possible
+Haiti,2020-10-09,28,80.75,Patchy rain possible
+Haiti,2020-10-10,28,81.75,Patchy rain possible
+Haiti,2020-10-11,26,82.625,Partly cloudy
+Haiti,2020-10-12,26,82.25,Partly cloudy
+Haiti,2020-10-13,27,81.25,Patchy rain possible
+Haiti,2020-10-14,27,78.25,Partly cloudy
+Haiti,2020-10-15,28,81.875,Light rain shower
+Haiti,2020-10-16,28,80.5,Partly cloudy
+Haiti,2020-10-17,28,81.125,Partly cloudy
+Haiti,2020-10-18,28,81.75,Patchy rain possible
+Haiti,2020-10-19,27,80.75,Patchy rain possible
+Haiti,2020-10-20,27,81.375,Patchy rain possible
+Haiti,2020-10-21,27,80.25,Patchy rain possible
+Haiti,2020-10-22,26,82.0,Patchy rain possible
+Haiti,2020-10-23,27,76.625,Patchy rain possible
+Haiti,2020-10-24,28,78.75,Partly cloudy
+Haiti,2020-10-25,27,79.25,Patchy rain possible
+Haiti,2020-10-26,27,78.5,Partly cloudy
+Haiti,2020-10-27,28,80.75,Patchy rain possible
+Haiti,2020-10-28,26,79.625,Partly cloudy
+Haiti,2020-10-29,26,81.625,Patchy rain possible
+Haiti,2020-10-30,27,80.25,Patchy rain possible
+Haiti,2020-10-31,28,80.875,Patchy rain possible
+Haiti,2020-11-01,27,76.125,Patchy rain possible
+Haiti,2020-11-01,27,76.125,Patchy rain possible
+Haiti,2020-11-02,27,74.375,Partly cloudy
+Haiti,2020-11-03,26,85.375,Light rain shower
+Haiti,2020-11-04,23,87.5,Heavy rain at times
+Haiti,2020-11-05,25,75.75,Partly cloudy
+Haiti,2020-11-06,25,78.0,Partly cloudy
+Haiti,2020-11-07,25,79.125,Cloudy
+Haiti,2020-11-08,24,85.0,Partly cloudy
+Haiti,2020-11-09,27,83.25,Light rain shower
+Haiti,2020-11-10,26,80.125,Patchy rain possible
+Haiti,2020-11-11,25,86.625,Light rain shower
+Haiti,2020-11-12,25,85.125,Patchy rain possible
+Haiti,2020-11-13,26,84.375,Partly cloudy
+Haiti,2020-11-14,26,77.25,Partly cloudy
+Haiti,2020-11-15,27,77.75,Partly cloudy
+Haiti,2020-11-16,26,80.875,Partly cloudy
+Haiti,2020-11-17,24,77.75,Partly cloudy
+Haiti,2020-11-18,26,80.125,Partly cloudy
+Haiti,2020-11-19,26,82.625,Patchy rain possible
+Haiti,2020-11-20,26,83.5,Partly cloudy
+Haiti,2020-11-21,25,80.5,Partly cloudy
+Haiti,2020-11-22,26,82.25,Patchy rain possible
+Haiti,2020-11-23,26,84.25,Partly cloudy
+Haiti,2020-11-24,24,85.375,Partly cloudy
+Haiti,2020-11-25,25,85.0,Partly cloudy
+Haiti,2020-11-26,25,82.25,Partly cloudy
+Haiti,2020-11-27,25,80.75,Partly cloudy
+Haiti,2020-11-28,27,76.375,Clear
+Haiti,2020-11-29,24,83.125,Partly cloudy
+Haiti,2020-11-30,25,82.0,Partly cloudy
+Haiti,2020-12-01,26,74.5,Clear
+Haiti,2021-01-01,25,67.875,Partly cloudy
+Haiti,2021-01-02,26,71.125,Partly cloudy
+Haiti,2021-01-03,25,73.5,Clear
+Haiti,2021-01-04,25,70.125,Clear
+Haiti,2021-01-05,26,71.25,Clear
+Haiti,2021-01-06,25,68.0,Clear
+Haiti,2021-01-07,23,69.5,Partly cloudy
+Haiti,2021-01-08,25,78.625,Partly cloudy
+Haiti,2021-01-09,25,76.125,Partly cloudy
+Haiti,2021-01-10,25,79.375,Patchy rain possible
+Haiti,2021-01-11,26,73.25,Partly cloudy
+Haiti,2021-01-12,26,71.25,Partly cloudy
+Haiti,2021-01-13,26,64.75,Partly cloudy
+Haiti,2021-01-14,26,72.125,Partly cloudy
+Haiti,2021-01-15,25,70.625,Partly cloudy
+Haiti,2021-01-16,26,68.0,Partly cloudy
+Haiti,2021-01-17,26,70.25,Partly cloudy
+Haiti,2021-01-18,26,71.25,Partly cloudy
+Haiti,2021-01-19,26,76.0,Partly cloudy
+Haiti,2021-01-20,26,71.875,Patchy rain possible
+Haiti,2021-01-21,25,78.25,Patchy rain possible
+Haiti,2021-01-22,26,77.75,Light rain shower
+Haiti,2021-01-23,27,73.5,Patchy rain possible
+Haiti,2021-01-24,27,75.125,Patchy rain possible
+Haiti,2021-01-25,26,73.25,Partly cloudy
+Haiti,2021-01-26,27,68.5,Partly cloudy
+Haiti,2021-01-27,26,70.5,Partly cloudy
+Haiti,2021-01-28,26,73.625,Partly cloudy
+Haiti,2021-01-29,26,72.875,Patchy rain possible
+Haiti,2021-01-30,24,77.125,Partly cloudy
+Haiti,2021-01-31,25,74.0,Patchy rain possible
+Haiti,2021-02-01,25,73.625,Patchy rain possible
+Haiti,2021-02-01,25,73.625,Patchy rain possible
+Haiti,2021-02-02,25,75.875,Partly cloudy
+Haiti,2021-02-03,24,81.625,Light rain shower
+Haiti,2021-02-04,25,77.75,Light rain shower
+Haiti,2021-02-05,26,75.375,Patchy rain possible
+Haiti,2021-02-06,28,68.375,Partly cloudy
+Haiti,2021-02-07,27,65.375,Partly cloudy
+Haiti,2021-02-08,27,67.5,Partly cloudy
+Haiti,2021-02-09,27,65.375,Partly cloudy
+Haiti,2021-02-10,27,69.25,Patchy rain possible
+Haiti,2021-02-11,28,62.125,Patchy rain possible
+Haiti,2021-02-12,27,65.0,Partly cloudy
+Haiti,2021-02-13,26,64.875,Partly cloudy
+Haiti,2021-02-14,26,66.5,Partly cloudy
+Haiti,2021-02-15,27,64.875,Patchy rain possible
+Haiti,2021-02-16,28,66.5,Partly cloudy
+Haiti,2021-02-17,27,52.125,Patchy rain possible
+Haiti,2021-02-18,27,67.75,Partly cloudy
+Haiti,2021-02-19,26,70.75,Patchy rain possible
+Haiti,2021-02-20,27,62.375,Partly cloudy
+Haiti,2021-02-21,27,63.75,Light rain shower
+Haiti,2021-02-22,26,68.75,Patchy rain possible
+Haiti,2021-02-23,26,69.0,Patchy rain possible
+Haiti,2021-02-24,26,66.0,Patchy rain possible
+Haiti,2021-02-25,28,59.75,Patchy rain possible
+Haiti,2021-02-26,28,60.375,Partly cloudy
+Haiti,2021-02-27,28,56.75,Partly cloudy
+Haiti,2021-02-28,28,59.875,Partly cloudy
+Haiti,2021-03-01,27,59.375,Partly cloudy
+Haiti,2021-03-01,27,59.375,Partly cloudy
+Haiti,2021-03-02,26,72.875,Patchy rain possible
+Haiti,2021-03-03,27,68.125,Light rain shower
+Haiti,2021-03-04,26,69.25,Patchy rain possible
+Haiti,2021-03-05,26,73.75,Patchy rain possible
+Haiti,2021-03-06,28,63.75,Light rain shower
+Haiti,2021-03-07,27,73.75,Partly cloudy
+Haiti,2021-03-08,27,74.625,Moderate or heavy rain shower
+Haiti,2021-03-09,25,79.375,Light rain shower
+Haiti,2021-03-10,26,74.875,Light rain shower
+Haiti,2021-03-11,25,73.75,Light rain shower
+Haiti,2021-03-12,24,73.5,Patchy rain possible
+Haiti,2021-03-13,26,73.375,Patchy rain possible
+Haiti,2021-03-14,25,72.5,Patchy rain possible
+Haiti,2021-03-15,27,67.625,Patchy rain possible
+Haiti,2021-03-16,26,67.125,Partly cloudy
+Haiti,2021-03-17,27,65.375,Partly cloudy
+Haiti,2021-03-18,27,71.375,Partly cloudy
+Haiti,2021-03-19,26,73.25,Light rain shower
+Haiti,2021-03-20,26,75.125,Light rain shower
+Haiti,2021-03-21,26,70.25,Light rain shower
+Haiti,2021-03-22,27,70.375,Patchy rain possible
+Haiti,2021-03-23,24,77.5,Light rain shower
+Haiti,2021-03-24,26,76.375,Patchy rain possible
+Haiti,2021-03-25,27,72.125,Light rain shower
+Haiti,2021-03-26,27,70.625,Light rain shower
+Haiti,2021-03-27,26,72.125,Patchy rain possible
+Haiti,2021-03-28,27,69.125,Patchy rain possible
+Haiti,2021-03-29,29,62.5,Patchy rain possible
+Haiti,2021-03-30,29,61.25,Patchy rain possible
+Haiti,2021-03-31,29,61.375,Patchy rain possible
+Haiti,2021-04-01,28,65.625,Patchy rain possible
+Haiti,2021-04-01,28,65.625,Patchy rain possible
+Haiti,2021-04-02,27,70.875,Light rain shower
+Haiti,2021-04-03,26,73.125,Moderate or heavy rain shower
+Haiti,2021-04-04,25,77.0,Light rain shower
+Haiti,2021-04-05,25,76.5,Patchy rain possible
+Haiti,2021-04-06,26,75.0,Light rain shower
+Haiti,2021-04-07,27,75.625,Light rain shower
+Haiti,2021-04-08,26,75.75,Patchy rain possible
+Haiti,2021-04-09,25,79.25,Patchy rain possible
+Haiti,2021-04-10,27,73.625,Patchy rain possible
+Haiti,2021-04-11,27,69.0,Light rain shower
+Haiti,2021-04-12,28,65.625,Light rain shower
+Haiti,2021-04-13,29,67.0,Partly cloudy
+Haiti,2021-04-14,28,66.75,Partly cloudy
+Haiti,2021-04-15,28,69.125,Patchy rain possible
+Haiti,2021-04-16,29,65.75,Partly cloudy
+Haiti,2021-04-17,30,65.375,Partly cloudy
+Haiti,2021-04-18,31,61.625,Patchy rain possible
+Haiti,2021-04-19,31,62.25,Partly cloudy
+Haiti,2021-04-20,31,58.25,Partly cloudy
+Haiti,2021-04-21,30,58.5,Partly cloudy
+Haiti,2021-04-22,29,63.5,Patchy rain possible
+Haiti,2021-04-23,29,64.5,Light rain shower
+Haiti,2021-04-24,28,67.625,Light rain shower
+Haiti,2021-04-25,28,71.0,Patchy rain possible
+Haiti,2021-04-26,27,72.125,Patchy rain possible
+Haiti,2021-04-27,26,70.25,Patchy rain possible
+Haiti,2021-04-28,27,69.0,Patchy rain possible
+Haiti,2021-04-29,28,67.375,Patchy rain possible
+Haiti,2021-04-30,28,69.75,Light rain shower
+Haiti,2021-05-01,28,71.625,Light rain shower
+Haiti,2021-05-01,28,71.625,Light rain shower
+Haiti,2021-05-02,27,73.375,Patchy rain possible
+Haiti,2021-05-03,27,70.375,Patchy rain possible
+Haiti,2021-05-04,28,69.625,Patchy rain possible
+Haiti,2021-05-05,26,71.125,Patchy rain possible
+Haiti,2021-05-06,28,71.5,Light rain shower
+Haiti,2021-05-07,27,73.125,Light rain shower
+Haiti,2021-05-08,27,72.125,Patchy rain possible
+Haiti,2021-05-09,29,65.875,Patchy rain possible
+Haiti,2021-05-10,28,69.125,Patchy rain possible
+Haiti,2021-05-11,27,63.375,Patchy rain possible
+Haiti,2021-05-12,30,59.625,Partly cloudy
+Haiti,2021-05-13,29,68.0,Partly cloudy
+Haiti,2021-05-14,29,71.5,Light rain shower
+Haiti,2021-05-15,28,76.875,Patchy rain possible
+Haiti,2021-05-16,28,75.625,Moderate rain at times
+Haiti,2021-05-17,28,73.375,Moderate rain at times
+Haiti,2021-05-18,28,66.375,Patchy rain possible
+Haiti,2021-05-19,28,65.0,Patchy rain possible
+Haiti,2021-05-20,27,72.625,Patchy rain possible
+Haiti,2021-05-21,27,73.125,Moderate or heavy rain shower
+Haiti,2021-05-22,28,71.25,Patchy rain possible
+Haiti,2021-05-23,28,70.25,Patchy rain possible
+Haiti,2021-05-24,28,76.125,Partly cloudy
+Haiti,2021-05-25,29,72.125,Patchy rain possible
+Haiti,2021-05-26,29,71.25,Moderate or heavy rain shower
+Haiti,2021-05-27,29,75.625,Patchy rain possible
+Haiti,2021-05-28,27,78.375,Light rain shower
+Haiti,2021-05-29,27,75.0,Patchy rain possible
+Haiti,2021-05-30,28,73.0,Light rain shower
+Haiti,2021-05-31,28,71.75,Patchy rain possible
+Haiti,2021-06-01,28,71.625,Patchy rain possible
+Haiti,2021-06-01,28,71.625,Patchy rain possible
+Haiti,2021-06-02,28,71.875,Patchy rain possible
+Haiti,2021-06-03,27,73.5,Patchy rain possible
+Haiti,2021-06-04,27,74.375,Patchy rain possible
+Haiti,2021-06-05,28,73.25,Patchy rain possible
+Haiti,2021-06-06,28,72.875,Patchy rain possible
+Haiti,2021-06-07,27,76.125,Moderate rain at times
+Haiti,2021-06-08,27,77.0,Patchy rain possible
+Haiti,2021-06-09,26,77.125,Patchy rain possible
+Haiti,2021-06-10,25,80.0,Patchy light rain
+Haiti,2021-06-11,27,75.125,Patchy light rain
+Haiti,2021-06-12,28,74.0,Patchy rain possible
+Haiti,2021-06-13,29,73.0,Patchy light rain
+Haiti,2021-06-14,29,69.625,Patchy rain possible
+Haiti,2021-06-15,29,69.5,Partly cloudy
+Haiti,2021-06-16,30,67.0,Partly cloudy
+Haiti,2021-06-17,30,66.375,Partly cloudy
+Haiti,2021-06-18,28,68.875,Patchy rain possible
+Haiti,2021-06-19,30,67.875,Partly cloudy
+Haiti,2021-06-20,30,68.125,Patchy rain possible
+Haiti,2021-06-21,29,71.5,Patchy rain possible
+Haiti,2021-06-22,28,74.375,Moderate rain at times
+Haiti,2021-06-23,28,73.75,Patchy rain possible
+Haiti,2021-06-24,29,72.625,Moderate or heavy rain shower
+Haiti,2021-06-25,27,76.125,Patchy rain possible
+Haiti,2021-06-26,28,73.625,Light rain shower
+Haiti,2021-06-27,27,75.375,Patchy rain possible
+Haiti,2021-06-28,27,68.875,Moderate or heavy rain shower
+Haiti,2021-06-29,29,67.375,Patchy rain possible
+Haiti,2021-06-30,28,67.875,Partly cloudy
+Haiti,2021-07-01,29,68.875,Patchy rain possible
+Haiti,2021-07-01,29,68.875,Patchy rain possible
+Haiti,2021-07-02,30,67.25,Partly cloudy
+Haiti,2021-07-03,30,67.375,Partly cloudy
+Haiti,2021-07-04,27,74.5,Patchy light rain
+Haiti,2021-07-05,28,68.875,Partly cloudy
+Haiti,2021-07-06,29,65.625,Partly cloudy
+Haiti,2021-07-07,31,63.5,Partly cloudy
+Haiti,2021-07-08,30,63.0,Partly cloudy
+Haiti,2021-07-09,30,68.75,Partly cloudy
+Haiti,2021-07-10,29,63.0,Patchy rain possible
+Haiti,2021-07-11,31,60.875,Patchy rain possible
+Haiti,2021-07-12,25,77.625,Patchy rain possible
+Haiti,2021-07-13,30,69.5,Partly cloudy
+Haiti,2021-07-14,29,73.0,Patchy rain possible
+Haiti,2021-07-15,27,78.625,Heavy rain at times
+Haiti,2021-07-16,28,71.25,Patchy rain possible
+Haiti,2021-07-17,28,73.5,Partly cloudy
+Haiti,2021-07-18,31,69.75,Patchy rain possible
+Haiti,2021-07-19,30,67.375,Partly cloudy
+Haiti,2021-07-20,30,66.375,Patchy rain possible
+Haiti,2021-07-21,30,63.375,Partly cloudy
+Haiti,2021-07-22,30,65.5,Patchy rain possible
+Haiti,2021-07-23,29,64.125,Partly cloudy
+Haiti,2021-07-24,30,69.375,Patchy rain possible
+Haiti,2021-07-25,28,74.25,Patchy rain possible
+Haiti,2021-07-26,27,76.875,Patchy rain possible
+Haiti,2021-07-27,29,74.375,Moderate rain at times
+Haiti,2021-07-28,27,72.125,Patchy rain possible
+Haiti,2021-07-29,28,72.5,Light rain shower
+Haiti,2021-07-30,28,73.625,Partly cloudy
+Haiti,2021-07-31,29,70.25,Light rain shower
+Haiti,2021-08-01,30,67.0,Patchy rain possible
+Haiti,2021-08-01,30,67.0,Patchy rain possible
+Haiti,2021-08-02,28,68.0,Partly cloudy
+Haiti,2021-08-03,29,72.25,Light rain shower
+Haiti,2021-08-04,30,68.75,Patchy rain possible
+Haiti,2021-08-05,29,69.0,Partly cloudy
+Haiti,2021-08-06,30,69.0,Patchy rain possible
+Haiti,2021-08-07,30,68.375,Patchy rain possible
+Haiti,2021-08-08,28,72.625,Patchy rain possible
+Haiti,2021-08-09,29,75.5,Patchy rain possible
+Haiti,2021-08-10,28,69.875,Patchy rain possible
+Haiti,2021-08-11,27,77.5,Patchy rain possible
+Haiti,2021-08-12,27,79.0,Patchy rain possible
+Haiti,2021-08-13,28,72.625,Moderate or heavy rain shower
+Haiti,2021-08-14,27,75.25,Moderate or heavy rain shower
+Haiti,2021-08-15,28,75.875,Patchy rain possible
+Haiti,2021-08-16,28,73.25,Patchy rain possible
+Haiti,2021-08-17,25,79.5,Partly cloudy
+Haiti,2021-08-18,29,64.875,Partly cloudy
+Haiti,2021-08-19,28,67.75,Partly cloudy
+Haiti,2021-08-20,29,70.25,Patchy rain possible
+Haiti,2021-08-21,28,72.125,Partly cloudy
+Haiti,2021-08-22,30,70.875,Patchy rain possible
+Haiti,2021-08-23,29,65.375,Patchy rain possible
+Haiti,2021-08-24,29,70.125,Partly cloudy
+Haiti,2021-08-25,28,75.75,Patchy rain possible
+Haiti,2021-08-26,28,70.125,Partly cloudy
+Haiti,2021-08-27,30,67.5,Partly cloudy
+Haiti,2021-08-28,30,64.25,Partly cloudy
+Haiti,2021-08-29,30,71.0,Partly cloudy
+Haiti,2021-08-30,29,73.125,Patchy rain possible
+Haiti,2021-08-31,28,74.25,Patchy rain possible
+Haiti,2021-09-01,25,76.75,Patchy rain possible
+Haiti,2021-09-01,25,76.75,Patchy rain possible
+Haiti,2021-09-02,27,69.375,Partly cloudy
+Haiti,2021-09-03,29,72.25,Patchy rain possible
+Haiti,2021-09-04,30,69.625,Partly cloudy
+Haiti,2021-09-05,30,70.0,Light rain shower
+Haiti,2021-09-06,31,71.875,Patchy rain possible
+Haiti,2021-09-07,30,74.0,Patchy rain possible
+Haiti,2021-09-08,28,72.875,Patchy rain possible
+Haiti,2021-09-09,27,72.75,Patchy rain possible
+Haiti,2021-09-10,28,70.875,Partly cloudy
+Haiti,2021-09-11,29,70.25,Patchy rain possible
+Haiti,2021-09-12,29,66.625,Partly cloudy
+Haiti,2021-09-13,28,68.625,Partly cloudy
+Haiti,2021-09-14,27,74.0,Partly cloudy
+Haiti,2021-09-15,28,70.5,Patchy rain possible
+Haiti,2021-09-16,27,72.75,Patchy rain possible
+Haiti,2021-09-17,28,69.125,Patchy rain possible
+Haiti,2021-09-18,28,75.25,Partly cloudy
+Haiti,2021-09-19,27,78.625,Patchy rain possible
+Haiti,2021-09-20,27,75.75,Patchy rain possible
+Haiti,2021-09-21,27,74.25,Partly cloudy
+Haiti,2021-09-22,27,77.375,Partly cloudy
+Haiti,2021-09-23,27,77.625,Patchy rain possible
+Haiti,2021-09-24,28,72.0,Patchy rain possible
+Haiti,2021-09-25,28,78.875,Patchy rain possible
+Haiti,2021-09-26,27,75.0,Patchy rain possible
+Haiti,2021-09-27,27,78.75,Light rain shower
+Haiti,2021-09-28,26,78.0,Patchy rain possible
+Haiti,2021-09-29,26,79.125,Patchy rain possible
+Haiti,2021-09-30,26,77.25,Patchy rain possible
+Haiti,2021-10-01,24,81.875,Patchy rain possible
+Haiti,2021-10-01,24,81.875,Patchy rain possible
+Haiti,2021-10-02,27,73.75,Patchy rain possible
+Haiti,2021-10-03,24,78.5,Partly cloudy
+Haiti,2021-10-04,23,78.25,Partly cloudy
+Haiti,2021-10-05,26,71.125,Partly cloudy
+Haiti,2021-10-06,28,69.875,Partly cloudy
+Haiti,2021-10-07,27,72.375,Partly cloudy
+Haiti,2021-10-08,28,74.0,Partly cloudy
+Haiti,2021-10-09,27,74.25,Patchy rain possible
+Haiti,2021-10-10,27,73.875,Patchy rain possible
+Haiti,2021-10-11,27,72.5,Partly cloudy
+Haiti,2021-10-12,27,79.25,Partly cloudy
+Haiti,2021-10-13,25,81.875,Patchy rain possible
+Haiti,2021-10-14,25,75.125,Patchy rain possible
+Haiti,2021-10-15,27,75.25,Partly cloudy
+Haiti,2021-10-16,27,78.875,Patchy rain possible
+Haiti,2021-10-17,27,80.25,Patchy rain possible
+Haiti,2021-10-18,26,79.375,Patchy rain possible
+Haiti,2021-10-19,26,82.25,Patchy rain possible
+Haiti,2021-10-20,26,82.0,Patchy rain possible
+Haiti,2021-10-21,27,77.75,Partly cloudy
+Haiti,2021-10-22,27,76.125,Patchy rain possible
+Haiti,2021-10-23,27,74.5,Clear
+Haiti,2021-10-24,27,68.5,Clear
+Haiti,2021-10-25,27,63.375,Clear
+Haiti,2021-10-26,26,73.375,Clear
+Haiti,2021-10-27,25,76.0,Patchy rain possible
+Haiti,2021-10-28,27,71.875,Clear
+Haiti,2021-10-29,27,75.25,Partly cloudy
+Haiti,2021-10-30,26,76.375,Clear
+Haiti,2021-10-31,27,76.375,Clear
+Haiti,2021-11-01,27,74.375,Patchy rain possible
+Haiti,2021-11-01,27,74.375,Patchy rain possible
+Haiti,2021-11-02,27,76.125,Partly cloudy
+Haiti,2021-11-03,26,76.25,Patchy rain possible
+Haiti,2021-11-04,26,74.0,Patchy rain possible
+Haiti,2021-11-05,27,74.0,Clear
+Haiti,2021-11-06,27,74.125,Partly cloudy
+Haiti,2021-11-07,27,76.125,Clear
+Haiti,2021-11-08,26,75.5,Clear
+Haiti,2021-11-09,26,78.125,Patchy rain possible
+Haiti,2021-11-10,26,77.5,Partly cloudy
+Haiti,2021-11-11,26,75.125,Clear
+Haiti,2021-11-12,27,77.0,Clear
+Haiti,2021-11-13,25,78.375,Clear
+Haiti,2021-11-14,27,71.5,Clear
+Haiti,2021-11-15,27,72.625,Clear
+Haiti,2021-11-16,26,73.0,Clear
+Haiti,2021-11-17,26,77.375,Partly cloudy
+Haiti,2021-11-18,25,75.625,Partly cloudy
+Haiti,2021-11-19,26,72.5,Clear
+Haiti,2021-11-20,25,70.5,Clear
+Haiti,2021-11-21,25,78.0,Clear
+Haiti,2021-11-22,25,79.875,Light rain shower
+Haiti,2021-11-23,26,79.75,Partly cloudy
+Haiti,2021-11-24,25,79.25,Clear
+Haiti,2021-11-25,24,80.5,Partly cloudy
+Haiti,2021-11-26,24,78.75,Clear
+Haiti,2021-11-27,24,73.125,Patchy rain possible
+Haiti,2021-11-28,24,70.75,Patchy rain possible
+Haiti,2021-11-29,24,73.5,Clear
+Haiti,2021-11-30,26,74.0,Partly cloudy
+Haiti,2021-12-01,25,76.75,Clear
+Greece,2020-01-01,6,57.5,Clear
+Greece,2020-01-02,5,63.5,Patchy rain possible
+Greece,2020-01-03,7,61.75,Clear
+Greece,2020-01-04,11,48.0,Cloudy
+Greece,2020-01-05,8,70.25,Overcast
+Greece,2020-01-06,4,85.25,Moderate rain
+Greece,2020-01-07,4,82.875,Moderate or heavy sleet
+Greece,2020-01-08,5,64.875,Clear
+Greece,2020-01-09,6,63.375,Partly cloudy
+Greece,2020-01-10,10,57.875,Partly cloudy
+Greece,2020-01-11,9,62.25,Partly cloudy
+Greece,2020-01-12,9,76.0,Clear
+Greece,2020-01-13,10,76.875,Cloudy
+Greece,2020-01-14,10,73.375,Partly cloudy
+Greece,2020-01-15,9,76.125,Cloudy
+Greece,2020-01-16,8,72.125,Partly cloudy
+Greece,2020-01-17,7,72.125,Partly cloudy
+Greece,2020-01-18,8,72.0,Partly cloudy
+Greece,2020-01-19,8,73.0,Clear
+Greece,2020-01-20,7,73.875,Partly cloudy
+Greece,2020-01-21,6,67.875,Partly cloudy
+Greece,2020-01-22,10,58.0,Clear
+Greece,2020-01-23,9,54.125,Partly cloudy
+Greece,2020-01-24,9,62.375,Clear
+Greece,2020-01-25,10,72.375,Clear
+Greece,2020-01-26,11,73.625,Overcast
+Greece,2020-01-27,13,80.625,Partly cloudy
+Greece,2020-01-28,12,71.75,Partly cloudy
+Greece,2020-01-29,13,75.375,Overcast
+Greece,2020-01-30,14,67.5,Partly cloudy
+Greece,2020-01-31,12,62.625,Partly cloudy
+Greece,2020-02-01,14,66.5,Clear
+Greece,2020-02-01,14,66.5,Clear
+Greece,2020-02-02,13,72.375,Partly cloudy
+Greece,2020-02-03,14,77.25,Partly cloudy
+Greece,2020-02-04,14,76.0,Partly cloudy
+Greece,2020-02-05,10,66.75,Partly cloudy
+Greece,2020-02-06,5,68.75,Patchy rain possible
+Greece,2020-02-07,5,63.0,Patchy heavy snow
+Greece,2020-02-08,4,67.375,Partly cloudy
+Greece,2020-02-09,8,67.125,Partly cloudy
+Greece,2020-02-10,10,76.25,Partly cloudy
+Greece,2020-02-11,13,74.875,Partly cloudy
+Greece,2020-02-12,15,71.75,Partly cloudy
+Greece,2020-02-13,13,72.875,Cloudy
+Greece,2020-02-14,12,71.625,Partly cloudy
+Greece,2020-02-15,11,84.25,Moderate or heavy rain shower
+Greece,2020-02-16,9,72.125,Partly cloudy
+Greece,2020-02-17,10,65.875,Clear
+Greece,2020-02-18,13,53.375,Clear
+Greece,2020-02-19,13,63.875,Partly cloudy
+Greece,2020-02-20,13,73.375,Overcast
+Greece,2020-02-21,9,72.125,Moderate rain at times
+Greece,2020-02-22,8,67.375,Partly cloudy
+Greece,2020-02-23,10,65.125,Partly cloudy
+Greece,2020-02-24,13,56.875,Partly cloudy
+Greece,2020-02-25,15,63.25,Clear
+Greece,2020-02-26,14,70.875,Clear
+Greece,2020-02-27,13,69.625,Partly cloudy
+Greece,2020-02-28,11,56.0,Partly cloudy
+Greece,2020-02-29,10,49.75,Clear
+Greece,2020-03-01,11,59.375,Partly cloudy
+Greece,2020-03-01,11,59.375,Partly cloudy
+Greece,2020-03-02,14,67.875,Clear
+Greece,2020-03-03,15,69.75,Partly cloudy
+Greece,2020-03-04,15,70.75,Partly cloudy
+Greece,2020-03-05,13,62.125,Partly cloudy
+Greece,2020-03-06,13,67.375,Partly cloudy
+Greece,2020-03-07,15,71.25,Partly cloudy
+Greece,2020-03-08,16,74.375,Overcast
+Greece,2020-03-09,12,80.25,Heavy rain at times
+Greece,2020-03-10,13,64.5,Partly cloudy
+Greece,2020-03-11,14,61.875,Partly cloudy
+Greece,2020-03-12,14,61.875,Partly cloudy
+Greece,2020-03-13,17,57.125,Clear
+Greece,2020-03-14,18,51.375,Partly cloudy
+Greece,2020-03-15,16,69.625,Partly cloudy
+Greece,2020-03-16,8,64.375,Light drizzle
+Greece,2020-03-17,10,53.25,Clear
+Greece,2020-03-18,11,53.0,Partly cloudy
+Greece,2020-03-19,10,52.75,Light drizzle
+Greece,2020-03-20,13,47.75,Partly cloudy
+Greece,2020-03-21,18,54.5,Clear
+Greece,2020-03-22,15,71.375,Overcast
+Greece,2020-03-23,14,75.0,Patchy rain possible
+Greece,2020-03-24,14,71.125,Moderate rain
+Greece,2020-03-25,12,74.5,Patchy rain possible
+Greece,2020-03-26,11,84.75,Patchy rain possible
+Greece,2020-03-27,10,87.75,Patchy rain possible
+Greece,2020-03-28,12,68.5,Partly cloudy
+Greece,2020-03-29,14,70.75,Partly cloudy
+Greece,2020-03-30,14,71.875,Partly cloudy
+Greece,2020-03-31,15,64.75,Overcast
+Greece,2020-04-01,13,73.25,Partly cloudy
+Greece,2020-04-01,13,73.25,Partly cloudy
+Greece,2020-04-02,11,64.5,Light rain shower
+Greece,2020-04-03,11,75.75,Partly cloudy
+Greece,2020-04-04,11,84.875,Overcast
+Greece,2020-04-05,12,87.125,Torrential rain shower
+Greece,2020-04-06,10,78.0,Patchy light rain
+Greece,2020-04-07,9,74.75,Light rain
+Greece,2020-04-08,10,62.25,Partly cloudy
+Greece,2020-04-09,12,50.375,Partly cloudy
+Greece,2020-04-10,16,50.625,Clear
+Greece,2020-04-11,18,47.25,Clear
+Greece,2020-04-12,16,56.0,Partly cloudy
+Greece,2020-04-13,17,55.0,Partly cloudy
+Greece,2020-04-14,18,56.75,Partly cloudy
+Greece,2020-04-15,15,70.125,Partly cloudy
+Greece,2020-04-16,13,58.5,Partly cloudy
+Greece,2020-04-17,17,42.5,Clear
+Greece,2020-04-18,20,56.0,Clear
+Greece,2020-04-19,20,53.875,Partly cloudy
+Greece,2020-04-20,20,58.0,Partly cloudy
+Greece,2020-04-21,17,68.5,Partly cloudy
+Greece,2020-04-22,13,64.125,Partly cloudy
+Greece,2020-04-23,12,53.625,Partly cloudy
+Greece,2020-04-24,14,51.5,Cloudy
+Greece,2020-04-25,18,45.125,Clear
+Greece,2020-04-26,18,56.0,Clear
+Greece,2020-04-27,19,55.75,Partly cloudy
+Greece,2020-04-28,20,60.375,Partly cloudy
+Greece,2020-04-29,20,55.125,Partly cloudy
+Greece,2020-04-30,22,51.375,Partly cloudy
+Greece,2020-05-01,21,53.5,Partly cloudy
+Greece,2020-05-01,21,53.5,Partly cloudy
+Greece,2020-05-02,21,51.0,Partly cloudy
+Greece,2020-05-03,20,59.5,Partly cloudy
+Greece,2020-05-04,17,55.75,Patchy rain possible
+Greece,2020-05-05,19,48.5,Partly cloudy
+Greece,2020-05-06,21,50.125,Partly cloudy
+Greece,2020-05-07,15,69.25,Overcast
+Greece,2020-05-08,18,50.125,Partly cloudy
+Greece,2020-05-09,21,48.375,Partly cloudy
+Greece,2020-05-10,22,47.75,Partly cloudy
+Greece,2020-05-11,23,47.75,Partly cloudy
+Greece,2020-05-12,26,41.5,Partly cloudy
+Greece,2020-05-13,27,40.875,Clear
+Greece,2020-05-14,27,47.25,Partly cloudy
+Greece,2020-05-15,30,31.75,Partly cloudy
+Greece,2020-05-16,33,26.75,Partly cloudy
+Greece,2020-05-17,32,34.125,Clear
+Greece,2020-05-18,32,38.875,Clear
+Greece,2020-05-19,29,47.125,Clear
+Greece,2020-05-20,26,52.375,Partly cloudy
+Greece,2020-05-21,24,52.125,Clear
+Greece,2020-05-22,19,59.0,Patchy rain possible
+Greece,2020-05-23,21,45.75,Partly cloudy
+Greece,2020-05-24,20,48.875,Partly cloudy
+Greece,2020-05-25,21,59.375,Partly cloudy
+Greece,2020-05-26,19,58.875,Light rain shower
+Greece,2020-05-27,17,62.75,Moderate or heavy rain shower
+Greece,2020-05-28,19,56.0,Partly cloudy
+Greece,2020-05-29,20,55.875,Partly cloudy
+Greece,2020-05-30,21,51.25,Partly cloudy
+Greece,2020-05-31,21,54.25,Partly cloudy
+Greece,2020-06-01,22,52.75,Partly cloudy
+Greece,2020-06-01,22,52.75,Partly cloudy
+Greece,2020-06-02,21,56.875,Moderate or heavy rain shower
+Greece,2020-06-03,21,61.25,Partly cloudy
+Greece,2020-06-04,23,57.25,Partly cloudy
+Greece,2020-06-05,22,58.625,Clear
+Greece,2020-06-06,23,63.25,Partly cloudy
+Greece,2020-06-07,24,56.875,Partly cloudy
+Greece,2020-06-08,26,53.625,Partly cloudy
+Greece,2020-06-09,27,50.25,Partly cloudy
+Greece,2020-06-10,26,48.0,Partly cloudy
+Greece,2020-06-11,25,38.875,Partly cloudy
+Greece,2020-06-12,25,44.0,Partly cloudy
+Greece,2020-06-13,26,47.125,Partly cloudy
+Greece,2020-06-14,27,45.125,Partly cloudy
+Greece,2020-06-15,28,37.5,Clear
+Greece,2020-06-16,27,46.5,Partly cloudy
+Greece,2020-06-17,26,46.0,Clear
+Greece,2020-06-18,27,46.75,Partly cloudy
+Greece,2020-06-19,29,40.0,Partly cloudy
+Greece,2020-06-20,29,41.25,Partly cloudy
+Greece,2020-06-21,27,48.625,Partly cloudy
+Greece,2020-06-22,25,56.5,Partly cloudy
+Greece,2020-06-23,25,61.5,Patchy light rain with thunder
+Greece,2020-06-24,25,63.375,Partly cloudy
+Greece,2020-06-25,26,58.25,Partly cloudy
+Greece,2020-06-26,26,57.5,Partly cloudy
+Greece,2020-06-27,26,56.625,Partly cloudy
+Greece,2020-06-28,27,43.625,Clear
+Greece,2020-06-29,29,39.0,Clear
+Greece,2020-06-30,32,40.75,Partly cloudy
+Greece,2020-07-01,31,40.0,Partly cloudy
+Greece,2020-07-01,31,40.0,Partly cloudy
+Greece,2020-07-02,30,43.625,Clear
+Greece,2020-07-03,31,45.75,Clear
+Greece,2020-07-04,32,46.25,Partly cloudy
+Greece,2020-07-05,30,45.0,Partly cloudy
+Greece,2020-07-06,28,57.5,Clear
+Greece,2020-07-07,28,55.25,Partly cloudy
+Greece,2020-07-08,27,56.125,Partly cloudy
+Greece,2020-07-09,26,52.875,Partly cloudy
+Greece,2020-07-10,26,53.125,Clear
+Greece,2020-07-11,27,53.625,Clear
+Greece,2020-07-12,28,47.125,Clear
+Greece,2020-07-13,27,51.0,Partly cloudy
+Greece,2020-07-14,25,50.75,Partly cloudy
+Greece,2020-07-15,26,45.0,Partly cloudy
+Greece,2020-07-16,28,49.5,Partly cloudy
+Greece,2020-07-17,28,43.25,Partly cloudy
+Greece,2020-07-18,29,40.625,Partly cloudy
+Greece,2020-07-19,29,42.375,Partly cloudy
+Greece,2020-07-20,30,46.375,Partly cloudy
+Greece,2020-07-21,30,42.125,Partly cloudy
+Greece,2020-07-22,29,43.0,Partly cloudy
+Greece,2020-07-23,28,43.625,Clear
+Greece,2020-07-24,28,42.75,Clear
+Greece,2020-07-25,30,38.625,Partly cloudy
+Greece,2020-07-26,31,41.75,Partly cloudy
+Greece,2020-07-27,31,42.625,Partly cloudy
+Greece,2020-07-28,30,41.75,Partly cloudy
+Greece,2020-07-29,31,38.75,Partly cloudy
+Greece,2020-07-30,32,35.25,Clear
+Greece,2020-07-31,33,34.125,Clear
+Greece,2020-08-01,35,31.5,Partly cloudy
+Greece,2020-08-01,35,31.5,Partly cloudy
+Greece,2020-08-02,31,43.75,Partly cloudy
+Greece,2020-08-03,29,42.75,Partly cloudy
+Greece,2020-08-04,30,40.875,Partly cloudy
+Greece,2020-08-05,30,46.0,Partly cloudy
+Greece,2020-08-06,28,55.25,Clear
+Greece,2020-08-07,27,60.875,Partly cloudy
+Greece,2020-08-08,28,56.875,Partly cloudy
+Greece,2020-08-09,27,56.0,Light rain shower
+Greece,2020-08-10,28,46.25,Partly cloudy
+Greece,2020-08-11,29,38.25,Partly cloudy
+Greece,2020-08-12,31,33.875,Partly cloudy
+Greece,2020-08-13,31,35.75,Partly cloudy
+Greece,2020-08-14,30,37.625,Partly cloudy
+Greece,2020-08-15,30,35.75,Partly cloudy
+Greece,2020-08-16,29,40.0,Partly cloudy
+Greece,2020-08-17,27,45.125,Partly cloudy
+Greece,2020-08-18,29,43.875,Partly cloudy
+Greece,2020-08-19,30,44.75,Partly cloudy
+Greece,2020-08-20,29,42.5,Partly cloudy
+Greece,2020-08-21,28,43.625,Partly cloudy
+Greece,2020-08-22,30,37.25,Partly cloudy
+Greece,2020-08-23,31,34.875,Partly cloudy
+Greece,2020-08-24,31,39.5,Partly cloudy
+Greece,2020-08-25,31,40.625,Partly cloudy
+Greece,2020-08-26,31,45.5,Patchy rain possible
+Greece,2020-08-27,31,42.75,Partly cloudy
+Greece,2020-08-28,31,33.5,Clear
+Greece,2020-08-29,32,35.375,Clear
+Greece,2020-08-30,33,35.5,Clear
+Greece,2020-08-31,33,29.75,Clear
+Greece,2020-09-01,34,31.75,Clear
+Greece,2020-09-01,34,31.75,Clear
+Greece,2020-09-02,32,47.75,Clear
+Greece,2020-09-03,31,47.25,Clear
+Greece,2020-09-04,31,41.875,Partly cloudy
+Greece,2020-09-05,26,48.0,Partly cloudy
+Greece,2020-09-06,28,36.75,Clear
+Greece,2020-09-07,29,35.125,Clear
+Greece,2020-09-08,30,34.75,Clear
+Greece,2020-09-09,28,48.25,Clear
+Greece,2020-09-10,27,43.25,Clear
+Greece,2020-09-11,26,47.875,Clear
+Greece,2020-09-12,25,54.5,Clear
+Greece,2020-09-13,26,54.75,Partly cloudy
+Greece,2020-09-14,27,43.25,Partly cloudy
+Greece,2020-09-15,25,54.625,Partly cloudy
+Greece,2020-09-16,25,57.5,Partly cloudy
+Greece,2020-09-17,26,60.375,Partly cloudy
+Greece,2020-09-18,25,73.875,Cloudy
+Greece,2020-09-19,24,66.125,Light rain shower
+Greece,2020-09-20,21,58.25,Partly cloudy
+Greece,2020-09-21,22,57.0,Clear
+Greece,2020-09-22,24,53.5,Partly cloudy
+Greece,2020-09-23,25,58.625,Partly cloudy
+Greece,2020-09-24,26,55.75,Partly cloudy
+Greece,2020-09-25,27,52.5,Partly cloudy
+Greece,2020-09-26,27,57.0,Partly cloudy
+Greece,2020-09-27,23,51.5,Clear
+Greece,2020-09-28,25,61.25,Partly cloudy
+Greece,2020-09-29,24,60.625,Partly cloudy
+Greece,2020-09-30,23,47.75,Partly cloudy
+Greece,2020-10-01,22,55.625,Partly cloudy
+Greece,2020-10-01,22,55.625,Partly cloudy
+Greece,2020-10-02,23,56.625,Partly cloudy
+Greece,2020-10-03,24,70.875,Partly cloudy
+Greece,2020-10-04,25,69.25,Partly cloudy
+Greece,2020-10-05,27,58.75,Partly cloudy
+Greece,2020-10-06,30,43.0,Partly cloudy
+Greece,2020-10-07,29,44.5,Partly cloudy
+Greece,2020-10-08,24,47.625,Thundery outbreaks possible
+Greece,2020-10-09,22,51.25,Partly cloudy
+Greece,2020-10-10,22,54.0,Partly cloudy
+Greece,2020-10-11,23,61.0,Partly cloudy
+Greece,2020-10-12,23,68.125,Overcast
+Greece,2020-10-13,22,59.0,Light rain shower
+Greece,2020-10-14,21,53.25,Partly cloudy
+Greece,2020-10-15,22,58.0,Clear
+Greece,2020-10-16,23,64.125,Partly cloudy
+Greece,2020-10-17,24,58.875,Partly cloudy
+Greece,2020-10-18,22,52.125,Clear
+Greece,2020-10-19,19,63.625,Partly cloudy
+Greece,2020-10-20,17,56.25,Partly cloudy
+Greece,2020-10-21,16,69.25,Partly cloudy
+Greece,2020-10-22,20,57.875,Partly cloudy
+Greece,2020-10-23,22,49.25,Partly cloudy
+Greece,2020-10-24,23,52.75,Clear
+Greece,2020-10-25,22,56.0,Overcast
+Greece,2020-10-26,22,60.0,Partly cloudy
+Greece,2020-10-27,20,66.0,Partly cloudy
+Greece,2020-10-28,18,74.5,Partly cloudy
+Greece,2020-10-29,19,65.75,Partly cloudy
+Greece,2020-10-30,19,60.375,Partly cloudy
+Greece,2020-10-31,17,49.25,Partly cloudy
+Greece,2020-11-01,19,56.0,Partly cloudy
+Greece,2020-11-01,19,56.0,Partly cloudy
+Greece,2020-11-02,18,60.5,Partly cloudy
+Greece,2020-11-03,18,67.625,Partly cloudy
+Greece,2020-11-04,18,68.125,Partly cloudy
+Greece,2020-11-05,16,63.875,Partly cloudy
+Greece,2020-11-06,15,70.25,Partly cloudy
+Greece,2020-11-07,14,60.875,Partly cloudy
+Greece,2020-11-08,14,69.125,Partly cloudy
+Greece,2020-11-09,15,72.875,Cloudy
+Greece,2020-11-10,15,74.625,Partly cloudy
+Greece,2020-11-11,15,70.875,Partly cloudy
+Greece,2020-11-12,15,70.375,Partly cloudy
+Greece,2020-11-13,15,65.625,Partly cloudy
+Greece,2020-11-14,15,67.75,Partly cloudy
+Greece,2020-11-15,15,65.125,Partly cloudy
+Greece,2020-11-16,16,64.125,Partly cloudy
+Greece,2020-11-17,16,70.5,Partly cloudy
+Greece,2020-11-18,14,72.5,Partly cloudy
+Greece,2020-11-19,13,70.625,Patchy rain possible
+Greece,2020-11-20,12,64.75,Partly cloudy
+Greece,2020-11-21,12,67.375,Partly cloudy
+Greece,2020-11-22,12,70.625,Patchy rain possible
+Greece,2020-11-23,12,69.375,Partly cloudy
+Greece,2020-11-24,12,71.625,Partly cloudy
+Greece,2020-11-25,10,66.125,Partly cloudy
+Greece,2020-11-26,11,65.0,Clear
+Greece,2020-11-27,14,64.0,Clear
+Greece,2020-11-28,13,63.375,Clear
+Greece,2020-11-29,15,76.0,Partly cloudy
+Greece,2020-11-30,13,81.75,Heavy rain
+Greece,2020-12-01,11,78.0,Cloudy
+Greece,2021-01-01,13,64.625,Clear
+Greece,2021-01-02,13,70.0,Clear
+Greece,2021-01-03,15,75.125,Light rain shower
+Greece,2021-01-04,14,82.5,Patchy rain possible
+Greece,2021-01-05,13,68.125,Clear
+Greece,2021-01-06,12,70.5,Overcast
+Greece,2021-01-07,13,70.5,Partly cloudy
+Greece,2021-01-08,15,82.125,Partly cloudy
+Greece,2021-01-09,17,85.625,Cloudy
+Greece,2021-01-10,17,79.375,Partly cloudy
+Greece,2021-01-11,18,78.5,Partly cloudy
+Greece,2021-01-12,16,83.5,Partly cloudy
+Greece,2021-01-13,12,66.125,Partly cloudy
+Greece,2021-01-14,9,67.125,Moderate rain at times
+Greece,2021-01-15,7,66.5,Partly cloudy
+Greece,2021-01-16,5,80.0,Overcast
+Greece,2021-01-17,3,70.0,Patchy sleet possible
+Greece,2021-01-18,3,79.0,Overcast
+Greece,2021-01-19,5,69.5,Partly cloudy
+Greece,2021-01-20,8,57.625,Clear
+Greece,2021-01-21,10,69.5,Overcast
+Greece,2021-01-22,11,75.75,Partly cloudy
+Greece,2021-01-23,12,74.875,Partly cloudy
+Greece,2021-01-24,13,72.125,Patchy rain possible
+Greece,2021-01-25,13,65.125,Partly cloudy
+Greece,2021-01-26,14,72.75,Partly cloudy
+Greece,2021-01-27,6,62.625,Moderate rain
+Greece,2021-01-28,8,43.375,Partly cloudy
+Greece,2021-01-29,9,55.875,Partly cloudy
+Greece,2021-01-30,14,71.875,Partly cloudy
+Greece,2021-01-31,13,77.0,Partly cloudy
+Greece,2021-02-01,14,79.875,Patchy rain possible
+Greece,2021-02-01,14,79.875,Patchy rain possible
+Greece,2021-02-02,14,80.875,Partly cloudy
+Greece,2021-02-03,14,73.375,Partly cloudy
+Greece,2021-02-04,16,69.75,Partly cloudy
+Greece,2021-02-05,15,65.5,Partly cloudy
+Greece,2021-02-06,16,64.5,Partly cloudy
+Greece,2021-02-07,16,60.125,Clear
+Greece,2021-02-08,16,72.75,Partly cloudy
+Greece,2021-02-09,14,70.375,Partly cloudy
+Greece,2021-02-10,14,70.0,Partly cloudy
+Greece,2021-02-11,14,69.0,Cloudy
+Greece,2021-02-12,13,65.25,Clear
+Greece,2021-02-13,9,76.0,Overcast
+Greece,2021-02-14,4,88.75,Moderate rain
+Greece,2021-02-15,2,77.5,Patchy heavy snow
+Greece,2021-02-16,0,81.25,Patchy heavy snow
+Greece,2021-02-17,4,65.375,Cloudy
+Greece,2021-02-18,8,61.125,Cloudy
+Greece,2021-02-19,12,60.875,Partly cloudy
+Greece,2021-02-20,11,70.375,Partly cloudy
+Greece,2021-02-21,9,74.875,Partly cloudy
+Greece,2021-02-22,11,68.375,Partly cloudy
+Greece,2021-02-23,13,57.875,Partly cloudy
+Greece,2021-02-24,13,59.625,Clear
+Greece,2021-02-25,11,73.375,Partly cloudy
+Greece,2021-02-26,14,72.875,Partly cloudy
+Greece,2021-02-27,16,58.375,Clear
+Greece,2021-02-28,12,70.0,Clear
+Greece,2021-03-01,11,65.25,Partly cloudy
+Greece,2021-03-01,11,65.25,Partly cloudy
+Greece,2021-03-02,9,63.25,Cloudy
+Greece,2021-03-03,10,63.5,Partly cloudy
+Greece,2021-03-04,14,52.25,Clear
+Greece,2021-03-05,14,58.5,Partly cloudy
+Greece,2021-03-06,15,58.5,Partly cloudy
+Greece,2021-03-07,11,72.25,Partly cloudy
+Greece,2021-03-08,12,70.625,Cloudy
+Greece,2021-03-09,14,68.0,Partly cloudy
+Greece,2021-03-10,14,62.625,Partly cloudy
+Greece,2021-03-11,10,71.875,Partly cloudy
+Greece,2021-03-12,11,65.75,Partly cloudy
+Greece,2021-03-13,14,68.0,Partly cloudy
+Greece,2021-03-14,15,70.75,Partly cloudy
+Greece,2021-03-15,14,63.5,Partly cloudy
+Greece,2021-03-16,12,52.125,Overcast
+Greece,2021-03-17,12,52.25,Partly cloudy
+Greece,2021-03-18,11,52.375,Partly cloudy
+Greece,2021-03-19,13,66.25,Overcast
+Greece,2021-03-20,12,84.375,Overcast
+Greece,2021-03-21,15,81.25,Cloudy
+Greece,2021-03-22,15,69.125,Mist
+Greece,2021-03-23,9,72.375,Overcast
+Greece,2021-03-24,9,58.25,Patchy rain possible
+Greece,2021-03-25,7,68.5,Patchy rain possible
+Greece,2021-03-26,10,56.625,Partly cloudy
+Greece,2021-03-27,12,65.375,Partly cloudy
+Greece,2021-03-28,14,62.0,Partly cloudy
+Greece,2021-03-29,16,57.625,Clear
+Greece,2021-03-30,12,62.25,Partly cloudy
+Greece,2021-03-31,10,60.5,Light drizzle
+Greece,2021-04-01,9,67.375,Partly cloudy
+Greece,2021-04-01,9,67.375,Partly cloudy
+Greece,2021-04-02,14,60.875,Partly cloudy
+Greece,2021-04-03,16,67.625,Partly cloudy
+Greece,2021-04-04,17,70.875,Partly cloudy
+Greece,2021-04-05,15,77.25,Patchy light rain
+Greece,2021-04-06,17,73.875,Partly cloudy
+Greece,2021-04-07,17,60.25,Clear
+Greece,2021-04-08,10,57.75,Partly cloudy
+Greece,2021-04-09,10,46.25,Partly cloudy
+Greece,2021-04-10,13,45.0,Partly cloudy
+Greece,2021-04-11,14,49.0,Clear
+Greece,2021-04-12,15,52.25,Partly cloudy
+Greece,2021-04-13,16,63.5,Partly cloudy
+Greece,2021-04-14,18,58.875,Partly cloudy
+Greece,2021-04-15,17,56.375,Clear
+Greece,2021-04-16,16,67.25,Partly cloudy
+Greece,2021-04-17,18,66.5,Patchy rain possible
+Greece,2021-04-18,18,73.875,Clear
+Greece,2021-04-19,17,63.375,Patchy rain possible
+Greece,2021-04-20,16,52.375,Partly cloudy
+Greece,2021-04-21,17,50.75,Partly cloudy
+Greece,2021-04-22,18,49.5,Partly cloudy
+Greece,2021-04-23,19,55.375,Partly cloudy
+Greece,2021-04-24,15,74.125,Patchy light drizzle
+Greece,2021-04-25,14,74.0,Thundery outbreaks possible
+Greece,2021-04-26,18,61.125,Clear
+Greece,2021-04-27,18,61.25,Partly cloudy
+Greece,2021-04-28,20,58.875,Cloudy
+Greece,2021-04-29,22,56.5,Clear
+Greece,2021-04-30,25,51.375,Partly cloudy
+Greece,2021-05-01,26,44.0,Cloudy
+Greece,2021-05-01,26,44.0,Cloudy
+Greece,2021-05-02,26,37.0,Partly cloudy
+Greece,2021-05-03,28,33.75,Partly cloudy
+Greece,2021-05-04,24,49.875,Partly cloudy
+Greece,2021-05-05,22,45.75,Partly cloudy
+Greece,2021-05-06,23,53.75,Partly cloudy
+Greece,2021-05-07,24,50.625,Partly cloudy
+Greece,2021-05-08,25,48.25,Overcast
+Greece,2021-05-09,18,56.625,Cloudy
+Greece,2021-05-10,18,47.375,Clear
+Greece,2021-05-11,20,41.5,Partly cloudy
+Greece,2021-05-12,21,40.625,Partly cloudy
+Greece,2021-05-13,22,53.5,Clear
+Greece,2021-05-14,23,47.5,Clear
+Greece,2021-05-15,22,45.75,Partly cloudy
+Greece,2021-05-16,21,53.625,Partly cloudy
+Greece,2021-05-17,23,54.125,Partly cloudy
+Greece,2021-05-18,26,45.125,Clear
+Greece,2021-05-19,26,48.5,Partly cloudy
+Greece,2021-05-20,25,33.375,Clear
+Greece,2021-05-21,20,46.625,Clear
+Greece,2021-05-22,21,52.5,Partly cloudy
+Greece,2021-05-23,25,47.125,Partly cloudy
+Greece,2021-05-24,29,35.0,Clear
+Greece,2021-05-25,30,34.875,Clear
+Greece,2021-05-26,29,43.25,Partly cloudy
+Greece,2021-05-27,27,40.375,Clear
+Greece,2021-05-28,26,46.375,Clear
+Greece,2021-05-29,23,56.875,Partly cloudy
+Greece,2021-05-30,23,54.875,Partly cloudy
+Greece,2021-05-31,23,56.125,Partly cloudy
+Greece,2021-06-01,20,62.0,Patchy rain possible
+Greece,2021-06-01,20,62.0,Patchy rain possible
+Greece,2021-06-02,21,52.25,Patchy rain possible
+Greece,2021-06-03,23,54.75,Partly cloudy
+Greece,2021-06-04,23,50.125,Partly cloudy
+Greece,2021-06-05,24,45.75,Partly cloudy
+Greece,2021-06-06,25,51.0,Partly cloudy
+Greece,2021-06-07,27,45.25,Partly cloudy
+Greece,2021-06-08,25,58.625,Partly cloudy
+Greece,2021-06-09,23,63.75,Patchy rain possible
+Greece,2021-06-10,25,49.125,Partly cloudy
+Greece,2021-06-11,25,51.5,Partly cloudy
+Greece,2021-06-12,25,52.125,Partly cloudy
+Greece,2021-06-13,24,59.375,Partly cloudy
+Greece,2021-06-14,24,44.75,Partly cloudy
+Greece,2021-06-15,20,50.375,Partly cloudy
+Greece,2021-06-16,24,46.5,Partly cloudy
+Greece,2021-06-17,26,48.5,Partly cloudy
+Greece,2021-06-18,27,43.125,Partly cloudy
+Greece,2021-06-19,27,53.0,Partly cloudy
+Greece,2021-06-20,27,56.875,Partly cloudy
+Greece,2021-06-21,28,57.0,Partly cloudy
+Greece,2021-06-22,29,54.0,Patchy rain possible
+Greece,2021-06-23,31,49.125,Clear
+Greece,2021-06-24,36,42.0,Partly cloudy
+Greece,2021-06-25,35,39.625,Partly cloudy
+Greece,2021-06-26,33,41.125,Partly cloudy
+Greece,2021-06-27,33,39.625,Partly cloudy
+Greece,2021-06-28,31,42.5,Partly cloudy
+Greece,2021-06-29,32,40.5,Partly cloudy
+Greece,2021-06-30,35,38.5,Partly cloudy
+Greece,2021-07-01,35,37.625,Partly cloudy
+Greece,2021-07-01,35,37.625,Partly cloudy
+Greece,2021-07-02,34,30.625,Clear
+Greece,2021-07-03,29,46.5,Partly cloudy
+Greece,2021-07-04,28,46.5,Partly cloudy
+Greece,2021-07-05,30,49.0,Partly cloudy
+Greece,2021-07-06,30,47.375,Partly cloudy
+Greece,2021-07-07,31,42.875,Partly cloudy
+Greece,2021-07-08,31,42.5,Partly cloudy
+Greece,2021-07-09,29,47.25,Partly cloudy
+Greece,2021-07-10,29,40.125,Partly cloudy
+Greece,2021-07-11,29,38.625,Partly cloudy
+Greece,2021-07-12,30,36.875,Partly cloudy
+Greece,2021-07-13,32,33.625,Partly cloudy
+Greece,2021-07-14,32,33.375,Partly cloudy
+Greece,2021-07-15,33,32.625,Clear
+Greece,2021-07-16,33,33.125,Clear
+Greece,2021-07-17,32,41.5,Clear
+Greece,2021-07-18,31,51.125,Partly cloudy
+Greece,2021-07-19,29,58.0,Clear
+Greece,2021-07-20,29,58.0,Partly cloudy
+Greece,2021-07-21,31,47.25,Partly cloudy
+Greece,2021-07-22,29,42.125,Partly cloudy
+Greece,2021-07-23,28,40.5,Partly cloudy
+Greece,2021-07-24,28,39.0,Partly cloudy
+Greece,2021-07-25,28,39.375,Partly cloudy
+Greece,2021-07-26,29,33.375,Clear
+Greece,2021-07-27,32,26.625,Clear
+Greece,2021-07-28,33,26.375,Clear
+Greece,2021-07-29,34,27.0,Clear
+Greece,2021-07-30,36,24.375,Partly cloudy
+Greece,2021-07-31,37,25.875,Partly cloudy
+Greece,2021-08-01,38,25.25,Clear
+Greece,2021-08-01,38,25.25,Clear
+Greece,2021-08-02,39,26.5,Clear
+Greece,2021-08-03,39,17.625,Clear
+Greece,2021-08-04,39,20.75,Partly cloudy
+Greece,2021-08-05,39,24.5,Partly cloudy
+Greece,2021-08-06,35,22.625,Partly cloudy
+Greece,2021-08-07,30,40.125,Partly cloudy
+Greece,2021-08-08,33,30.625,Clear
+Greece,2021-08-09,36,29.5,Clear
+Greece,2021-08-10,35,29.75,Clear
+Greece,2021-08-11,34,35.5,Clear
+Greece,2021-08-12,30,40.25,Partly cloudy
+Greece,2021-08-13,31,32.5,Partly cloudy
+Greece,2021-08-14,29,38.5,Partly cloudy
+Greece,2021-08-15,29,37.125,Clear
+Greece,2021-08-16,30,32.75,Clear
+Greece,2021-08-17,32,31.5,Clear
+Greece,2021-08-18,32,35.5,Clear
+Greece,2021-08-19,32,36.0,Partly cloudy
+Greece,2021-08-20,30,39.75,Partly cloudy
+Greece,2021-08-21,29,34.25,Clear
+Greece,2021-08-22,28,42.25,Clear
+Greece,2021-08-23,29,37.75,Clear
+Greece,2021-08-24,29,36.5,Clear
+Greece,2021-08-25,32,33.0,Clear
+Greece,2021-08-26,32,40.875,Partly cloudy
+Greece,2021-08-27,32,48.625,Partly cloudy
+Greece,2021-08-28,31,48.625,Partly cloudy
+Greece,2021-08-29,31,46.0,Clear
+Greece,2021-08-30,31,44.625,Clear
+Greece,2021-08-31,29,52.0,Partly cloudy
+Greece,2021-09-01,30,44.625,Partly cloudy
+Greece,2021-09-01,30,44.625,Partly cloudy
+Greece,2021-09-02,27,50.875,Partly cloudy
+Greece,2021-09-03,26,45.5,Clear
+Greece,2021-09-04,27,50.25,Partly cloudy
+Greece,2021-09-05,26,44.625,Partly cloudy
+Greece,2021-09-06,24,51.75,Partly cloudy
+Greece,2021-09-07,21,54.25,Partly cloudy
+Greece,2021-09-08,21,67.125,Partly cloudy
+Greece,2021-09-09,21,64.5,Partly cloudy
+Greece,2021-09-10,23,56.125,Partly cloudy
+Greece,2021-09-11,26,50.5,Partly cloudy
+Greece,2021-09-12,26,41.0,Partly cloudy
+Greece,2021-09-13,26,42.75,Partly cloudy
+Greece,2021-09-14,26,39.625,Partly cloudy
+Greece,2021-09-15,29,34.5,Partly cloudy
+Greece,2021-09-16,29,39.25,Partly cloudy
+Greece,2021-09-17,29,44.25,Partly cloudy
+Greece,2021-09-18,33,37.0,Partly cloudy
+Greece,2021-09-19,33,33.625,Partly cloudy
+Greece,2021-09-20,31,38.5,Clear
+Greece,2021-09-21,30,37.625,Partly cloudy
+Greece,2021-09-22,24,57.5,Partly cloudy
+Greece,2021-09-23,18,61.0,Patchy rain possible
+Greece,2021-09-24,22,44.25,Clear
+Greece,2021-09-25,26,35.25,Clear
+Greece,2021-09-26,27,31.125,Clear
+Greece,2021-09-27,28,33.5,Clear
+Greece,2021-09-28,27,43.125,Partly cloudy
+Greece,2021-09-29,22,60.75,Partly cloudy
+Greece,2021-09-30,21,55.0,Partly cloudy
+Greece,2021-10-01,20,52.375,Partly cloudy
+Greece,2021-10-01,20,52.375,Partly cloudy
+Greece,2021-10-02,19,55.75,Partly cloudy
+Greece,2021-10-03,21,54.375,Clear
+Greece,2021-10-04,21,52.25,Overcast
+Greece,2021-10-05,22,55.875,Clear
+Greece,2021-10-06,20,57.25,Clear
+Greece,2021-10-07,20,55.25,Partly cloudy
+Greece,2021-10-08,22,68.875,Cloudy
+Greece,2021-10-09,18,73.125,Partly cloudy
+Greece,2021-10-10,19,76.625,Patchy rain possible
+Greece,2021-10-11,21,78.0,Patchy rain possible
+Greece,2021-10-12,20,56.25,Partly cloudy
+Greece,2021-10-13,18,66.5,Clear
+Greece,2021-10-14,18,79.75,Cloudy
+Greece,2021-10-15,15,82.25,Moderate or heavy rain shower
+Greece,2021-10-16,17,72.375,Patchy rain possible
+Greece,2021-10-17,17,71.75,Partly cloudy
+Greece,2021-10-18,17,67.75,Cloudy
+Greece,2021-10-19,18,66.625,Clear
+Greece,2021-10-20,18,63.25,Clear
+Greece,2021-10-21,19,63.625,Clear
+Greece,2021-10-22,20,63.75,Clear
+Greece,2021-10-23,20,68.75,Clear
+Greece,2021-10-24,19,69.0,Clear
+Greece,2021-10-25,14,64.625,Light drizzle
+Greece,2021-10-26,14,64.625,Partly cloudy
+Greece,2021-10-27,15,65.875,Clear
+Greece,2021-10-28,16,65.0,Clear
+Greece,2021-10-29,16,65.75,Clear
+Greece,2021-10-30,15,65.25,Clear
+Greece,2021-10-31,15,71.25,Clear
+Greece,2021-11-01,16,64.375,Clear
+Greece,2021-11-01,16,64.375,Clear
+Greece,2021-11-02,18,75.5,Partly cloudy
+Greece,2021-11-03,20,69.25,Clear
+Greece,2021-11-04,19,66.0,Clear
+Greece,2021-11-05,22,62.25,Overcast
+Greece,2021-11-06,23,57.375,Clear
+Greece,2021-11-07,20,58.5,Clear
+Greece,2021-11-08,20,57.25,Clear
+Greece,2021-11-09,19,82.0,Clear
+Greece,2021-11-10,15,76.5,Clear
+Greece,2021-11-11,12,62.125,Clear
+Greece,2021-11-12,14,64.75,Clear
+Greece,2021-11-13,13,65.25,Clear
+Greece,2021-11-14,15,69.5,Overcast
+Greece,2021-11-15,13,76.625,Cloudy
+Greece,2021-11-16,13,71.625,Partly cloudy
+Greece,2021-11-17,13,63.75,Partly cloudy
+Greece,2021-11-18,14,68.0,Clear
+Greece,2021-11-19,14,73.5,Partly cloudy
+Greece,2021-11-20,14,63.0,Partly cloudy
+Greece,2021-11-21,16,65.875,Clear
+Greece,2021-11-22,16,77.125,Partly cloudy
+Greece,2021-11-23,16,81.5,Overcast
+Greece,2021-11-24,13,83.0,Light drizzle
+Greece,2021-11-25,12,67.625,Clear
+Greece,2021-11-26,13,85.875,Overcast
+Greece,2021-11-27,16,77.375,Overcast
+Greece,2021-11-28,18,63.75,Clear
+Greece,2021-11-29,17,69.375,Clear
+Greece,2021-11-30,14,56.625,Partly cloudy
+Greece,2021-12-01,12,58.0,Clear
+Sweden,2020-01-01,2,73.75,Partly cloudy
+Sweden,2020-01-02,6,74.75,Partly cloudy
+Sweden,2020-01-03,5,71.0,Cloudy
+Sweden,2020-01-04,1,51.75,Overcast
+Sweden,2020-01-05,-1,68.75,Partly cloudy
+Sweden,2020-01-06,3,93.125,Light drizzle
+Sweden,2020-01-07,5,83.875,Overcast
+Sweden,2020-01-08,7,73.875,Partly cloudy
+Sweden,2020-01-09,2,80.875,Partly cloudy
+Sweden,2020-01-10,1,94.5,Cloudy
+Sweden,2020-01-11,2,66.625,Partly cloudy
+Sweden,2020-01-12,6,74.125,Overcast
+Sweden,2020-01-13,2,83.125,Overcast
+Sweden,2020-01-14,5,84.5,Partly cloudy
+Sweden,2020-01-15,9,78.875,Partly cloudy
+Sweden,2020-01-16,6,75.125,Moderate rain
+Sweden,2020-01-17,4,86.75,Partly cloudy
+Sweden,2020-01-18,3,94.75,Partly cloudy
+Sweden,2020-01-19,3,83.125,Light drizzle
+Sweden,2020-01-20,2,72.625,Partly cloudy
+Sweden,2020-01-21,6,74.375,Partly cloudy
+Sweden,2020-01-22,2,54.875,Overcast
+Sweden,2020-01-23,1,72.375,Partly cloudy
+Sweden,2020-01-24,5,80.125,Partly cloudy
+Sweden,2020-01-25,1,70.625,Partly cloudy
+Sweden,2020-01-26,6,82.875,Partly cloudy
+Sweden,2020-01-27,4,89.125,Overcast
+Sweden,2020-01-28,4,94.375,Light drizzle
+Sweden,2020-01-29,4,92.0,Light rain
+Sweden,2020-01-30,2,94.375,Mist
+Sweden,2020-01-31,2,93.0,Mist
+Sweden,2020-02-01,5,91.625,Light sleet
+Sweden,2020-02-01,5,91.625,Light sleet
+Sweden,2020-02-02,4,72.125,Overcast
+Sweden,2020-02-03,0,69.0,Partly cloudy
+Sweden,2020-02-04,0,70.25,Partly cloudy
+Sweden,2020-02-05,1,60.625,Overcast
+Sweden,2020-02-06,0,85.25,Cloudy
+Sweden,2020-02-07,0,82.125,Partly cloudy
+Sweden,2020-02-08,3,90.875,Overcast
+Sweden,2020-02-09,4,82.25,Partly cloudy
+Sweden,2020-02-10,6,72.375,Light drizzle
+Sweden,2020-02-11,2,73.75,Light sleet
+Sweden,2020-02-12,2,76.25,Partly cloudy
+Sweden,2020-02-13,1,72.625,Light snow showers
+Sweden,2020-02-14,1,75.0,Partly cloudy
+Sweden,2020-02-15,2,88.25,Partly cloudy
+Sweden,2020-02-16,9,83.125,Light drizzle
+Sweden,2020-02-17,5,72.125,Light rain
+Sweden,2020-02-18,6,68.375,Light freezing rain
+Sweden,2020-02-19,3,77.875,Partly cloudy
+Sweden,2020-02-20,2,80.625,Partly cloudy
+Sweden,2020-02-21,5,73.5,Light drizzle
+Sweden,2020-02-22,7,73.0,Cloudy
+Sweden,2020-02-23,4,68.25,Overcast
+Sweden,2020-02-24,2,58.75,Partly cloudy
+Sweden,2020-02-25,2,70.125,Partly cloudy
+Sweden,2020-02-26,-1,61.875,Blizzard
+Sweden,2020-02-27,-2,73.75,Overcast
+Sweden,2020-02-28,-2,62.625,Partly cloudy
+Sweden,2020-02-29,1,88.75,Cloudy
+Sweden,2020-03-01,4,80.25,Heavy snow
+Sweden,2020-03-01,4,80.25,Heavy snow
+Sweden,2020-03-02,3,85.625,Cloudy
+Sweden,2020-03-03,4,93.0,Light rain
+Sweden,2020-03-04,3,94.875,Light drizzle
+Sweden,2020-03-05,2,81.0,Light sleet
+Sweden,2020-03-06,3,81.0,Light snow showers
+Sweden,2020-03-07,4,83.75,Partly cloudy
+Sweden,2020-03-08,3,83.0,Partly cloudy
+Sweden,2020-03-09,6,85.75,Partly cloudy
+Sweden,2020-03-10,5,87.625,Light drizzle
+Sweden,2020-03-11,6,74.75,Light rain
+Sweden,2020-03-12,5,70.125,Partly cloudy
+Sweden,2020-03-13,1,62.625,Partly cloudy
+Sweden,2020-03-14,-1,41.375,Partly cloudy
+Sweden,2020-03-15,3,64.625,Partly cloudy
+Sweden,2020-03-16,4,68.375,Overcast
+Sweden,2020-03-17,6,71.0,Partly cloudy
+Sweden,2020-03-18,6,79.125,Light rain shower
+Sweden,2020-03-19,5,64.875,Partly cloudy
+Sweden,2020-03-20,1,56.75,Partly cloudy
+Sweden,2020-03-21,2,57.75,Partly cloudy
+Sweden,2020-03-22,2,63.75,Clear
+Sweden,2020-03-23,3,63.125,Partly cloudy
+Sweden,2020-03-24,4,60.25,Partly cloudy
+Sweden,2020-03-25,6,49.5,Partly cloudy
+Sweden,2020-03-26,6,59.375,Partly cloudy
+Sweden,2020-03-27,6,63.5,Partly cloudy
+Sweden,2020-03-28,4,63.75,Partly cloudy
+Sweden,2020-03-29,1,43.0,Partly cloudy
+Sweden,2020-03-30,0,54.25,Partly cloudy
+Sweden,2020-03-31,2,51.75,Partly cloudy
+Sweden,2020-04-01,6,61.375,Partly cloudy
+Sweden,2020-04-01,6,61.375,Partly cloudy
+Sweden,2020-04-02,5,67.625,Partly cloudy
+Sweden,2020-04-03,3,48.75,Partly cloudy
+Sweden,2020-04-04,3,42.0,Partly cloudy
+Sweden,2020-04-05,6,68.375,Partly cloudy
+Sweden,2020-04-06,9,65.875,Partly cloudy
+Sweden,2020-04-07,11,68.5,Clear
+Sweden,2020-04-08,10,61.125,Partly cloudy
+Sweden,2020-04-09,7,62.25,Partly cloudy
+Sweden,2020-04-10,6,52.25,Partly cloudy
+Sweden,2020-04-11,8,59.375,Partly cloudy
+Sweden,2020-04-12,10,74.5,Light drizzle
+Sweden,2020-04-13,3,52.875,Overcast
+Sweden,2020-04-14,6,49.375,Cloudy
+Sweden,2020-04-15,10,56.0,Cloudy
+Sweden,2020-04-16,8,45.25,Partly cloudy
+Sweden,2020-04-17,7,46.5,Patchy rain possible
+Sweden,2020-04-18,6,49.625,Partly cloudy
+Sweden,2020-04-19,9,60.0,Partly cloudy
+Sweden,2020-04-20,11,69.0,Cloudy
+Sweden,2020-04-21,12,66.0,Partly cloudy
+Sweden,2020-04-22,13,60.5,Partly cloudy
+Sweden,2020-04-23,13,59.25,Partly cloudy
+Sweden,2020-04-24,9,60.25,Partly cloudy
+Sweden,2020-04-25,6,80.625,Partly cloudy
+Sweden,2020-04-26,9,59.75,Partly cloudy
+Sweden,2020-04-27,6,63.625,Partly cloudy
+Sweden,2020-04-28,3,89.5,Light rain
+Sweden,2020-04-29,5,71.0,Partly cloudy
+Sweden,2020-04-30,6,69.125,Partly cloudy
+Sweden,2020-05-01,8,89.875,Overcast
+Sweden,2020-05-01,8,89.875,Overcast
+Sweden,2020-05-02,11,79.625,Partly cloudy
+Sweden,2020-05-03,12,80.75,Overcast
+Sweden,2020-05-04,11,73.75,Partly cloudy
+Sweden,2020-05-05,10,55.5,Cloudy
+Sweden,2020-05-06,11,56.25,Partly cloudy
+Sweden,2020-05-07,9,54.125,Partly cloudy
+Sweden,2020-05-08,13,62.625,Partly cloudy
+Sweden,2020-05-09,9,55.0,Partly cloudy
+Sweden,2020-05-10,12,73.0,Partly cloudy
+Sweden,2020-05-11,6,62.75,Light rain
+Sweden,2020-05-12,7,54.0,Patchy rain possible
+Sweden,2020-05-13,5,80.0,Light sleet
+Sweden,2020-05-14,7,65.75,Partly cloudy
+Sweden,2020-05-15,9,67.625,Patchy rain possible
+Sweden,2020-05-16,8,67.625,Partly cloudy
+Sweden,2020-05-17,10,62.5,Partly cloudy
+Sweden,2020-05-18,11,62.25,Overcast
+Sweden,2020-05-19,10,66.875,Patchy rain possible
+Sweden,2020-05-20,10,66.125,Partly cloudy
+Sweden,2020-05-21,12,53.375,Partly cloudy
+Sweden,2020-05-22,12,56.0,Partly cloudy
+Sweden,2020-05-23,9,77.0,Partly cloudy
+Sweden,2020-05-24,13,80.75,Light rain
+Sweden,2020-05-25,15,71.5,Overcast
+Sweden,2020-05-26,17,63.5,Clear
+Sweden,2020-05-27,13,73.75,Partly cloudy
+Sweden,2020-05-28,13,58.5,Cloudy
+Sweden,2020-05-29,13,63.0,Cloudy
+Sweden,2020-05-30,16,56.25,Partly cloudy
+Sweden,2020-05-31,16,54.75,Clear
+Sweden,2020-06-01,21,51.0,Partly cloudy
+Sweden,2020-06-01,21,51.0,Partly cloudy
+Sweden,2020-06-02,18,62.125,Patchy rain possible
+Sweden,2020-06-03,15,57.25,Partly cloudy
+Sweden,2020-06-04,15,71.125,Clear
+Sweden,2020-06-05,15,76.875,Cloudy
+Sweden,2020-06-06,13,80.5,Light rain
+Sweden,2020-06-07,15,63.875,Cloudy
+Sweden,2020-06-08,18,67.125,Partly cloudy
+Sweden,2020-06-09,18,58.875,Partly cloudy
+Sweden,2020-06-10,18,50.5,Partly cloudy
+Sweden,2020-06-11,19,49.0,Clear
+Sweden,2020-06-12,20,55.875,Partly cloudy
+Sweden,2020-06-13,18,57.375,Partly cloudy
+Sweden,2020-06-14,19,54.875,Clear
+Sweden,2020-06-15,19,54.25,Clear
+Sweden,2020-06-16,17,79.375,Partly cloudy
+Sweden,2020-06-17,17,80.5,Partly cloudy
+Sweden,2020-06-18,22,68.75,Partly cloudy
+Sweden,2020-06-19,22,65.375,Clear
+Sweden,2020-06-20,20,66.75,Partly cloudy
+Sweden,2020-06-21,18,62.375,Overcast
+Sweden,2020-06-22,19,65.625,Clear
+Sweden,2020-06-23,22,63.0,Patchy rain possible
+Sweden,2020-06-24,26,54.0,Clear
+Sweden,2020-06-25,26,50.125,Partly cloudy
+Sweden,2020-06-26,24,55.75,Partly cloudy
+Sweden,2020-06-27,25,63.75,Partly cloudy
+Sweden,2020-06-28,23,69.375,Partly cloudy
+Sweden,2020-06-29,20,68.75,Partly cloudy
+Sweden,2020-06-30,17,71.875,Partly cloudy
+Sweden,2020-07-01,18,72.75,Patchy rain possible
+Sweden,2020-07-01,18,72.75,Patchy rain possible
+Sweden,2020-07-02,19,61.625,Patchy rain possible
+Sweden,2020-07-03,17,56.125,Partly cloudy
+Sweden,2020-07-04,16,74.75,Patchy rain possible
+Sweden,2020-07-05,16,83.75,Partly cloudy
+Sweden,2020-07-06,16,64.0,Patchy rain possible
+Sweden,2020-07-07,17,60.375,Patchy rain possible
+Sweden,2020-07-08,14,72.625,Partly cloudy
+Sweden,2020-07-09,16,62.625,Patchy rain possible
+Sweden,2020-07-10,17,61.375,Patchy rain possible
+Sweden,2020-07-11,17,67.5,Light rain shower
+Sweden,2020-07-12,16,74.75,Partly cloudy
+Sweden,2020-07-13,17,66.625,Patchy rain possible
+Sweden,2020-07-14,18,66.125,Patchy rain possible
+Sweden,2020-07-15,15,87.75,Cloudy
+Sweden,2020-07-16,21,65.5,Partly cloudy
+Sweden,2020-07-17,22,54.625,Partly cloudy
+Sweden,2020-07-18,22,64.5,Partly cloudy
+Sweden,2020-07-19,22,66.5,Partly cloudy
+Sweden,2020-07-20,21,77.625,Partly cloudy
+Sweden,2020-07-21,17,72.25,Patchy rain possible
+Sweden,2020-07-22,17,49.5,Overcast
+Sweden,2020-07-23,16,49.0,Patchy rain possible
+Sweden,2020-07-24,17,55.75,Partly cloudy
+Sweden,2020-07-25,18,63.75,Partly cloudy
+Sweden,2020-07-26,19,66.0,Partly cloudy
+Sweden,2020-07-27,21,71.625,Overcast
+Sweden,2020-07-28,18,79.875,Partly cloudy
+Sweden,2020-07-29,17,75.75,Light rain shower
+Sweden,2020-07-30,18,75.0,Patchy rain possible
+Sweden,2020-07-31,19,70.625,Light rain
+Sweden,2020-08-01,22,58.625,Partly cloudy
+Sweden,2020-08-01,22,58.625,Partly cloudy
+Sweden,2020-08-02,21,61.75,Partly cloudy
+Sweden,2020-08-03,19,68.375,Patchy rain possible
+Sweden,2020-08-04,19,58.375,Partly cloudy
+Sweden,2020-08-05,16,63.375,Partly cloudy
+Sweden,2020-08-06,20,78.375,Light drizzle
+Sweden,2020-08-07,25,58.875,Partly cloudy
+Sweden,2020-08-08,23,61.75,Partly cloudy
+Sweden,2020-08-09,22,65.375,Partly cloudy
+Sweden,2020-08-10,21,53.0,Partly cloudy
+Sweden,2020-08-11,20,64.375,Partly cloudy
+Sweden,2020-08-12,21,58.0,Partly cloudy
+Sweden,2020-08-13,22,63.625,Partly cloudy
+Sweden,2020-08-14,23,63.0,Partly cloudy
+Sweden,2020-08-15,24,54.625,Partly cloudy
+Sweden,2020-08-16,23,59.875,Partly cloudy
+Sweden,2020-08-17,24,60.875,Partly cloudy
+Sweden,2020-08-18,23,62.875,Partly cloudy
+Sweden,2020-08-19,23,59.5,Partly cloudy
+Sweden,2020-08-20,21,67.25,Partly cloudy
+Sweden,2020-08-21,22,71.5,Patchy rain possible
+Sweden,2020-08-22,23,74.0,Light rain shower
+Sweden,2020-08-23,20,63.375,Partly cloudy
+Sweden,2020-08-24,16,74.375,Partly cloudy
+Sweden,2020-08-25,16,64.0,Patchy rain possible
+Sweden,2020-08-26,15,65.375,Partly cloudy
+Sweden,2020-08-27,16,63.25,Partly cloudy
+Sweden,2020-08-28,16,68.625,Partly cloudy
+Sweden,2020-08-29,14,82.875,Partly cloudy
+Sweden,2020-08-30,15,83.125,Moderate rain
+Sweden,2020-08-31,14,66.0,Cloudy
+Sweden,2020-09-01,16,73.25,Partly cloudy
+Sweden,2020-09-01,16,73.25,Partly cloudy
+Sweden,2020-09-02,16,81.375,Clear
+Sweden,2020-09-03,16,91.25,Mist
+Sweden,2020-09-04,17,77.5,Fog
+Sweden,2020-09-05,15,69.5,Partly cloudy
+Sweden,2020-09-06,14,72.0,Patchy rain possible
+Sweden,2020-09-07,16,71.625,Partly cloudy
+Sweden,2020-09-08,15,72.125,Partly cloudy
+Sweden,2020-09-09,14,74.875,Partly cloudy
+Sweden,2020-09-10,12,66.5,Patchy rain possible
+Sweden,2020-09-11,14,61.75,Partly cloudy
+Sweden,2020-09-12,14,75.125,Partly cloudy
+Sweden,2020-09-13,12,76.0,Partly cloudy
+Sweden,2020-09-14,14,86.625,Mist
+Sweden,2020-09-15,16,86.125,Partly cloudy
+Sweden,2020-09-16,13,75.75,Mist
+Sweden,2020-09-17,11,57.625,Overcast
+Sweden,2020-09-18,14,65.5,Partly cloudy
+Sweden,2020-09-19,13,61.125,Partly cloudy
+Sweden,2020-09-20,15,79.25,Partly cloudy
+Sweden,2020-09-21,16,73.125,Partly cloudy
+Sweden,2020-09-22,15,67.625,Partly cloudy
+Sweden,2020-09-23,16,72.625,Clear
+Sweden,2020-09-24,17,74.125,Partly cloudy
+Sweden,2020-09-25,15,75.0,Partly cloudy
+Sweden,2020-09-26,15,91.0,Overcast
+Sweden,2020-09-27,16,83.625,Partly cloudy
+Sweden,2020-09-28,15,85.0,Partly cloudy
+Sweden,2020-09-29,14,89.25,Overcast
+Sweden,2020-09-30,14,78.75,Partly cloudy
+Sweden,2020-10-01,13,86.75,Partly cloudy
+Sweden,2020-10-01,13,86.75,Partly cloudy
+Sweden,2020-10-02,14,84.125,Partly cloudy
+Sweden,2020-10-03,13,81.5,Partly cloudy
+Sweden,2020-10-04,13,88.0,Overcast
+Sweden,2020-10-05,14,81.625,Light rain shower
+Sweden,2020-10-06,14,91.875,Light rain shower
+Sweden,2020-10-07,13,83.875,Partly cloudy
+Sweden,2020-10-08,11,87.875,Partly cloudy
+Sweden,2020-10-09,11,78.375,Cloudy
+Sweden,2020-10-10,11,79.375,Cloudy
+Sweden,2020-10-11,10,80.0,Patchy light drizzle
+Sweden,2020-10-12,9,83.0,Partly cloudy
+Sweden,2020-10-13,8,80.125,Partly cloudy
+Sweden,2020-10-14,8,76.0,Partly cloudy
+Sweden,2020-10-15,8,76.375,Cloudy
+Sweden,2020-10-16,7,81.75,Partly cloudy
+Sweden,2020-10-17,8,78.625,Partly cloudy
+Sweden,2020-10-18,4,66.0,Light rain
+Sweden,2020-10-19,4,58.5,Clear
+Sweden,2020-10-20,4,76.25,Partly cloudy
+Sweden,2020-10-21,9,92.0,Light rain
+Sweden,2020-10-22,12,89.125,Mist
+Sweden,2020-10-23,7,86.75,Light rain
+Sweden,2020-10-24,8,88.875,Overcast
+Sweden,2020-10-25,9,91.875,Partly cloudy
+Sweden,2020-10-26,11,89.375,Overcast
+Sweden,2020-10-27,10,85.5,Patchy rain possible
+Sweden,2020-10-28,8,83.5,Light rain shower
+Sweden,2020-10-29,8,87.875,Partly cloudy
+Sweden,2020-10-30,7,91.875,Light freezing rain
+Sweden,2020-10-31,8,90.125,Partly cloudy
+Sweden,2020-11-01,10,86.875,Cloudy
+Sweden,2020-11-01,10,86.875,Cloudy
+Sweden,2020-11-02,12,86.75,Light drizzle
+Sweden,2020-11-03,10,75.25,Light rain shower
+Sweden,2020-11-04,7,82.625,Partly cloudy
+Sweden,2020-11-05,8,82.375,Partly cloudy
+Sweden,2020-11-06,11,83.75,Partly cloudy
+Sweden,2020-11-07,10,84.875,Partly cloudy
+Sweden,2020-11-08,7,80.25,Light rain shower
+Sweden,2020-11-09,7,87.25,Cloudy
+Sweden,2020-11-10,6,89.625,Partly cloudy
+Sweden,2020-11-11,7,82.0,Overcast
+Sweden,2020-11-12,7,79.25,Overcast
+Sweden,2020-11-13,7,82.0,Cloudy
+Sweden,2020-11-14,8,88.375,Light rain shower
+Sweden,2020-11-15,7,88.875,Light drizzle
+Sweden,2020-11-16,10,87.5,Overcast
+Sweden,2020-11-17,8,82.125,Partly cloudy
+Sweden,2020-11-18,12,80.75,Light drizzle
+Sweden,2020-11-19,8,67.75,Overcast
+Sweden,2020-11-20,3,57.5,Partly cloudy
+Sweden,2020-11-21,4,72.625,Partly cloudy
+Sweden,2020-11-22,6,68.75,Partly cloudy
+Sweden,2020-11-23,4,62.125,Partly cloudy
+Sweden,2020-11-24,4,82.0,Partly cloudy
+Sweden,2020-11-25,9,84.0,Light rain
+Sweden,2020-11-26,6,83.625,Partly cloudy
+Sweden,2020-11-27,1,90.125,Partly cloudy
+Sweden,2020-11-28,1,85.375,Cloudy
+Sweden,2020-11-29,1,89.375,Overcast
+Sweden,2020-11-30,0,91.375,Mist
+Sweden,2020-12-01,3,91.5,Light freezing rain
+Sweden,2021-01-01,2,94.0,Light rain shower
+Sweden,2021-01-02,2,90.0,Heavy snow
+Sweden,2021-01-03,-1,82.625,Moderate snow
+Sweden,2021-01-04,0,79.125,Light snow
+Sweden,2021-01-05,-1,92.375,Heavy snow
+Sweden,2021-01-06,-2,83.125,Partly cloudy
+Sweden,2021-01-07,-1,93.5,Heavy snow
+Sweden,2021-01-08,-1,95.375,Heavy snow
+Sweden,2021-01-09,-3,93.625,Heavy snow
+Sweden,2021-01-10,-1,89.25,Moderate snow
+Sweden,2021-01-11,0,87.625,Partly cloudy
+Sweden,2021-01-12,-2,82.5,Light drizzle
+Sweden,2021-01-13,0,90.125,Partly cloudy
+Sweden,2021-01-14,-5,88.75,Heavy snow
+Sweden,2021-01-15,-9,93.875,Moderate snow
+Sweden,2021-01-16,-5,95.125,Cloudy
+Sweden,2021-01-17,-5,93.75,Light snow
+Sweden,2021-01-18,-4,93.75,Overcast
+Sweden,2021-01-19,-1,94.375,Mist
+Sweden,2021-01-20,0,97.375,Heavy snow
+Sweden,2021-01-21,3,95.25,Light rain
+Sweden,2021-01-22,4,88.25,Partly cloudy
+Sweden,2021-01-23,1,84.25,Partly cloudy
+Sweden,2021-01-24,1,95.75,Overcast
+Sweden,2021-01-25,-2,93.25,Overcast
+Sweden,2021-01-26,-3,91.25,Overcast
+Sweden,2021-01-27,-6,90.125,Partly cloudy
+Sweden,2021-01-28,-4,93.75,Partly cloudy
+Sweden,2021-01-29,-5,92.625,Heavy snow
+Sweden,2021-01-30,-10,85.25,Light snow
+Sweden,2021-01-31,-10,89.5,Partly cloudy
+Sweden,2021-02-01,-7,86.75,Partly cloudy
+Sweden,2021-02-01,-7,86.75,Partly cloudy
+Sweden,2021-02-02,-3,94.125,Heavy snow
+Sweden,2021-02-03,-5,93.125,Heavy snow
+Sweden,2021-02-04,-8,92.125,Moderate snow
+Sweden,2021-02-05,-8,92.875,Partly cloudy
+Sweden,2021-02-06,-9,92.375,Cloudy
+Sweden,2021-02-07,-7,93.875,Mist
+Sweden,2021-02-08,-7,91.625,Mist
+Sweden,2021-02-09,-8,86.125,Partly cloudy
+Sweden,2021-02-10,-8,88.25,Partly cloudy
+Sweden,2021-02-11,-9,90.75,Patchy moderate snow
+Sweden,2021-02-12,-8,84.875,Mist
+Sweden,2021-02-13,-6,76.375,Partly cloudy
+Sweden,2021-02-14,-4,82.75,Partly cloudy
+Sweden,2021-02-15,-6,86.875,Partly cloudy
+Sweden,2021-02-16,-3,89.125,Partly cloudy
+Sweden,2021-02-17,-5,85.375,Mist
+Sweden,2021-02-18,-4,85.375,Partly cloudy
+Sweden,2021-02-19,0,95.125,Overcast
+Sweden,2021-02-20,2,95.875,Light freezing rain
+Sweden,2021-02-21,3,97.125,Cloudy
+Sweden,2021-02-22,3,96.875,Fog
+Sweden,2021-02-23,3,95.0,Mist
+Sweden,2021-02-24,6,90.75,Partly cloudy
+Sweden,2021-02-25,9,86.5,Overcast
+Sweden,2021-02-26,5,75.5,Partly cloudy
+Sweden,2021-02-27,3,76.75,Clear
+Sweden,2021-02-28,5,74.875,Partly cloudy
+Sweden,2021-03-01,4,76.25,Partly cloudy
+Sweden,2021-03-01,4,76.25,Partly cloudy
+Sweden,2021-03-02,5,68.5,Partly cloudy
+Sweden,2021-03-03,3,81.125,Partly cloudy
+Sweden,2021-03-04,0,58.75,Moderate snow
+Sweden,2021-03-05,-1,54.625,Clear
+Sweden,2021-03-06,1,59.125,Partly cloudy
+Sweden,2021-03-07,-1,50.25,Patchy snow possible
+Sweden,2021-03-08,-1,52.875,Overcast
+Sweden,2021-03-09,0,70.0,Overcast
+Sweden,2021-03-10,-4,75.75,Moderate snow
+Sweden,2021-03-11,0,81.625,Light snow
+Sweden,2021-03-12,3,92.625,Moderate or heavy sleet
+Sweden,2021-03-13,3,84.25,Moderate snow
+Sweden,2021-03-14,1,91.125,Partly cloudy
+Sweden,2021-03-15,2,90.125,Cloudy
+Sweden,2021-03-16,2,86.375,Light snow
+Sweden,2021-03-17,1,81.125,Cloudy
+Sweden,2021-03-18,1,78.25,Overcast
+Sweden,2021-03-19,-1,55.625,Partly cloudy
+Sweden,2021-03-20,2,75.125,Partly cloudy
+Sweden,2021-03-21,2,63.125,Overcast
+Sweden,2021-03-22,5,60.875,Partly cloudy
+Sweden,2021-03-23,7,71.75,Partly cloudy
+Sweden,2021-03-24,6,78.125,Partly cloudy
+Sweden,2021-03-25,6,70.625,Cloudy
+Sweden,2021-03-26,6,75.125,Partly cloudy
+Sweden,2021-03-27,6,77.5,Partly cloudy
+Sweden,2021-03-28,5,74.25,Partly cloudy
+Sweden,2021-03-29,8,86.75,Patchy rain possible
+Sweden,2021-03-30,9,85.125,Overcast
+Sweden,2021-03-31,5,88.625,Cloudy
+Sweden,2021-04-01,6,66.5,Overcast
+Sweden,2021-04-01,6,66.5,Overcast
+Sweden,2021-04-02,6,62.75,Partly cloudy
+Sweden,2021-04-03,5,59.125,Partly cloudy
+Sweden,2021-04-04,8,65.0,Partly cloudy
+Sweden,2021-04-05,4,60.75,Overcast
+Sweden,2021-04-06,3,49.75,Thundery outbreaks possible
+Sweden,2021-04-07,4,67.25,Overcast
+Sweden,2021-04-08,4,63.625,Overcast
+Sweden,2021-04-09,6,74.75,Overcast
+Sweden,2021-04-10,5,56.625,Patchy rain possible
+Sweden,2021-04-11,5,64.5,Partly cloudy
+Sweden,2021-04-12,7,89.5,Moderate snow
+Sweden,2021-04-13,3,81.5,Light snow
+Sweden,2021-04-14,4,64.375,Partly cloudy
+Sweden,2021-04-15,7,66.0,Partly cloudy
+Sweden,2021-04-16,7,60.125,Clear
+Sweden,2021-04-17,8,59.625,Partly cloudy
+Sweden,2021-04-18,9,63.375,Partly cloudy
+Sweden,2021-04-19,10,64.75,Partly cloudy
+Sweden,2021-04-20,8,70.125,Partly cloudy
+Sweden,2021-04-21,10,71.5,Partly cloudy
+Sweden,2021-04-22,6,77.25,Light rain
+Sweden,2021-04-23,3,84.625,Heavy snow
+Sweden,2021-04-24,3,63.875,Partly cloudy
+Sweden,2021-04-25,4,63.625,Partly cloudy
+Sweden,2021-04-26,3,73.25,Overcast
+Sweden,2021-04-27,5,69.375,Partly cloudy
+Sweden,2021-04-28,5,76.5,Overcast
+Sweden,2021-04-29,6,68.25,Overcast
+Sweden,2021-04-30,8,62.0,Partly cloudy
+Sweden,2021-05-01,9,56.25,Partly cloudy
+Sweden,2021-05-01,9,56.25,Partly cloudy
+Sweden,2021-05-02,10,62.25,Partly cloudy
+Sweden,2021-05-03,8,59.25,Partly cloudy
+Sweden,2021-05-04,6,70.75,Partly cloudy
+Sweden,2021-05-05,5,95.25,Light rain
+Sweden,2021-05-06,6,93.625,Light drizzle
+Sweden,2021-05-07,5,73.875,Light snow
+Sweden,2021-05-08,8,71.0,Partly cloudy
+Sweden,2021-05-09,6,83.0,Patchy rain possible
+Sweden,2021-05-10,13,79.75,Mist
+Sweden,2021-05-11,15,77.875,Partly cloudy
+Sweden,2021-05-12,15,72.375,Partly cloudy
+Sweden,2021-05-13,15,70.5,Partly cloudy
+Sweden,2021-05-14,12,77.375,Partly cloudy
+Sweden,2021-05-15,11,86.875,Light drizzle
+Sweden,2021-05-16,13,72.375,Partly cloudy
+Sweden,2021-05-17,11,84.5,Overcast
+Sweden,2021-05-18,14,73.75,Partly cloudy
+Sweden,2021-05-19,14,74.5,Overcast
+Sweden,2021-05-20,13,61.875,Overcast
+Sweden,2021-05-21,12,66.5,Partly cloudy
+Sweden,2021-05-22,13,73.75,Partly cloudy
+Sweden,2021-05-23,11,86.0,Patchy rain possible
+Sweden,2021-05-24,10,85.75,Light rain shower
+Sweden,2021-05-25,13,72.375,Overcast
+Sweden,2021-05-26,8,95.0,Light drizzle
+Sweden,2021-05-27,7,89.125,Light rain
+Sweden,2021-05-28,14,59.75,Partly cloudy
+Sweden,2021-05-29,14,61.75,Partly cloudy
+Sweden,2021-05-30,16,51.25,Partly cloudy
+Sweden,2021-05-31,17,55.875,Partly cloudy
+Sweden,2021-06-01,14,66.5,Partly cloudy
+Sweden,2021-06-01,14,66.5,Partly cloudy
+Sweden,2021-06-02,16,67.5,Partly cloudy
+Sweden,2021-06-03,17,60.0,Clear
+Sweden,2021-06-04,19,56.125,Partly cloudy
+Sweden,2021-06-05,19,55.375,Partly cloudy
+Sweden,2021-06-06,21,59.625,Partly cloudy
+Sweden,2021-06-07,21,65.25,Partly cloudy
+Sweden,2021-06-08,18,71.875,Partly cloudy
+Sweden,2021-06-09,20,61.625,Partly cloudy
+Sweden,2021-06-10,20,66.25,Patchy rain possible
+Sweden,2021-06-11,21,67.25,Partly cloudy
+Sweden,2021-06-12,17,82.625,Light drizzle
+Sweden,2021-06-13,16,51.875,Partly cloudy
+Sweden,2021-06-14,20,64.25,Partly cloudy
+Sweden,2021-06-15,18,53.125,Patchy rain possible
+Sweden,2021-06-16,19,55.875,Partly cloudy
+Sweden,2021-06-17,21,55.75,Partly cloudy
+Sweden,2021-06-18,23,69.75,Partly cloudy
+Sweden,2021-06-19,22,74.375,Patchy rain possible
+Sweden,2021-06-20,24,61.375,Partly cloudy
+Sweden,2021-06-21,25,72.0,Partly cloudy
+Sweden,2021-06-22,24,75.5,Partly cloudy
+Sweden,2021-06-23,20,65.0,Overcast
+Sweden,2021-06-24,22,69.5,Partly cloudy
+Sweden,2021-06-25,22,63.375,Partly cloudy
+Sweden,2021-06-26,16,93.625,Overcast
+Sweden,2021-06-27,22,70.5,Partly cloudy
+Sweden,2021-06-28,23,67.875,Light rain shower
+Sweden,2021-06-29,24,58.875,Partly cloudy
+Sweden,2021-06-30,18,60.125,Partly cloudy
+Sweden,2021-07-01,20,64.75,Partly cloudy
+Sweden,2021-07-01,20,64.75,Partly cloudy
+Sweden,2021-07-02,21,69.75,Light rain shower
+Sweden,2021-07-03,24,60.375,Partly cloudy
+Sweden,2021-07-04,22,62.75,Partly cloudy
+Sweden,2021-07-05,23,63.75,Partly cloudy
+Sweden,2021-07-06,22,79.5,Partly cloudy
+Sweden,2021-07-07,22,66.25,Partly cloudy
+Sweden,2021-07-08,23,68.625,Patchy light rain
+Sweden,2021-07-09,19,74.25,Partly cloudy
+Sweden,2021-07-10,20,82.375,Partly cloudy
+Sweden,2021-07-11,22,70.125,Light rain shower
+Sweden,2021-07-12,22,76.375,Partly cloudy
+Sweden,2021-07-13,24,68.625,Partly cloudy
+Sweden,2021-07-14,26,60.625,Partly cloudy
+Sweden,2021-07-15,28,63.75,Partly cloudy
+Sweden,2021-07-16,21,57.875,Patchy rain possible
+Sweden,2021-07-17,24,46.125,Partly cloudy
+Sweden,2021-07-18,20,62.5,Moderate rain at times
+Sweden,2021-07-19,18,50.75,Partly cloudy
+Sweden,2021-07-20,19,64.75,Partly cloudy
+Sweden,2021-07-21,18,52.875,Partly cloudy
+Sweden,2021-07-22,24,56.125,Partly cloudy
+Sweden,2021-07-23,21,56.75,Partly cloudy
+Sweden,2021-07-24,24,63.75,Partly cloudy
+Sweden,2021-07-25,25,56.75,Partly cloudy
+Sweden,2021-07-26,23,66.0,Partly cloudy
+Sweden,2021-07-27,24,71.625,Partly cloudy
+Sweden,2021-07-28,21,84.25,Partly cloudy
+Sweden,2021-07-29,19,78.75,Partly cloudy
+Sweden,2021-07-30,15,83.375,Patchy rain possible
+Sweden,2021-07-31,18,86.25,Partly cloudy
+Sweden,2021-08-01,18,75.625,Patchy light rain with thunder
+Sweden,2021-08-01,18,75.625,Patchy light rain with thunder
+Sweden,2021-08-02,14,73.125,Partly cloudy
+Sweden,2021-08-03,18,56.75,Partly cloudy
+Sweden,2021-08-04,20,53.625,Partly cloudy
+Sweden,2021-08-05,20,60.375,Partly cloudy
+Sweden,2021-08-06,20,62.625,Partly cloudy
+Sweden,2021-08-07,17,74.5,Partly cloudy
+Sweden,2021-08-08,18,83.125,Moderate rain
+Sweden,2021-08-09,18,83.0,Moderate or heavy rain shower
+Sweden,2021-08-10,18,78.125,Patchy rain possible
+Sweden,2021-08-11,20,69.875,Partly cloudy
+Sweden,2021-08-12,21,65.875,Partly cloudy
+Sweden,2021-08-13,20,70.0,Partly cloudy
+Sweden,2021-08-14,17,76.25,Partly cloudy
+Sweden,2021-08-15,16,69.625,Light rain shower
+Sweden,2021-08-16,16,80.75,Partly cloudy
+Sweden,2021-08-17,16,78.75,Patchy rain possible
+Sweden,2021-08-18,13,94.5,Mist
+Sweden,2021-08-19,13,77.25,Patchy rain possible
+Sweden,2021-08-20,16,64.5,Partly cloudy
+Sweden,2021-08-21,17,57.375,Partly cloudy
+Sweden,2021-08-22,14,74.25,Partly cloudy
+Sweden,2021-08-23,16,66.0,Partly cloudy
+Sweden,2021-08-24,15,59.875,Partly cloudy
+Sweden,2021-08-25,14,77.5,Partly cloudy
+Sweden,2021-08-26,14,87.375,Light drizzle
+Sweden,2021-08-27,14,90.0,Light rain shower
+Sweden,2021-08-28,14,94.0,Overcast
+Sweden,2021-08-29,20,80.125,Mist
+Sweden,2021-08-30,17,81.5,Mist
+Sweden,2021-08-31,18,65.25,Partly cloudy
+Sweden,2021-09-01,15,63.375,Partly cloudy
+Sweden,2021-09-01,15,63.375,Partly cloudy
+Sweden,2021-09-02,14,72.5,Cloudy
+Sweden,2021-09-03,14,59.5,Partly cloudy
+Sweden,2021-09-04,12,61.5,Partly cloudy
+Sweden,2021-09-05,13,65.75,Partly cloudy
+Sweden,2021-09-06,16,69.125,Partly cloudy
+Sweden,2021-09-07,17,77.375,Partly cloudy
+Sweden,2021-09-08,20,75.5,Partly cloudy
+Sweden,2021-09-09,20,72.5,Partly cloudy
+Sweden,2021-09-10,16,84.375,Partly cloudy
+Sweden,2021-09-11,19,70.25,Mist
+Sweden,2021-09-12,16,94.125,Light drizzle
+Sweden,2021-09-13,14,69.75,Overcast
+Sweden,2021-09-14,13,55.625,Partly cloudy
+Sweden,2021-09-15,12,67.375,Partly cloudy
+Sweden,2021-09-16,11,76.75,Partly cloudy
+Sweden,2021-09-17,11,70.5,Overcast
+Sweden,2021-09-18,12,68.375,Cloudy
+Sweden,2021-09-19,11,69.0,Partly cloudy
+Sweden,2021-09-20,9,67.125,Overcast
+Sweden,2021-09-21,10,70.625,Patchy rain possible
+Sweden,2021-09-22,12,79.375,Overcast
+Sweden,2021-09-23,11,90.125,Cloudy
+Sweden,2021-09-24,10,66.5,Light rain shower
+Sweden,2021-09-25,13,78.25,Overcast
+Sweden,2021-09-26,12,70.75,Partly cloudy
+Sweden,2021-09-27,12,76.625,Partly cloudy
+Sweden,2021-09-28,12,84.5,Partly cloudy
+Sweden,2021-09-29,12,82.625,Partly cloudy
+Sweden,2021-09-30,11,82.375,Partly cloudy
+Sweden,2021-10-01,11,83.0,Overcast
+Sweden,2021-10-01,11,83.0,Overcast
+Sweden,2021-10-02,13,83.875,Light drizzle
+Sweden,2021-10-03,12,83.75,Cloudy
+Sweden,2021-10-04,13,86.25,Overcast
+Sweden,2021-10-05,12,86.0,Mist
+Sweden,2021-10-06,12,91.125,Light drizzle
+Sweden,2021-10-07,13,85.125,Mist
+Sweden,2021-10-08,12,75.5,Partly cloudy
+Sweden,2021-10-09,12,80.125,Partly cloudy
+Sweden,2021-10-10,13,68.75,Overcast
+Sweden,2021-10-11,10,82.5,Overcast
+Sweden,2021-10-12,9,78.875,Partly cloudy
+Sweden,2021-10-13,7,68.75,Partly cloudy
+Sweden,2021-10-14,7,77.0,Clear
+Sweden,2021-10-15,9,66.5,Overcast
+Sweden,2021-10-16,8,67.75,Clear
+Sweden,2021-10-17,7,62.75,Partly cloudy
+Sweden,2021-10-18,6,62.75,Clear
+Sweden,2021-10-19,6,74.375,Clear
+Sweden,2021-10-20,12,93.875,Mist
+Sweden,2021-10-21,10,77.5,Clear
+Sweden,2021-10-22,6,69.0,Light rain shower
+Sweden,2021-10-23,2,74.0,Overcast
+Sweden,2021-10-24,6,79.125,Clear
+Sweden,2021-10-25,8,79.625,Partly cloudy
+Sweden,2021-10-26,10,82.125,Partly cloudy
+Sweden,2021-10-27,8,91.5,Partly cloudy
+Sweden,2021-10-28,11,91.0,Mist
+Sweden,2021-10-29,11,85.25,Clear
+Sweden,2021-10-30,9,86.75,Clear
+Sweden,2021-10-31,10,86.125,Clear
+Sweden,2021-11-01,10,89.375,Clear
+Sweden,2021-11-01,10,89.375,Clear
+Sweden,2021-11-02,9,90.5,Partly cloudy
+Sweden,2021-11-03,8,97.875,Mist
+Sweden,2021-11-04,8,85.375,Light rain shower
+Sweden,2021-11-05,6,85.75,Partly cloudy
+Sweden,2021-11-06,6,78.625,Mist
+Sweden,2021-11-07,5,81.75,Overcast
+Sweden,2021-11-08,3,74.625,Moderate or heavy snow showers
+Sweden,2021-11-09,3,81.5,Clear
+Sweden,2021-11-10,11,85.5,Light drizzle
+Sweden,2021-11-11,7,84.625,Cloudy
+Sweden,2021-11-12,4,70.375,Clear
+Sweden,2021-11-13,3,77.5,Clear
+Sweden,2021-11-14,4,82.75,Cloudy
+Sweden,2021-11-15,6,81.875,Partly cloudy
+Sweden,2021-11-16,6,84.875,Overcast
+Sweden,2021-11-17,5,89.75,Partly cloudy
+Sweden,2021-11-18,3,74.625,Patchy rain possible
+Sweden,2021-11-19,7,86.75,Partly cloudy
+Sweden,2021-11-20,5,65.0,Clear
+Sweden,2021-11-21,2,79.625,Clear
+Sweden,2021-11-22,-1,59.0,Clear
+Sweden,2021-11-23,2,82.75,Cloudy
+Sweden,2021-11-24,2,88.875,Cloudy
+Sweden,2021-11-25,5,86.0,Overcast
+Sweden,2021-11-26,-1,76.0,Heavy snow
+Sweden,2021-11-27,2,65.25,Overcast
+Sweden,2021-11-28,0,90.0,Overcast
+Sweden,2021-11-29,-2,76.0,Clear
+Sweden,2021-11-30,-4,76.5,Clear
+Sweden,2021-12-01,-5,70.875,Clear
+Czechia,2020-01-01,2,81.25,Partly cloudy
+Czechia,2020-01-02,4,56.75,Clear
+Czechia,2020-01-03,3,74.875,Clear
+Czechia,2020-01-04,3,79.75,Cloudy
+Czechia,2020-01-05,1,76.25,Heavy snow
+Czechia,2020-01-06,2,80.25,Partly cloudy
+Czechia,2020-01-07,1,80.125,Partly cloudy
+Czechia,2020-01-08,3,81.375,Partly cloudy
+Czechia,2020-01-09,5,88.5,Light rain
+Czechia,2020-01-10,6,76.5,Light freezing rain
+Czechia,2020-01-11,3,82.0,Partly cloudy
+Czechia,2020-01-12,2,78.0,Partly cloudy
+Czechia,2020-01-13,3,82.625,Overcast
+Czechia,2020-01-14,3,73.625,Overcast
+Czechia,2020-01-15,2,71.875,Partly cloudy
+Czechia,2020-01-16,4,86.25,Partly cloudy
+Czechia,2020-01-17,3,84.625,Partly cloudy
+Czechia,2020-01-18,3,77.5,Cloudy
+Czechia,2020-01-19,2,89.875,Cloudy
+Czechia,2020-01-20,2,81.625,Overcast
+Czechia,2020-01-21,3,81.625,Partly cloudy
+Czechia,2020-01-22,2,69.625,Partly cloudy
+Czechia,2020-01-23,3,80.0,Overcast
+Czechia,2020-01-24,1,78.75,Partly cloudy
+Czechia,2020-01-25,2,75.375,Clear
+Czechia,2020-01-26,1,80.0,Partly cloudy
+Czechia,2020-01-27,4,85.125,Overcast
+Czechia,2020-01-28,4,75.875,Cloudy
+Czechia,2020-01-29,2,68.5,Partly cloudy
+Czechia,2020-01-30,4,77.875,Light snow showers
+Czechia,2020-01-31,11,78.375,Overcast
+Czechia,2020-02-01,10,81.5,Partly cloudy
+Czechia,2020-02-01,10,81.5,Partly cloudy
+Czechia,2020-02-02,8,71.25,Patchy light drizzle
+Czechia,2020-02-03,8,74.75,Light drizzle
+Czechia,2020-02-04,4,77.0,Patchy rain possible
+Czechia,2020-02-05,1,73.875,Moderate or heavy snow showers
+Czechia,2020-02-06,2,68.75,Partly cloudy
+Czechia,2020-02-07,4,80.125,Cloudy
+Czechia,2020-02-08,3,81.625,Partly cloudy
+Czechia,2020-02-09,5,72.25,Partly cloudy
+Czechia,2020-02-10,8,61.625,Cloudy
+Czechia,2020-02-11,4,53.25,Partly cloudy
+Czechia,2020-02-12,3,59.5,Partly cloudy
+Czechia,2020-02-13,3,72.125,Patchy snow possible
+Czechia,2020-02-14,6,82.125,Light rain
+Czechia,2020-02-15,5,80.125,Patchy rain possible
+Czechia,2020-02-16,7,67.125,Partly cloudy
+Czechia,2020-02-17,9,71.5,Partly cloudy
+Czechia,2020-02-18,6,66.0,Cloudy
+Czechia,2020-02-19,4,72.625,Partly cloudy
+Czechia,2020-02-20,4,80.375,Partly cloudy
+Czechia,2020-02-21,4,64.875,Overcast
+Czechia,2020-02-22,7,61.125,Partly cloudy
+Czechia,2020-02-23,9,70.5,Overcast
+Czechia,2020-02-24,5,64.625,Moderate rain
+Czechia,2020-02-25,9,75.625,Partly cloudy
+Czechia,2020-02-26,4,64.75,Partly cloudy
+Czechia,2020-02-27,3,65.125,Partly cloudy
+Czechia,2020-02-28,5,65.25,Heavy snow
+Czechia,2020-02-29,3,74.75,Partly cloudy
+Czechia,2020-03-01,6,77.5,Light freezing rain
+Czechia,2020-03-01,6,77.5,Light freezing rain
+Czechia,2020-03-02,6,68.125,Partly cloudy
+Czechia,2020-03-03,6,71.0,Partly cloudy
+Czechia,2020-03-04,4,71.875,Partly cloudy
+Czechia,2020-03-05,5,67.125,Partly cloudy
+Czechia,2020-03-06,6,77.625,Overcast
+Czechia,2020-03-07,4,76.125,Overcast
+Czechia,2020-03-08,5,69.75,Partly cloudy
+Czechia,2020-03-09,6,72.625,Overcast
+Czechia,2020-03-10,5,78.625,Partly cloudy
+Czechia,2020-03-11,12,79.125,Light rain
+Czechia,2020-03-12,12,74.0,Cloudy
+Czechia,2020-03-13,7,62.125,Patchy rain possible
+Czechia,2020-03-14,3,60.5,Partly cloudy
+Czechia,2020-03-15,6,45.0,Partly cloudy
+Czechia,2020-03-16,8,50.75,Partly cloudy
+Czechia,2020-03-17,9,77.125,Partly cloudy
+Czechia,2020-03-18,11,76.375,Mist
+Czechia,2020-03-19,13,71.75,Partly cloudy
+Czechia,2020-03-20,13,65.875,Partly cloudy
+Czechia,2020-03-21,3,77.0,Light drizzle
+Czechia,2020-03-22,1,49.875,Clear
+Czechia,2020-03-23,1,43.25,Partly cloudy
+Czechia,2020-03-24,1,44.125,Clear
+Czechia,2020-03-25,2,46.875,Clear
+Czechia,2020-03-26,5,54.375,Partly cloudy
+Czechia,2020-03-27,9,65.125,Cloudy
+Czechia,2020-03-28,11,65.5,Partly cloudy
+Czechia,2020-03-29,4,74.875,Partly cloudy
+Czechia,2020-03-30,1,52.5,Patchy heavy snow
+Czechia,2020-03-31,1,59.375,Cloudy
+Czechia,2020-04-01,5,47.125,Partly cloudy
+Czechia,2020-04-01,5,47.125,Partly cloudy
+Czechia,2020-04-02,7,50.125,Partly cloudy
+Czechia,2020-04-03,6,68.625,Partly cloudy
+Czechia,2020-04-04,7,67.0,Cloudy
+Czechia,2020-04-05,10,62.25,Partly cloudy
+Czechia,2020-04-06,13,58.375,Clear
+Czechia,2020-04-07,13,57.625,Clear
+Czechia,2020-04-08,14,48.75,Partly cloudy
+Czechia,2020-04-09,15,59.25,Clear
+Czechia,2020-04-10,12,63.0,Patchy rain possible
+Czechia,2020-04-11,13,53.25,Overcast
+Czechia,2020-04-12,16,53.75,Partly cloudy
+Czechia,2020-04-13,11,63.875,Partly cloudy
+Czechia,2020-04-14,5,51.875,Partly cloudy
+Czechia,2020-04-15,9,53.75,Clear
+Czechia,2020-04-16,15,56.125,Clear
+Czechia,2020-04-17,14,64.25,Partly cloudy
+Czechia,2020-04-18,15,62.375,Partly cloudy
+Czechia,2020-04-19,12,51.25,Overcast
+Czechia,2020-04-20,9,57.375,Partly cloudy
+Czechia,2020-04-21,10,55.125,Clear
+Czechia,2020-04-22,11,59.5,Clear
+Czechia,2020-04-23,13,62.125,Partly cloudy
+Czechia,2020-04-24,14,63.5,Clear
+Czechia,2020-04-25,10,64.625,Patchy rain possible
+Czechia,2020-04-26,13,60.25,Partly cloudy
+Czechia,2020-04-27,16,56.375,Partly cloudy
+Czechia,2020-04-28,18,66.5,Partly cloudy
+Czechia,2020-04-29,15,76.0,Light rain shower
+Czechia,2020-04-30,14,73.375,Light rain shower
+Czechia,2020-05-01,13,71.25,Patchy light drizzle
+Czechia,2020-05-01,13,71.25,Patchy light drizzle
+Czechia,2020-05-02,12,66.125,Light drizzle
+Czechia,2020-05-03,13,62.0,Partly cloudy
+Czechia,2020-05-04,11,74.25,Partly cloudy
+Czechia,2020-05-05,9,63.0,Light rain
+Czechia,2020-05-06,10,69.0,Partly cloudy
+Czechia,2020-05-07,11,65.5,Partly cloudy
+Czechia,2020-05-08,16,59.375,Clear
+Czechia,2020-05-09,18,68.0,Partly cloudy
+Czechia,2020-05-10,20,71.0,Overcast
+Czechia,2020-05-11,10,87.625,Partly cloudy
+Czechia,2020-05-12,7,60.375,Moderate or heavy sleet
+Czechia,2020-05-13,10,62.75,Partly cloudy
+Czechia,2020-05-14,11,80.5,Moderate rain
+Czechia,2020-05-15,11,67.0,Overcast
+Czechia,2020-05-16,12,65.75,Partly cloudy
+Czechia,2020-05-17,16,67.0,Partly cloudy
+Czechia,2020-05-18,18,62.125,Clear
+Czechia,2020-05-19,19,67.375,Partly cloudy
+Czechia,2020-05-20,15,72.5,Partly cloudy
+Czechia,2020-05-21,15,62.5,Partly cloudy
+Czechia,2020-05-22,16,63.875,Partly cloudy
+Czechia,2020-05-23,13,89.25,Moderate rain
+Czechia,2020-05-24,13,72.75,Patchy rain possible
+Czechia,2020-05-25,12,74.75,Thundery outbreaks possible
+Czechia,2020-05-26,14,74.0,Partly cloudy
+Czechia,2020-05-27,16,65.0,Partly cloudy
+Czechia,2020-05-28,13,69.75,Overcast
+Czechia,2020-05-29,13,71.0,Patchy rain possible
+Czechia,2020-05-30,12,64.625,Partly cloudy
+Czechia,2020-05-31,14,69.375,Partly cloudy
+Czechia,2020-06-01,16,68.625,Partly cloudy
+Czechia,2020-06-01,16,68.625,Partly cloudy
+Czechia,2020-06-02,16,64.625,Partly cloudy
+Czechia,2020-06-03,19,68.25,Thundery outbreaks possible
+Czechia,2020-06-04,17,79.125,Moderate rain at times
+Czechia,2020-06-05,14,80.0,Moderate or heavy rain shower
+Czechia,2020-06-06,14,76.25,Partly cloudy
+Czechia,2020-06-07,15,86.75,Patchy light drizzle
+Czechia,2020-06-08,14,80.125,Light rain
+Czechia,2020-06-09,15,77.375,Partly cloudy
+Czechia,2020-06-10,12,92.0,Patchy rain possible
+Czechia,2020-06-11,18,84.375,Light rain
+Czechia,2020-06-12,22,72.75,Partly cloudy
+Czechia,2020-06-13,24,75.625,Patchy rain possible
+Czechia,2020-06-14,22,79.75,Patchy rain possible
+Czechia,2020-06-15,20,68.125,Light rain shower
+Czechia,2020-06-16,20,66.125,Partly cloudy
+Czechia,2020-06-17,21,70.75,Patchy rain possible
+Czechia,2020-06-18,20,80.375,Patchy rain possible
+Czechia,2020-06-19,18,74.5,Light drizzle
+Czechia,2020-06-20,17,77.625,Patchy rain possible
+Czechia,2020-06-21,18,71.5,Light drizzle
+Czechia,2020-06-22,20,70.75,Partly cloudy
+Czechia,2020-06-23,19,65.75,Patchy rain possible
+Czechia,2020-06-24,16,73.625,Partly cloudy
+Czechia,2020-06-25,19,76.625,Cloudy
+Czechia,2020-06-26,22,69.25,Patchy rain possible
+Czechia,2020-06-27,24,67.625,Partly cloudy
+Czechia,2020-06-28,25,68.0,Patchy rain possible
+Czechia,2020-06-29,18,80.0,Light rain shower
+Czechia,2020-06-30,19,64.125,Partly cloudy
+Czechia,2020-07-01,23,68.25,Partly cloudy
+Czechia,2020-07-01,23,68.25,Partly cloudy
+Czechia,2020-07-02,23,72.25,Partly cloudy
+Czechia,2020-07-03,20,64.125,Patchy rain possible
+Czechia,2020-07-04,21,63.25,Partly cloudy
+Czechia,2020-07-05,21,69.625,Partly cloudy
+Czechia,2020-07-06,19,71.0,Overcast
+Czechia,2020-07-07,15,65.375,Partly cloudy
+Czechia,2020-07-08,16,72.25,Partly cloudy
+Czechia,2020-07-09,18,83.75,Light rain
+Czechia,2020-07-10,24,69.875,Cloudy
+Czechia,2020-07-11,16,64.625,Patchy rain possible
+Czechia,2020-07-12,18,59.375,Partly cloudy
+Czechia,2020-07-13,19,56.625,Partly cloudy
+Czechia,2020-07-14,20,62.625,Partly cloudy
+Czechia,2020-07-15,20,69.0,Partly cloudy
+Czechia,2020-07-16,17,72.625,Patchy rain possible
+Czechia,2020-07-17,17,70.5,Patchy rain possible
+Czechia,2020-07-18,18,77.25,Patchy rain possible
+Czechia,2020-07-19,22,67.375,Light rain shower
+Czechia,2020-07-20,23,68.5,Moderate or heavy rain shower
+Czechia,2020-07-21,20,70.0,Partly cloudy
+Czechia,2020-07-22,20,56.375,Partly cloudy
+Czechia,2020-07-23,20,60.0,Partly cloudy
+Czechia,2020-07-24,21,66.125,Partly cloudy
+Czechia,2020-07-25,23,62.0,Patchy rain possible
+Czechia,2020-07-26,21,73.375,Partly cloudy
+Czechia,2020-07-27,23,64.25,Partly cloudy
+Czechia,2020-07-28,27,59.25,Partly cloudy
+Czechia,2020-07-29,22,59.625,Patchy rain possible
+Czechia,2020-07-30,22,55.0,Partly cloudy
+Czechia,2020-07-31,23,53.75,Partly cloudy
+Czechia,2020-08-01,24,54.125,Partly cloudy
+Czechia,2020-08-01,24,54.125,Partly cloudy
+Czechia,2020-08-02,22,70.375,Partly cloudy
+Czechia,2020-08-03,16,83.875,Moderate or heavy rain shower
+Czechia,2020-08-04,13,88.0,Patchy rain possible
+Czechia,2020-08-05,20,65.5,Partly cloudy
+Czechia,2020-08-06,21,65.375,Partly cloudy
+Czechia,2020-08-07,25,67.625,Partly cloudy
+Czechia,2020-08-08,27,59.25,Partly cloudy
+Czechia,2020-08-09,26,59.375,Partly cloudy
+Czechia,2020-08-10,26,62.625,Partly cloudy
+Czechia,2020-08-11,25,67.25,Patchy rain possible
+Czechia,2020-08-12,25,63.625,Patchy rain possible
+Czechia,2020-08-13,26,60.125,Partly cloudy
+Czechia,2020-08-14,26,65.5,Partly cloudy
+Czechia,2020-08-15,20,85.125,Moderate or heavy rain shower
+Czechia,2020-08-16,23,65.625,Partly cloudy
+Czechia,2020-08-17,25,66.25,Partly cloudy
+Czechia,2020-08-18,21,72.75,Light rain shower
+Czechia,2020-08-19,22,64.875,Patchy rain possible
+Czechia,2020-08-20,24,58.375,Partly cloudy
+Czechia,2020-08-21,26,57.375,Partly cloudy
+Czechia,2020-08-22,25,68.75,Partly cloudy
+Czechia,2020-08-23,21,62.625,Partly cloudy
+Czechia,2020-08-24,20,63.625,Patchy rain possible
+Czechia,2020-08-25,20,59.5,Patchy rain possible
+Czechia,2020-08-26,21,53.25,Partly cloudy
+Czechia,2020-08-27,18,59.0,Partly cloudy
+Czechia,2020-08-28,20,66.75,Partly cloudy
+Czechia,2020-08-29,18,74.875,Heavy rain
+Czechia,2020-08-30,17,87.375,Moderate rain
+Czechia,2020-08-31,16,79.125,Light rain shower
+Czechia,2020-09-01,14,82.375,Partly cloudy
+Czechia,2020-09-01,14,82.375,Partly cloudy
+Czechia,2020-09-02,16,61.875,Partly cloudy
+Czechia,2020-09-03,17,61.25,Partly cloudy
+Czechia,2020-09-04,20,62.5,Partly cloudy
+Czechia,2020-09-05,20,74.25,Partly cloudy
+Czechia,2020-09-06,17,67.375,Partly cloudy
+Czechia,2020-09-07,17,55.0,Partly cloudy
+Czechia,2020-09-08,19,55.5,Partly cloudy
+Czechia,2020-09-09,21,53.75,Partly cloudy
+Czechia,2020-09-10,17,68.25,Partly cloudy
+Czechia,2020-09-11,19,60.5,Partly cloudy
+Czechia,2020-09-12,22,67.875,Partly cloudy
+Czechia,2020-09-13,23,62.625,Partly cloudy
+Czechia,2020-09-14,23,61.75,Partly cloudy
+Czechia,2020-09-15,24,61.75,Partly cloudy
+Czechia,2020-09-16,23,65.375,Partly cloudy
+Czechia,2020-09-17,18,66.875,Partly cloudy
+Czechia,2020-09-18,14,56.625,Clear
+Czechia,2020-09-19,16,52.625,Partly cloudy
+Czechia,2020-09-20,17,54.875,Clear
+Czechia,2020-09-21,19,59.25,Partly cloudy
+Czechia,2020-09-22,20,61.0,Partly cloudy
+Czechia,2020-09-23,19,70.75,Partly cloudy
+Czechia,2020-09-24,20,68.75,Partly cloudy
+Czechia,2020-09-25,12,79.0,Partly cloudy
+Czechia,2020-09-26,7,86.25,Moderate rain
+Czechia,2020-09-27,10,77.0,Cloudy
+Czechia,2020-09-28,9,85.375,Partly cloudy
+Czechia,2020-09-29,13,77.25,Light drizzle
+Czechia,2020-09-30,14,75.75,Overcast
+Czechia,2020-10-01,15,70.125,Partly cloudy
+Czechia,2020-10-01,15,70.125,Partly cloudy
+Czechia,2020-10-02,14,78.875,Partly cloudy
+Czechia,2020-10-03,20,63.625,Partly cloudy
+Czechia,2020-10-04,15,72.5,Partly cloudy
+Czechia,2020-10-05,12,74.375,Partly cloudy
+Czechia,2020-10-06,13,70.25,Overcast
+Czechia,2020-10-07,12,72.375,Light drizzle
+Czechia,2020-10-08,12,75.25,Partly cloudy
+Czechia,2020-10-09,14,79.0,Partly cloudy
+Czechia,2020-10-10,11,81.875,Patchy rain possible
+Czechia,2020-10-11,9,67.75,Cloudy
+Czechia,2020-10-12,9,64.5,Overcast
+Czechia,2020-10-13,6,85.0,Patchy rain possible
+Czechia,2020-10-14,6,87.75,Light rain
+Czechia,2020-10-15,10,87.5,Light rain
+Czechia,2020-10-16,9,81.875,Light drizzle
+Czechia,2020-10-17,7,80.125,Light drizzle
+Czechia,2020-10-18,8,74.25,Patchy rain possible
+Czechia,2020-10-19,9,63.125,Cloudy
+Czechia,2020-10-20,9,75.875,Partly cloudy
+Czechia,2020-10-21,11,78.625,Partly cloudy
+Czechia,2020-10-22,14,71.75,Partly cloudy
+Czechia,2020-10-23,14,79.5,Partly cloudy
+Czechia,2020-10-24,12,77.875,Light rain shower
+Czechia,2020-10-25,13,78.875,Partly cloudy
+Czechia,2020-10-26,12,83.5,Partly cloudy
+Czechia,2020-10-27,10,75.125,Light drizzle
+Czechia,2020-10-28,9,74.25,Partly cloudy
+Czechia,2020-10-29,9,77.25,Overcast
+Czechia,2020-10-30,11,82.875,Partly cloudy
+Czechia,2020-10-31,13,81.875,Light drizzle
+Czechia,2020-11-01,10,90.125,Partly cloudy
+Czechia,2020-11-01,10,90.125,Partly cloudy
+Czechia,2020-11-02,14,88.25,Light drizzle
+Czechia,2020-11-03,12,83.0,Partly cloudy
+Czechia,2020-11-04,9,71.375,Moderate rain
+Czechia,2020-11-05,8,76.0,Partly cloudy
+Czechia,2020-11-06,8,73.625,Clear
+Czechia,2020-11-07,8,68.25,Partly cloudy
+Czechia,2020-11-08,8,73.125,Clear
+Czechia,2020-11-09,9,76.125,Partly cloudy
+Czechia,2020-11-10,7,83.875,Partly cloudy
+Czechia,2020-11-11,6,86.75,Partly cloudy
+Czechia,2020-11-12,6,83.5,Partly cloudy
+Czechia,2020-11-13,8,83.75,Partly cloudy
+Czechia,2020-11-14,10,76.875,Partly cloudy
+Czechia,2020-11-15,8,82.25,Partly cloudy
+Czechia,2020-11-16,9,78.375,Cloudy
+Czechia,2020-11-17,8,81.5,Cloudy
+Czechia,2020-11-18,9,77.625,Partly cloudy
+Czechia,2020-11-19,8,75.0,Partly cloudy
+Czechia,2020-11-20,3,68.375,Light rain shower
+Czechia,2020-11-21,3,74.625,Partly cloudy
+Czechia,2020-11-22,4,63.375,Partly cloudy
+Czechia,2020-11-23,6,81.5,Overcast
+Czechia,2020-11-24,4,80.5,Partly cloudy
+Czechia,2020-11-25,3,83.375,Partly cloudy
+Czechia,2020-11-26,4,77.375,Clear
+Czechia,2020-11-27,2,75.875,Partly cloudy
+Czechia,2020-11-28,2,82.625,Partly cloudy
+Czechia,2020-11-29,1,81.375,Cloudy
+Czechia,2020-11-30,1,82.125,Light snow
+Czechia,2020-12-01,0,79.375,Clear
+Czechia,2021-01-01,0,79.875,Partly cloudy
+Czechia,2021-01-02,-1,85.875,Cloudy
+Czechia,2021-01-03,3,91.875,Overcast
+Czechia,2021-01-04,3,93.625,Overcast
+Czechia,2021-01-05,2,91.5,Light sleet
+Czechia,2021-01-06,1,93.5,Moderate snow
+Czechia,2021-01-07,-1,85.375,Heavy snow
+Czechia,2021-01-08,-2,86.875,Partly cloudy
+Czechia,2021-01-09,-1,90.0,Cloudy
+Czechia,2021-01-10,-3,91.375,Cloudy
+Czechia,2021-01-11,-4,87.5,Partly cloudy
+Czechia,2021-01-12,0,86.5,Partly cloudy
+Czechia,2021-01-13,0,80.0,Patchy snow possible
+Czechia,2021-01-14,-1,84.375,Patchy heavy snow
+Czechia,2021-01-15,-3,86.625,Cloudy
+Czechia,2021-01-16,-6,88.0,Light snow
+Czechia,2021-01-17,-6,88.625,Cloudy
+Czechia,2021-01-18,-2,92.375,Partly cloudy
+Czechia,2021-01-19,0,88.625,Overcast
+Czechia,2021-01-20,3,79.375,Patchy light drizzle
+Czechia,2021-01-21,1,85.75,Partly cloudy
+Czechia,2021-01-22,3,83.875,Partly cloudy
+Czechia,2021-01-23,1,93.25,Partly cloudy
+Czechia,2021-01-24,0,83.0,Cloudy
+Czechia,2021-01-25,-1,81.625,Light snow
+Czechia,2021-01-26,-1,83.25,Cloudy
+Czechia,2021-01-27,-1,84.75,Light snow
+Czechia,2021-01-28,2,92.75,Overcast
+Czechia,2021-01-29,3,94.375,Light sleet
+Czechia,2021-01-30,2,83.0,Cloudy
+Czechia,2021-01-31,-2,74.5,Partly cloudy
+Czechia,2021-02-01,-1,71.5,Partly cloudy
+Czechia,2021-02-01,-1,71.5,Partly cloudy
+Czechia,2021-02-02,3,86.875,Overcast
+Czechia,2021-02-03,7,88.625,Light drizzle
+Czechia,2021-02-04,6,73.0,Partly cloudy
+Czechia,2021-02-05,5,85.25,Overcast
+Czechia,2021-02-06,2,86.125,Light drizzle
+Czechia,2021-02-07,-2,78.25,Overcast
+Czechia,2021-02-08,-7,93.5,Overcast
+Czechia,2021-02-09,-8,94.75,Partly cloudy
+Czechia,2021-02-10,-10,95.75,Moderate snow
+Czechia,2021-02-11,-10,89.5,Overcast
+Czechia,2021-02-12,-10,92.75,Light snow
+Czechia,2021-02-13,-10,92.375,Mist
+Czechia,2021-02-14,-6,88.75,Mist
+Czechia,2021-02-15,-6,79.0,Partly cloudy
+Czechia,2021-02-16,0,98.0,Heavy snow
+Czechia,2021-02-17,3,95.625,Mist
+Czechia,2021-02-18,2,93.0,Partly cloudy
+Czechia,2021-02-19,4,90.75,Overcast
+Czechia,2021-02-20,6,82.5,Partly cloudy
+Czechia,2021-02-21,6,86.875,Partly cloudy
+Czechia,2021-02-22,6,82.125,Cloudy
+Czechia,2021-02-23,8,76.875,Partly cloudy
+Czechia,2021-02-24,12,66.875,Clear
+Czechia,2021-02-25,12,70.75,Clear
+Czechia,2021-02-26,9,74.75,Clear
+Czechia,2021-02-27,3,78.375,Patchy rain possible
+Czechia,2021-02-28,4,76.0,Partly cloudy
+Czechia,2021-03-01,7,77.875,Clear
+Czechia,2021-03-01,7,77.875,Clear
+Czechia,2021-03-02,9,70.375,Clear
+Czechia,2021-03-03,8,70.875,Clear
+Czechia,2021-03-04,9,73.25,Partly cloudy
+Czechia,2021-03-05,2,67.875,Moderate rain
+Czechia,2021-03-06,3,48.375,Partly cloudy
+Czechia,2021-03-07,4,55.5,Clear
+Czechia,2021-03-08,2,69.25,Partly cloudy
+Czechia,2021-03-09,1,68.875,Partly cloudy
+Czechia,2021-03-10,2,80.0,Overcast
+Czechia,2021-03-11,5,82.375,Partly cloudy
+Czechia,2021-03-12,6,65.875,Cloudy
+Czechia,2021-03-13,7,69.75,Partly cloudy
+Czechia,2021-03-14,5,68.125,Patchy rain possible
+Czechia,2021-03-15,4,77.125,Light sleet showers
+Czechia,2021-03-16,3,76.875,Heavy snow
+Czechia,2021-03-17,2,81.0,Light snow showers
+Czechia,2021-03-18,3,76.0,Cloudy
+Czechia,2021-03-19,1,78.875,Cloudy
+Czechia,2021-03-20,-2,59.5,Patchy moderate snow
+Czechia,2021-03-21,2,71.75,Overcast
+Czechia,2021-03-22,2,67.375,Moderate or heavy snow showers
+Czechia,2021-03-23,4,83.75,Cloudy
+Czechia,2021-03-24,7,72.5,Overcast
+Czechia,2021-03-25,10,67.5,Cloudy
+Czechia,2021-03-26,11,68.125,Partly cloudy
+Czechia,2021-03-27,10,63.0,Partly cloudy
+Czechia,2021-03-28,11,62.875,Partly cloudy
+Czechia,2021-03-29,11,66.125,Partly cloudy
+Czechia,2021-03-30,15,59.125,Partly cloudy
+Czechia,2021-03-31,17,57.75,Partly cloudy
+Czechia,2021-04-01,17,60.0,Partly cloudy
+Czechia,2021-04-01,17,60.0,Partly cloudy
+Czechia,2021-04-02,7,71.875,Light rain shower
+Czechia,2021-04-03,3,89.625,Cloudy
+Czechia,2021-04-04,6,59.75,Moderate or heavy snow showers
+Czechia,2021-04-05,8,70.625,Partly cloudy
+Czechia,2021-04-06,2,59.625,Light freezing rain
+Czechia,2021-04-07,1,68.5,Moderate or heavy snow showers
+Czechia,2021-04-08,3,66.25,Partly cloudy
+Czechia,2021-04-09,7,65.125,Partly cloudy
+Czechia,2021-04-10,11,66.75,Partly cloudy
+Czechia,2021-04-11,11,71.75,Partly cloudy
+Czechia,2021-04-12,6,85.75,Partly cloudy
+Czechia,2021-04-13,2,88.0,Heavy snow
+Czechia,2021-04-14,4,59.375,Overcast
+Czechia,2021-04-15,4,64.375,Partly cloudy
+Czechia,2021-04-16,1,98.875,Heavy snow
+Czechia,2021-04-17,3,95.75,Mist
+Czechia,2021-04-18,6,91.0,Fog
+Czechia,2021-04-19,8,85.25,Overcast
+Czechia,2021-04-20,10,69.875,Partly cloudy
+Czechia,2021-04-21,11,68.0,Partly cloudy
+Czechia,2021-04-22,7,62.0,Partly cloudy
+Czechia,2021-04-23,6,65.0,Patchy rain possible
+Czechia,2021-04-24,9,63.75,Partly cloudy
+Czechia,2021-04-25,9,57.625,Partly cloudy
+Czechia,2021-04-26,7,56.0,Partly cloudy
+Czechia,2021-04-27,8,64.125,Partly cloudy
+Czechia,2021-04-28,10,76.5,Overcast
+Czechia,2021-04-29,12,73.375,Partly cloudy
+Czechia,2021-04-30,12,65.125,Light rain
+Czechia,2021-05-01,12,77.375,Light drizzle
+Czechia,2021-05-01,12,77.375,Light drizzle
+Czechia,2021-05-02,6,92.25,Overcast
+Czechia,2021-05-03,8,73.75,Patchy rain possible
+Czechia,2021-05-04,11,66.75,Partly cloudy
+Czechia,2021-05-05,7,81.75,Overcast
+Czechia,2021-05-06,9,72.0,Partly cloudy
+Czechia,2021-05-07,8,75.0,Light drizzle
+Czechia,2021-05-08,10,60.375,Patchy rain possible
+Czechia,2021-05-09,15,64.5,Partly cloudy
+Czechia,2021-05-10,18,69.375,Partly cloudy
+Czechia,2021-05-11,18,77.5,Partly cloudy
+Czechia,2021-05-12,14,91.5,Patchy rain possible
+Czechia,2021-05-13,10,96.25,Light rain shower
+Czechia,2021-05-14,9,91.625,Moderate rain
+Czechia,2021-05-15,13,78.25,Patchy rain possible
+Czechia,2021-05-16,12,79.875,Light rain shower
+Czechia,2021-05-17,12,81.25,Cloudy
+Czechia,2021-05-18,10,80.5,Partly cloudy
+Czechia,2021-05-19,11,77.375,Light rain shower
+Czechia,2021-05-20,11,83.0,Partly cloudy
+Czechia,2021-05-21,13,74.25,Partly cloudy
+Czechia,2021-05-22,13,73.125,Patchy rain possible
+Czechia,2021-05-23,11,76.375,Partly cloudy
+Czechia,2021-05-24,14,76.375,Partly cloudy
+Czechia,2021-05-25,12,73.5,Cloudy
+Czechia,2021-05-26,12,73.0,Partly cloudy
+Czechia,2021-05-27,12,78.25,Light drizzle
+Czechia,2021-05-28,12,75.875,Partly cloudy
+Czechia,2021-05-29,12,75.625,Partly cloudy
+Czechia,2021-05-30,13,65.375,Patchy rain possible
+Czechia,2021-05-31,13,68.625,Partly cloudy
+Czechia,2021-06-01,15,71.0,Partly cloudy
+Czechia,2021-06-01,15,71.0,Partly cloudy
+Czechia,2021-06-02,17,66.0,Partly cloudy
+Czechia,2021-06-03,17,66.875,Partly cloudy
+Czechia,2021-06-04,21,68.75,Partly cloudy
+Czechia,2021-06-05,18,77.25,Partly cloudy
+Czechia,2021-06-06,17,91.875,Light rain shower
+Czechia,2021-06-07,20,70.75,Partly cloudy
+Czechia,2021-06-08,21,62.25,Partly cloudy
+Czechia,2021-06-09,19,76.875,Partly cloudy
+Czechia,2021-06-10,21,67.625,Partly cloudy
+Czechia,2021-06-11,20,71.75,Patchy rain possible
+Czechia,2021-06-12,19,76.625,Patchy rain possible
+Czechia,2021-06-13,14,67.875,Patchy rain possible
+Czechia,2021-06-14,20,67.25,Partly cloudy
+Czechia,2021-06-15,21,64.625,Partly cloudy
+Czechia,2021-06-16,22,74.25,Partly cloudy
+Czechia,2021-06-17,24,64.5,Partly cloudy
+Czechia,2021-06-18,25,64.375,Partly cloudy
+Czechia,2021-06-19,26,64.375,Partly cloudy
+Czechia,2021-06-20,27,65.625,Patchy rain possible
+Czechia,2021-06-21,24,66.375,Patchy rain possible
+Czechia,2021-06-22,24,72.5,Patchy rain possible
+Czechia,2021-06-23,20,84.125,Light rain shower
+Czechia,2021-06-24,21,82.0,Partly cloudy
+Czechia,2021-06-25,16,95.125,Moderate rain
+Czechia,2021-06-26,20,77.0,Patchy rain possible
+Czechia,2021-06-27,22,72.75,Patchy rain possible
+Czechia,2021-06-28,25,65.0,Partly cloudy
+Czechia,2021-06-29,24,68.25,Partly cloudy
+Czechia,2021-06-30,19,86.875,Moderate rain at times
+Czechia,2021-07-01,18,70.5,Patchy rain possible
+Czechia,2021-07-01,18,70.5,Patchy rain possible
+Czechia,2021-07-02,15,90.875,Overcast
+Czechia,2021-07-03,21,71.5,Overcast
+Czechia,2021-07-04,19,75.0,Partly cloudy
+Czechia,2021-07-05,21,73.5,Patchy rain possible
+Czechia,2021-07-06,23,70.375,Patchy rain possible
+Czechia,2021-07-07,22,76.5,Partly cloudy
+Czechia,2021-07-08,18,85.625,Partly cloudy
+Czechia,2021-07-09,19,84.625,Heavy rain at times
+Czechia,2021-07-10,20,74.0,Overcast
+Czechia,2021-07-11,22,66.875,Partly cloudy
+Czechia,2021-07-12,25,63.75,Partly cloudy
+Czechia,2021-07-13,26,67.0,Partly cloudy
+Czechia,2021-07-14,21,80.375,Light rain shower
+Czechia,2021-07-15,18,76.375,Patchy rain possible
+Czechia,2021-07-16,22,70.375,Partly cloudy
+Czechia,2021-07-17,22,78.75,Patchy rain possible
+Czechia,2021-07-18,21,72.0,Moderate or heavy rain shower
+Czechia,2021-07-19,20,74.25,Partly cloudy
+Czechia,2021-07-20,17,64.25,Partly cloudy
+Czechia,2021-07-21,19,67.125,Partly cloudy
+Czechia,2021-07-22,21,63.0,Partly cloudy
+Czechia,2021-07-23,22,59.875,Partly cloudy
+Czechia,2021-07-24,25,52.0,Partly cloudy
+Czechia,2021-07-25,22,68.25,Partly cloudy
+Czechia,2021-07-26,24,72.875,Patchy rain possible
+Czechia,2021-07-27,23,71.625,Light rain shower
+Czechia,2021-07-28,21,70.125,Partly cloudy
+Czechia,2021-07-29,23,65.75,Partly cloudy
+Czechia,2021-07-30,22,58.75,Partly cloudy
+Czechia,2021-07-31,22,63.875,Patchy rain possible
+Czechia,2021-08-01,15,80.75,Partly cloudy
+Czechia,2021-08-01,15,80.75,Partly cloudy
+Czechia,2021-08-02,19,73.5,Overcast
+Czechia,2021-08-03,21,68.5,Patchy rain possible
+Czechia,2021-08-04,19,68.75,Light rain shower
+Czechia,2021-08-05,15,89.875,Patchy light drizzle
+Czechia,2021-08-06,20,70.25,Patchy rain possible
+Czechia,2021-08-07,22,67.625,Partly cloudy
+Czechia,2021-08-08,18,73.75,Partly cloudy
+Czechia,2021-08-09,20,67.875,Partly cloudy
+Czechia,2021-08-10,22,67.375,Light rain shower
+Czechia,2021-08-11,21,66.375,Patchy rain possible
+Czechia,2021-08-12,24,54.375,Partly cloudy
+Czechia,2021-08-13,26,58.375,Partly cloudy
+Czechia,2021-08-14,26,60.375,Partly cloudy
+Czechia,2021-08-15,26,53.75,Partly cloudy
+Czechia,2021-08-16,22,63.875,Partly cloudy
+Czechia,2021-08-17,17,64.875,Partly cloudy
+Czechia,2021-08-18,17,63.375,Overcast
+Czechia,2021-08-19,18,70.0,Partly cloudy
+Czechia,2021-08-20,19,66.25,Patchy rain possible
+Czechia,2021-08-21,22,59.25,Partly cloudy
+Czechia,2021-08-22,23,64.125,Partly cloudy
+Czechia,2021-08-23,18,74.0,Patchy light drizzle
+Czechia,2021-08-24,15,80.25,Light rain shower
+Czechia,2021-08-25,18,62.875,Partly cloudy
+Czechia,2021-08-26,15,71.625,Partly cloudy
+Czechia,2021-08-27,14,79.0,Light rain shower
+Czechia,2021-08-28,15,79.375,Light rain shower
+Czechia,2021-08-29,15,81.25,Patchy light rain with thunder
+Czechia,2021-08-30,16,74.75,Patchy rain possible
+Czechia,2021-08-31,14,86.125,Cloudy
+Czechia,2021-09-01,16,71.625,Overcast
+Czechia,2021-09-01,16,71.625,Overcast
+Czechia,2021-09-02,17,62.25,Overcast
+Czechia,2021-09-03,20,58.875,Partly cloudy
+Czechia,2021-09-04,19,63.875,Partly cloudy
+Czechia,2021-09-05,18,63.0,Partly cloudy
+Czechia,2021-09-06,19,55.875,Partly cloudy
+Czechia,2021-09-07,22,53.375,Partly cloudy
+Czechia,2021-09-08,22,50.625,Partly cloudy
+Czechia,2021-09-09,21,48.75,Clear
+Czechia,2021-09-10,22,64.375,Partly cloudy
+Czechia,2021-09-11,21,76.125,Patchy rain possible
+Czechia,2021-09-12,20,69.625,Partly cloudy
+Czechia,2021-09-13,20,67.625,Partly cloudy
+Czechia,2021-09-14,21,63.25,Partly cloudy
+Czechia,2021-09-15,21,66.125,Partly cloudy
+Czechia,2021-09-16,18,83.75,Partly cloudy
+Czechia,2021-09-17,16,67.5,Partly cloudy
+Czechia,2021-09-18,16,67.25,Partly cloudy
+Czechia,2021-09-19,14,66.625,Overcast
+Czechia,2021-09-20,13,61.0,Partly cloudy
+Czechia,2021-09-21,13,59.5,Partly cloudy
+Czechia,2021-09-22,12,61.75,Partly cloudy
+Czechia,2021-09-23,17,64.625,Partly cloudy
+Czechia,2021-09-24,17,61.5,Partly cloudy
+Czechia,2021-09-25,19,68.75,Partly cloudy
+Czechia,2021-09-26,20,59.5,Partly cloudy
+Czechia,2021-09-27,18,74.625,Partly cloudy
+Czechia,2021-09-28,19,74.5,Light rain shower
+Czechia,2021-09-29,16,81.5,Partly cloudy
+Czechia,2021-09-30,12,57.375,Partly cloudy
+Czechia,2021-10-01,14,55.875,Partly cloudy
+Czechia,2021-10-01,14,55.875,Partly cloudy
+Czechia,2021-10-02,16,66.625,Clear
+Czechia,2021-10-03,15,62.125,Partly cloudy
+Czechia,2021-10-04,15,74.25,Partly cloudy
+Czechia,2021-10-05,17,73.0,Partly cloudy
+Czechia,2021-10-06,13,72.125,Overcast
+Czechia,2021-10-07,11,69.0,Overcast
+Czechia,2021-10-08,14,66.0,Overcast
+Czechia,2021-10-09,11,49.875,Clear
+Czechia,2021-10-10,9,50.125,Clear
+Czechia,2021-10-11,10,50.0,Partly cloudy
+Czechia,2021-10-12,8,77.75,Cloudy
+Czechia,2021-10-13,7,70.75,Patchy rain possible
+Czechia,2021-10-14,7,80.5,Cloudy
+Czechia,2021-10-15,11,73.25,Partly cloudy
+Czechia,2021-10-16,10,67.375,Overcast
+Czechia,2021-10-17,9,68.25,Clear
+Czechia,2021-10-18,12,64.125,Partly cloudy
+Czechia,2021-10-19,12,64.5,Partly cloudy
+Czechia,2021-10-20,16,73.25,Patchy rain possible
+Czechia,2021-10-21,14,67.125,Clear
+Czechia,2021-10-22,7,62.625,Patchy rain possible
+Czechia,2021-10-23,8,62.5,Overcast
+Czechia,2021-10-24,9,63.5,Clear
+Czechia,2021-10-25,8,66.25,Clear
+Czechia,2021-10-26,9,65.125,Clear
+Czechia,2021-10-27,10,76.875,Partly cloudy
+Czechia,2021-10-28,13,68.125,Clear
+Czechia,2021-10-29,11,56.75,Clear
+Czechia,2021-10-30,10,68.375,Clear
+Czechia,2021-10-31,13,59.875,Clear
+Czechia,2021-11-01,10,79.875,Clear
+Czechia,2021-11-01,10,79.875,Clear
+Czechia,2021-11-02,9,85.75,Light drizzle
+Czechia,2021-11-03,7,83.25,Partly cloudy
+Czechia,2021-11-04,8,88.375,Overcast
+Czechia,2021-11-05,6,79.875,Cloudy
+Czechia,2021-11-06,9,74.125,Partly cloudy
+Czechia,2021-11-07,7,76.0,Clear
+Czechia,2021-11-08,6,76.0,Patchy rain possible
+Czechia,2021-11-09,6,78.25,Partly cloudy
+Czechia,2021-11-10,6,76.125,Partly cloudy
+Czechia,2021-11-11,7,70.375,Clear
+Czechia,2021-11-12,7,73.375,Clear
+Czechia,2021-11-13,7,75.5,Partly cloudy
+Czechia,2021-11-14,7,93.125,Light drizzle
+Czechia,2021-11-15,8,76.75,Cloudy
+Czechia,2021-11-16,6,82.625,Clear
+Czechia,2021-11-17,7,79.875,Partly cloudy
+Czechia,2021-11-18,7,75.375,Overcast
+Czechia,2021-11-19,9,76.375,Overcast
+Czechia,2021-11-20,10,72.25,Partly cloudy
+Czechia,2021-11-21,7,80.125,Clear
+Czechia,2021-11-22,5,75.5,Overcast
+Czechia,2021-11-23,3,66.125,Partly cloudy
+Czechia,2021-11-24,4,70.0,Partly cloudy
+Czechia,2021-11-25,2,74.375,Clear
+Czechia,2021-11-26,1,81.625,Cloudy
+Czechia,2021-11-27,0,89.75,Heavy snow
+Czechia,2021-11-28,1,88.25,Overcast
+Czechia,2021-11-29,0,82.5,Light snow
+Czechia,2021-11-30,1,80.625,Partly cloudy
+Czechia,2021-12-01,5,84.25,Patchy rain possible

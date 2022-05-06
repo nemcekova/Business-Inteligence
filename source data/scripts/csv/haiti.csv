@@ -1,0 +1,692 @@
+country,date,temp,humidity,weatherDesc
+Haiti,2020-01-01,26,79.75,Patchy rain possible
+Haiti,2020-01-02,27,80.625,Patchy rain possible
+Haiti,2020-01-03,27,76.5,Partly cloudy
+Haiti,2020-01-04,27,71.875,Clear
+Haiti,2020-01-05,27,76.75,Partly cloudy
+Haiti,2020-01-06,26,70.75,Patchy rain possible
+Haiti,2020-01-07,25,70.375,Partly cloudy
+Haiti,2020-01-08,26,73.375,Partly cloudy
+Haiti,2020-01-09,26,73.375,Partly cloudy
+Haiti,2020-01-10,26,64.625,Partly cloudy
+Haiti,2020-01-11,26,66.375,Partly cloudy
+Haiti,2020-01-12,25,66.0,Partly cloudy
+Haiti,2020-01-13,25,66.5,Partly cloudy
+Haiti,2020-01-14,25,64.125,Partly cloudy
+Haiti,2020-01-15,25,66.75,Patchy rain possible
+Haiti,2020-01-16,26,67.0,Partly cloudy
+Haiti,2020-01-17,25,69.25,Partly cloudy
+Haiti,2020-01-18,26,70.25,Partly cloudy
+Haiti,2020-01-19,26,67.75,Partly cloudy
+Haiti,2020-01-20,26,73.125,Partly cloudy
+Haiti,2020-01-21,26,76.875,Patchy rain possible
+Haiti,2020-01-22,24,80.25,Patchy rain possible
+Haiti,2020-01-23,23,83.375,Patchy rain possible
+Haiti,2020-01-24,24,80.375,Patchy rain possible
+Haiti,2020-01-25,25,78.125,Partly cloudy
+Haiti,2020-01-26,24,78.375,Partly cloudy
+Haiti,2020-01-27,26,74.125,Light rain shower
+Haiti,2020-01-28,26,72.0,Patchy rain possible
+Haiti,2020-01-29,26,72.75,Partly cloudy
+Haiti,2020-01-30,25,77.5,Partly cloudy
+Haiti,2020-01-31,27,70.625,Light rain shower
+Haiti,2020-02-01,28,69.25,Partly cloudy
+Haiti,2020-02-01,28,69.25,Partly cloudy
+Haiti,2020-02-02,26,77.25,Partly cloudy
+Haiti,2020-02-03,26,77.0,Partly cloudy
+Haiti,2020-02-04,26,78.625,Patchy rain possible
+Haiti,2020-02-05,27,71.25,Patchy rain possible
+Haiti,2020-02-06,26,71.625,Partly cloudy
+Haiti,2020-02-07,27,68.25,Clear
+Haiti,2020-02-08,28,68.5,Partly cloudy
+Haiti,2020-02-09,27,70.5,Patchy rain possible
+Haiti,2020-02-10,28,65.5,Patchy rain possible
+Haiti,2020-02-11,27,65.375,Partly cloudy
+Haiti,2020-02-12,28,61.5,Patchy rain possible
+Haiti,2020-02-13,28,62.5,Partly cloudy
+Haiti,2020-02-14,28,58.625,Partly cloudy
+Haiti,2020-02-15,27,66.375,Partly cloudy
+Haiti,2020-02-16,27,68.0,Light rain shower
+Haiti,2020-02-17,27,72.5,Patchy rain possible
+Haiti,2020-02-18,28,69.0,Patchy rain possible
+Haiti,2020-02-19,28,68.625,Partly cloudy
+Haiti,2020-02-20,28,69.875,Light rain shower
+Haiti,2020-02-21,26,73.875,Patchy rain possible
+Haiti,2020-02-22,26,75.125,Patchy rain possible
+Haiti,2020-02-23,26,74.625,Patchy rain possible
+Haiti,2020-02-24,24,78.625,Patchy rain possible
+Haiti,2020-02-25,27,74.125,Patchy rain possible
+Haiti,2020-02-26,27,71.625,Patchy rain possible
+Haiti,2020-02-27,27,73.0,Partly cloudy
+Haiti,2020-02-28,27,73.75,Patchy rain possible
+Haiti,2020-02-29,27,70.875,Patchy rain possible
+Haiti,2020-03-01,24,76.375,Patchy rain possible
+Haiti,2020-03-01,24,76.375,Patchy rain possible
+Haiti,2020-03-02,25,76.75,Partly cloudy
+Haiti,2020-03-03,26,77.375,Patchy rain possible
+Haiti,2020-03-04,28,69.625,Light rain shower
+Haiti,2020-03-05,29,65.625,Light rain shower
+Haiti,2020-03-06,27,71.5,Patchy rain possible
+Haiti,2020-03-07,26,75.25,Light rain shower
+Haiti,2020-03-08,23,79.5,Patchy rain possible
+Haiti,2020-03-09,23,73.375,Partly cloudy
+Haiti,2020-03-10,25,75.0,Patchy rain possible
+Haiti,2020-03-11,25,75.125,Patchy rain possible
+Haiti,2020-03-12,26,73.25,Patchy rain possible
+Haiti,2020-03-13,26,74.25,Patchy rain possible
+Haiti,2020-03-14,26,75.25,Patchy rain possible
+Haiti,2020-03-15,27,67.25,Patchy rain possible
+Haiti,2020-03-16,26,62.875,Partly cloudy
+Haiti,2020-03-17,26,64.75,Partly cloudy
+Haiti,2020-03-18,26,67.625,Partly cloudy
+Haiti,2020-03-19,27,72.125,Patchy rain possible
+Haiti,2020-03-20,26,72.375,Light rain shower
+Haiti,2020-03-21,26,70.625,Light rain shower
+Haiti,2020-03-22,26,70.0,Light rain shower
+Haiti,2020-03-23,27,68.5,Patchy rain possible
+Haiti,2020-03-24,27,70.75,Patchy rain possible
+Haiti,2020-03-25,27,76.25,Light rain shower
+Haiti,2020-03-26,27,72.5,Light rain shower
+Haiti,2020-03-27,27,71.5,Partly cloudy
+Haiti,2020-03-28,28,65.5,Patchy rain possible
+Haiti,2020-03-29,27,66.5,Patchy rain possible
+Haiti,2020-03-30,28,70.375,Patchy rain possible
+Haiti,2020-03-31,27,72.25,Patchy rain possible
+Haiti,2020-04-01,27,71.0,Light rain shower
+Haiti,2020-04-01,27,71.0,Light rain shower
+Haiti,2020-04-02,26,75.875,Patchy rain possible
+Haiti,2020-04-03,26,78.75,Light rain shower
+Haiti,2020-04-04,27,76.5,Patchy rain possible
+Haiti,2020-04-05,27,76.625,Light rain shower
+Haiti,2020-04-06,28,76.25,Light rain shower
+Haiti,2020-04-07,27,73.5,Patchy rain possible
+Haiti,2020-04-08,28,74.5,Light rain shower
+Haiti,2020-04-09,28,75.625,Light rain shower
+Haiti,2020-04-10,29,77.375,Light rain shower
+Haiti,2020-04-11,29,74.125,Partly cloudy
+Haiti,2020-04-12,29,71.375,Patchy rain possible
+Haiti,2020-04-13,29,73.125,Light rain shower
+Haiti,2020-04-14,28,73.625,Light rain shower
+Haiti,2020-04-15,28,76.875,Light rain shower
+Haiti,2020-04-16,28,74.25,Light rain shower
+Haiti,2020-04-17,28,73.75,Light rain shower
+Haiti,2020-04-18,28,73.875,Light rain shower
+Haiti,2020-04-19,29,70.0,Light rain shower
+Haiti,2020-04-20,28,66.625,Patchy rain possible
+Haiti,2020-04-21,28,71.875,Light rain shower
+Haiti,2020-04-22,28,70.375,Patchy rain possible
+Haiti,2020-04-23,29,71.25,Patchy rain possible
+Haiti,2020-04-24,28,74.25,Patchy rain possible
+Haiti,2020-04-25,28,70.0,Patchy rain possible
+Haiti,2020-04-26,29,70.375,Patchy rain possible
+Haiti,2020-04-27,29,65.125,Patchy rain possible
+Haiti,2020-04-28,28,73.0,Light rain
+Haiti,2020-04-29,27,75.75,Moderate or heavy rain shower
+Haiti,2020-04-30,28,69.875,Light rain shower
+Haiti,2020-05-01,29,68.125,Patchy rain possible
+Haiti,2020-05-01,29,68.125,Patchy rain possible
+Haiti,2020-05-02,28,70.75,Patchy rain possible
+Haiti,2020-05-03,28,71.875,Light rain shower
+Haiti,2020-05-04,29,70.125,Light rain shower
+Haiti,2020-05-05,28,75.25,Patchy rain possible
+Haiti,2020-05-06,28,76.25,Light rain shower
+Haiti,2020-05-07,29,76.625,Patchy rain possible
+Haiti,2020-05-08,30,74.5,Patchy rain possible
+Haiti,2020-05-09,31,65.375,Partly cloudy
+Haiti,2020-05-10,29,64.25,Partly cloudy
+Haiti,2020-05-11,28,66.5,Clear
+Haiti,2020-05-12,28,73.875,Patchy rain possible
+Haiti,2020-05-13,28,76.25,Light rain shower
+Haiti,2020-05-14,27,77.25,Light rain shower
+Haiti,2020-05-15,28,71.25,Partly cloudy
+Haiti,2020-05-16,30,67.75,Partly cloudy
+Haiti,2020-05-17,29,69.125,Patchy rain possible
+Haiti,2020-05-18,30,69.625,Patchy rain possible
+Haiti,2020-05-19,29,73.0,Patchy rain possible
+Haiti,2020-05-20,28,75.375,Light rain shower
+Haiti,2020-05-21,28,74.75,Light rain shower
+Haiti,2020-05-22,29,73.375,Light rain shower
+Haiti,2020-05-23,28,76.375,Patchy rain possible
+Haiti,2020-05-24,29,74.75,Light rain shower
+Haiti,2020-05-25,29,74.875,Patchy rain possible
+Haiti,2020-05-26,29,75.375,Patchy rain possible
+Haiti,2020-05-27,29,73.375,Patchy rain possible
+Haiti,2020-05-28,28,75.25,Patchy rain possible
+Haiti,2020-05-29,27,78.0,Patchy rain possible
+Haiti,2020-05-30,28,75.875,Patchy rain possible
+Haiti,2020-05-31,29,73.5,Patchy rain possible
+Haiti,2020-06-01,30,69.375,Partly cloudy
+Haiti,2020-06-01,30,69.375,Partly cloudy
+Haiti,2020-06-02,29,75.5,Patchy rain possible
+Haiti,2020-06-03,29,75.5,Patchy rain possible
+Haiti,2020-06-04,30,70.75,Patchy rain possible
+Haiti,2020-06-05,30,67.125,Clear
+Haiti,2020-06-06,29,68.5,Clear
+Haiti,2020-06-07,26,74.75,Partly cloudy
+Haiti,2020-06-08,28,73.0,Patchy rain possible
+Haiti,2020-06-09,28,76.25,Patchy rain possible
+Haiti,2020-06-10,28,76.75,Patchy rain possible
+Haiti,2020-06-11,27,78.5,Patchy rain possible
+Haiti,2020-06-12,27,76.875,Patchy rain possible
+Haiti,2020-06-13,28,76.125,Patchy rain possible
+Haiti,2020-06-14,28,78.625,Light rain shower
+Haiti,2020-06-15,29,75.5,Patchy rain possible
+Haiti,2020-06-16,28,72.875,Patchy rain possible
+Haiti,2020-06-17,28,73.125,Patchy rain possible
+Haiti,2020-06-18,29,77.625,Patchy rain possible
+Haiti,2020-06-19,29,73.125,Patchy rain possible
+Haiti,2020-06-20,30,68.625,Clear
+Haiti,2020-06-21,30,72.25,Patchy rain possible
+Haiti,2020-06-22,30,72.125,Partly cloudy
+Haiti,2020-06-23,32,66.875,Partly cloudy
+Haiti,2020-06-24,29,73.125,Patchy rain possible
+Haiti,2020-06-25,30,74.75,Light rain shower
+Haiti,2020-06-26,29,71.25,Patchy rain possible
+Haiti,2020-06-27,29,70.25,Patchy rain possible
+Haiti,2020-06-28,30,74.625,Partly cloudy
+Haiti,2020-06-29,29,74.875,Moderate rain at times
+Haiti,2020-06-30,27,75.5,Patchy rain possible
+Haiti,2020-07-01,28,75.75,Patchy rain possible
+Haiti,2020-07-01,28,75.75,Patchy rain possible
+Haiti,2020-07-02,29,74.0,Patchy rain possible
+Haiti,2020-07-03,30,73.625,Patchy rain possible
+Haiti,2020-07-04,29,74.0,Patchy rain possible
+Haiti,2020-07-05,29,76.75,Patchy rain possible
+Haiti,2020-07-06,29,76.25,Patchy rain possible
+Haiti,2020-07-07,29,73.5,Light rain shower
+Haiti,2020-07-08,29,77.0,Patchy rain possible
+Haiti,2020-07-09,29,72.625,Light rain shower
+Haiti,2020-07-10,31,67.5,Clear
+Haiti,2020-07-11,30,69.375,Patchy rain possible
+Haiti,2020-07-12,29,71.75,Moderate rain at times
+Haiti,2020-07-13,29,74.0,Patchy rain possible
+Haiti,2020-07-14,31,72.875,Partly cloudy
+Haiti,2020-07-15,30,75.875,Patchy rain possible
+Haiti,2020-07-16,28,78.625,Light rain shower
+Haiti,2020-07-17,28,75.125,Light rain shower
+Haiti,2020-07-18,29,74.5,Patchy rain possible
+Haiti,2020-07-19,26,78.625,Patchy rain possible
+Haiti,2020-07-20,28,74.0,Patchy rain possible
+Haiti,2020-07-21,29,74.5,Patchy rain possible
+Haiti,2020-07-22,29,73.125,Patchy rain possible
+Haiti,2020-07-23,28,74.875,Light rain shower
+Haiti,2020-07-24,27,69.625,Patchy rain possible
+Haiti,2020-07-25,30,69.125,Clear
+Haiti,2020-07-26,29,72.25,Patchy rain possible
+Haiti,2020-07-27,29,74.5,Patchy rain possible
+Haiti,2020-07-28,29,74.875,Patchy rain possible
+Haiti,2020-07-29,30,74.625,Partly cloudy
+Haiti,2020-07-30,30,74.625,Partly cloudy
+Haiti,2020-07-31,28,77.5,Patchy rain possible
+Haiti,2020-08-01,28,76.625,Partly cloudy
+Haiti,2020-08-01,28,76.625,Partly cloudy
+Haiti,2020-08-02,28,78.625,Patchy rain possible
+Haiti,2020-08-03,28,75.25,Light rain shower
+Haiti,2020-08-04,28,75.75,Partly cloudy
+Haiti,2020-08-05,31,72.25,Patchy rain possible
+Haiti,2020-08-06,29,73.0,Patchy rain possible
+Haiti,2020-08-07,29,71.75,Patchy rain possible
+Haiti,2020-08-08,30,69.125,Partly cloudy
+Haiti,2020-08-09,31,67.75,Partly cloudy
+Haiti,2020-08-10,29,78.25,Patchy rain possible
+Haiti,2020-08-11,28,78.125,Light rain shower
+Haiti,2020-08-12,29,73.5,Patchy rain possible
+Haiti,2020-08-13,30,72.25,Patchy rain possible
+Haiti,2020-08-14,30,72.625,Patchy rain possible
+Haiti,2020-08-15,29,79.0,Light rain shower
+Haiti,2020-08-16,28,79.375,Light rain shower
+Haiti,2020-08-17,30,75.625,Light rain shower
+Haiti,2020-08-18,30,75.5,Patchy rain possible
+Haiti,2020-08-19,31,69.375,Patchy rain possible
+Haiti,2020-08-20,30,65.375,Patchy rain possible
+Haiti,2020-08-21,29,72.875,Patchy rain possible
+Haiti,2020-08-22,29,79.25,Light rain shower
+Haiti,2020-08-23,24,89.25,Patchy rain possible
+Haiti,2020-08-24,28,76.75,Patchy rain possible
+Haiti,2020-08-25,28,78.875,Patchy rain possible
+Haiti,2020-08-26,29,78.25,Patchy rain possible
+Haiti,2020-08-27,29,76.0,Patchy rain possible
+Haiti,2020-08-28,30,77.875,Partly cloudy
+Haiti,2020-08-29,30,78.0,Partly cloudy
+Haiti,2020-08-30,27,80.0,Patchy rain possible
+Haiti,2020-08-31,29,77.625,Patchy rain possible
+Haiti,2020-09-01,28,77.25,Partly cloudy
+Haiti,2020-09-01,28,77.25,Partly cloudy
+Haiti,2020-09-02,28,80.5,Light rain shower
+Haiti,2020-09-03,28,77.75,Patchy rain possible
+Haiti,2020-09-04,28,75.5,Patchy rain possible
+Haiti,2020-09-05,29,70.75,Patchy rain possible
+Haiti,2020-09-06,28,76.5,Partly cloudy
+Haiti,2020-09-07,26,82.5,Patchy rain possible
+Haiti,2020-09-08,26,81.375,Light rain shower
+Haiti,2020-09-09,27,77.625,Patchy rain possible
+Haiti,2020-09-10,29,77.75,Patchy rain possible
+Haiti,2020-09-11,26,81.375,Patchy rain possible
+Haiti,2020-09-12,27,81.625,Light rain shower
+Haiti,2020-09-13,28,81.375,Light rain shower
+Haiti,2020-09-14,29,80.125,Patchy rain possible
+Haiti,2020-09-15,28,80.0,Patchy rain possible
+Haiti,2020-09-16,28,79.375,Patchy rain possible
+Haiti,2020-09-17,28,76.5,Patchy rain possible
+Haiti,2020-09-18,29,78.75,Patchy rain possible
+Haiti,2020-09-19,28,81.125,Partly cloudy
+Haiti,2020-09-20,28,81.625,Partly cloudy
+Haiti,2020-09-21,28,82.0,Patchy rain possible
+Haiti,2020-09-22,29,81.0,Patchy rain possible
+Haiti,2020-09-23,29,77.25,Patchy rain possible
+Haiti,2020-09-24,29,74.875,Patchy rain possible
+Haiti,2020-09-25,30,74.875,Patchy rain possible
+Haiti,2020-09-26,28,78.125,Patchy rain possible
+Haiti,2020-09-27,28,75.25,Patchy rain possible
+Haiti,2020-09-28,28,76.0,Partly cloudy
+Haiti,2020-09-29,27,77.625,Patchy rain possible
+Haiti,2020-09-30,28,74.875,Partly cloudy
+Haiti,2020-10-01,29,76.0,Patchy rain possible
+Haiti,2020-10-01,29,76.0,Patchy rain possible
+Haiti,2020-10-02,29,74.875,Partly cloudy
+Haiti,2020-10-03,30,69.5,Partly cloudy
+Haiti,2020-10-04,25,81.125,Patchy rain possible
+Haiti,2020-10-05,27,76.5,Partly cloudy
+Haiti,2020-10-06,28,80.5,Partly cloudy
+Haiti,2020-10-07,27,79.75,Patchy rain possible
+Haiti,2020-10-08,27,79.5,Patchy rain possible
+Haiti,2020-10-09,28,80.75,Patchy rain possible
+Haiti,2020-10-10,28,81.75,Patchy rain possible
+Haiti,2020-10-11,26,82.625,Partly cloudy
+Haiti,2020-10-12,26,82.25,Partly cloudy
+Haiti,2020-10-13,27,81.25,Patchy rain possible
+Haiti,2020-10-14,27,78.25,Partly cloudy
+Haiti,2020-10-15,28,81.875,Light rain shower
+Haiti,2020-10-16,28,80.5,Partly cloudy
+Haiti,2020-10-17,28,81.125,Partly cloudy
+Haiti,2020-10-18,28,81.75,Patchy rain possible
+Haiti,2020-10-19,27,80.75,Patchy rain possible
+Haiti,2020-10-20,27,81.375,Patchy rain possible
+Haiti,2020-10-21,27,80.25,Patchy rain possible
+Haiti,2020-10-22,26,82.0,Patchy rain possible
+Haiti,2020-10-23,27,76.625,Patchy rain possible
+Haiti,2020-10-24,28,78.75,Partly cloudy
+Haiti,2020-10-25,27,79.25,Patchy rain possible
+Haiti,2020-10-26,27,78.5,Partly cloudy
+Haiti,2020-10-27,28,80.75,Patchy rain possible
+Haiti,2020-10-28,26,79.625,Partly cloudy
+Haiti,2020-10-29,26,81.625,Patchy rain possible
+Haiti,2020-10-30,27,80.25,Patchy rain possible
+Haiti,2020-10-31,28,80.875,Patchy rain possible
+Haiti,2020-11-01,27,76.125,Patchy rain possible
+Haiti,2020-11-01,27,76.125,Patchy rain possible
+Haiti,2020-11-02,27,74.375,Partly cloudy
+Haiti,2020-11-03,26,85.375,Light rain shower
+Haiti,2020-11-04,23,87.5,Heavy rain at times
+Haiti,2020-11-05,25,75.75,Partly cloudy
+Haiti,2020-11-06,25,78.0,Partly cloudy
+Haiti,2020-11-07,25,79.125,Cloudy
+Haiti,2020-11-08,24,85.0,Partly cloudy
+Haiti,2020-11-09,27,83.25,Light rain shower
+Haiti,2020-11-10,26,80.125,Patchy rain possible
+Haiti,2020-11-11,25,86.625,Light rain shower
+Haiti,2020-11-12,25,85.125,Patchy rain possible
+Haiti,2020-11-13,26,84.375,Partly cloudy
+Haiti,2020-11-14,26,77.25,Partly cloudy
+Haiti,2020-11-15,27,77.75,Partly cloudy
+Haiti,2020-11-16,26,80.875,Partly cloudy
+Haiti,2020-11-17,24,77.75,Partly cloudy
+Haiti,2020-11-18,26,80.125,Partly cloudy
+Haiti,2020-11-19,26,82.625,Patchy rain possible
+Haiti,2020-11-20,26,83.5,Partly cloudy
+Haiti,2020-11-21,25,80.5,Partly cloudy
+Haiti,2020-11-22,26,82.25,Patchy rain possible
+Haiti,2020-11-23,26,84.25,Partly cloudy
+Haiti,2020-11-24,24,85.375,Partly cloudy
+Haiti,2020-11-25,25,85.0,Partly cloudy
+Haiti,2020-11-26,25,82.25,Partly cloudy
+Haiti,2020-11-27,25,80.75,Partly cloudy
+Haiti,2020-11-28,27,76.375,Clear
+Haiti,2020-11-29,24,83.125,Partly cloudy
+Haiti,2020-11-30,25,82.0,Partly cloudy
+Haiti,2020-12-01,26,74.5,Clear
+Haiti,2021-01-01,25,67.875,Partly cloudy
+Haiti,2021-01-02,26,71.125,Partly cloudy
+Haiti,2021-01-03,25,73.5,Clear
+Haiti,2021-01-04,25,70.125,Clear
+Haiti,2021-01-05,26,71.25,Clear
+Haiti,2021-01-06,25,68.0,Clear
+Haiti,2021-01-07,23,69.5,Partly cloudy
+Haiti,2021-01-08,25,78.625,Partly cloudy
+Haiti,2021-01-09,25,76.125,Partly cloudy
+Haiti,2021-01-10,25,79.375,Patchy rain possible
+Haiti,2021-01-11,26,73.25,Partly cloudy
+Haiti,2021-01-12,26,71.25,Partly cloudy
+Haiti,2021-01-13,26,64.75,Partly cloudy
+Haiti,2021-01-14,26,72.125,Partly cloudy
+Haiti,2021-01-15,25,70.625,Partly cloudy
+Haiti,2021-01-16,26,68.0,Partly cloudy
+Haiti,2021-01-17,26,70.25,Partly cloudy
+Haiti,2021-01-18,26,71.25,Partly cloudy
+Haiti,2021-01-19,26,76.0,Partly cloudy
+Haiti,2021-01-20,26,71.875,Patchy rain possible
+Haiti,2021-01-21,25,78.25,Patchy rain possible
+Haiti,2021-01-22,26,77.75,Light rain shower
+Haiti,2021-01-23,27,73.5,Patchy rain possible
+Haiti,2021-01-24,27,75.125,Patchy rain possible
+Haiti,2021-01-25,26,73.25,Partly cloudy
+Haiti,2021-01-26,27,68.5,Partly cloudy
+Haiti,2021-01-27,26,70.5,Partly cloudy
+Haiti,2021-01-28,26,73.625,Partly cloudy
+Haiti,2021-01-29,26,72.875,Patchy rain possible
+Haiti,2021-01-30,24,77.125,Partly cloudy
+Haiti,2021-01-31,25,74.0,Patchy rain possible
+Haiti,2021-02-01,25,73.625,Patchy rain possible
+Haiti,2021-02-01,25,73.625,Patchy rain possible
+Haiti,2021-02-02,25,75.875,Partly cloudy
+Haiti,2021-02-03,24,81.625,Light rain shower
+Haiti,2021-02-04,25,77.75,Light rain shower
+Haiti,2021-02-05,26,75.375,Patchy rain possible
+Haiti,2021-02-06,28,68.375,Partly cloudy
+Haiti,2021-02-07,27,65.375,Partly cloudy
+Haiti,2021-02-08,27,67.5,Partly cloudy
+Haiti,2021-02-09,27,65.375,Partly cloudy
+Haiti,2021-02-10,27,69.25,Patchy rain possible
+Haiti,2021-02-11,28,62.125,Patchy rain possible
+Haiti,2021-02-12,27,65.0,Partly cloudy
+Haiti,2021-02-13,26,64.875,Partly cloudy
+Haiti,2021-02-14,26,66.5,Partly cloudy
+Haiti,2021-02-15,27,64.875,Patchy rain possible
+Haiti,2021-02-16,28,66.5,Partly cloudy
+Haiti,2021-02-17,27,52.125,Patchy rain possible
+Haiti,2021-02-18,27,67.75,Partly cloudy
+Haiti,2021-02-19,26,70.75,Patchy rain possible
+Haiti,2021-02-20,27,62.375,Partly cloudy
+Haiti,2021-02-21,27,63.75,Light rain shower
+Haiti,2021-02-22,26,68.75,Patchy rain possible
+Haiti,2021-02-23,26,69.0,Patchy rain possible
+Haiti,2021-02-24,26,66.0,Patchy rain possible
+Haiti,2021-02-25,28,59.75,Patchy rain possible
+Haiti,2021-02-26,28,60.375,Partly cloudy
+Haiti,2021-02-27,28,56.75,Partly cloudy
+Haiti,2021-02-28,28,59.875,Partly cloudy
+Haiti,2021-03-01,27,59.375,Partly cloudy
+Haiti,2021-03-01,27,59.375,Partly cloudy
+Haiti,2021-03-02,26,72.875,Patchy rain possible
+Haiti,2021-03-03,27,68.125,Light rain shower
+Haiti,2021-03-04,26,69.25,Patchy rain possible
+Haiti,2021-03-05,26,73.75,Patchy rain possible
+Haiti,2021-03-06,28,63.75,Light rain shower
+Haiti,2021-03-07,27,73.75,Partly cloudy
+Haiti,2021-03-08,27,74.625,Moderate or heavy rain shower
+Haiti,2021-03-09,25,79.375,Light rain shower
+Haiti,2021-03-10,26,74.875,Light rain shower
+Haiti,2021-03-11,25,73.75,Light rain shower
+Haiti,2021-03-12,24,73.5,Patchy rain possible
+Haiti,2021-03-13,26,73.375,Patchy rain possible
+Haiti,2021-03-14,25,72.5,Patchy rain possible
+Haiti,2021-03-15,27,67.625,Patchy rain possible
+Haiti,2021-03-16,26,67.125,Partly cloudy
+Haiti,2021-03-17,27,65.375,Partly cloudy
+Haiti,2021-03-18,27,71.375,Partly cloudy
+Haiti,2021-03-19,26,73.25,Light rain shower
+Haiti,2021-03-20,26,75.125,Light rain shower
+Haiti,2021-03-21,26,70.25,Light rain shower
+Haiti,2021-03-22,27,70.375,Patchy rain possible
+Haiti,2021-03-23,24,77.5,Light rain shower
+Haiti,2021-03-24,26,76.375,Patchy rain possible
+Haiti,2021-03-25,27,72.125,Light rain shower
+Haiti,2021-03-26,27,70.625,Light rain shower
+Haiti,2021-03-27,26,72.125,Patchy rain possible
+Haiti,2021-03-28,27,69.125,Patchy rain possible
+Haiti,2021-03-29,29,62.5,Patchy rain possible
+Haiti,2021-03-30,29,61.25,Patchy rain possible
+Haiti,2021-03-31,29,61.375,Patchy rain possible
+Haiti,2021-04-01,28,65.625,Patchy rain possible
+Haiti,2021-04-01,28,65.625,Patchy rain possible
+Haiti,2021-04-02,27,70.875,Light rain shower
+Haiti,2021-04-03,26,73.125,Moderate or heavy rain shower
+Haiti,2021-04-04,25,77.0,Light rain shower
+Haiti,2021-04-05,25,76.5,Patchy rain possible
+Haiti,2021-04-06,26,75.0,Light rain shower
+Haiti,2021-04-07,27,75.625,Light rain shower
+Haiti,2021-04-08,26,75.75,Patchy rain possible
+Haiti,2021-04-09,25,79.25,Patchy rain possible
+Haiti,2021-04-10,27,73.625,Patchy rain possible
+Haiti,2021-04-11,27,69.0,Light rain shower
+Haiti,2021-04-12,28,65.625,Light rain shower
+Haiti,2021-04-13,29,67.0,Partly cloudy
+Haiti,2021-04-14,28,66.75,Partly cloudy
+Haiti,2021-04-15,28,69.125,Patchy rain possible
+Haiti,2021-04-16,29,65.75,Partly cloudy
+Haiti,2021-04-17,30,65.375,Partly cloudy
+Haiti,2021-04-18,31,61.625,Patchy rain possible
+Haiti,2021-04-19,31,62.25,Partly cloudy
+Haiti,2021-04-20,31,58.25,Partly cloudy
+Haiti,2021-04-21,30,58.5,Partly cloudy
+Haiti,2021-04-22,29,63.5,Patchy rain possible
+Haiti,2021-04-23,29,64.5,Light rain shower
+Haiti,2021-04-24,28,67.625,Light rain shower
+Haiti,2021-04-25,28,71.0,Patchy rain possible
+Haiti,2021-04-26,27,72.125,Patchy rain possible
+Haiti,2021-04-27,26,70.25,Patchy rain possible
+Haiti,2021-04-28,27,69.0,Patchy rain possible
+Haiti,2021-04-29,28,67.375,Patchy rain possible
+Haiti,2021-04-30,28,69.75,Light rain shower
+Haiti,2021-05-01,28,71.625,Light rain shower
+Haiti,2021-05-01,28,71.625,Light rain shower
+Haiti,2021-05-02,27,73.375,Patchy rain possible
+Haiti,2021-05-03,27,70.375,Patchy rain possible
+Haiti,2021-05-04,28,69.625,Patchy rain possible
+Haiti,2021-05-05,26,71.125,Patchy rain possible
+Haiti,2021-05-06,28,71.5,Light rain shower
+Haiti,2021-05-07,27,73.125,Light rain shower
+Haiti,2021-05-08,27,72.125,Patchy rain possible
+Haiti,2021-05-09,29,65.875,Patchy rain possible
+Haiti,2021-05-10,28,69.125,Patchy rain possible
+Haiti,2021-05-11,27,63.375,Patchy rain possible
+Haiti,2021-05-12,30,59.625,Partly cloudy
+Haiti,2021-05-13,29,68.0,Partly cloudy
+Haiti,2021-05-14,29,71.5,Light rain shower
+Haiti,2021-05-15,28,76.875,Patchy rain possible
+Haiti,2021-05-16,28,75.625,Moderate rain at times
+Haiti,2021-05-17,28,73.375,Moderate rain at times
+Haiti,2021-05-18,28,66.375,Patchy rain possible
+Haiti,2021-05-19,28,65.0,Patchy rain possible
+Haiti,2021-05-20,27,72.625,Patchy rain possible
+Haiti,2021-05-21,27,73.125,Moderate or heavy rain shower
+Haiti,2021-05-22,28,71.25,Patchy rain possible
+Haiti,2021-05-23,28,70.25,Patchy rain possible
+Haiti,2021-05-24,28,76.125,Partly cloudy
+Haiti,2021-05-25,29,72.125,Patchy rain possible
+Haiti,2021-05-26,29,71.25,Moderate or heavy rain shower
+Haiti,2021-05-27,29,75.625,Patchy rain possible
+Haiti,2021-05-28,27,78.375,Light rain shower
+Haiti,2021-05-29,27,75.0,Patchy rain possible
+Haiti,2021-05-30,28,73.0,Light rain shower
+Haiti,2021-05-31,28,71.75,Patchy rain possible
+Haiti,2021-06-01,28,71.625,Patchy rain possible
+Haiti,2021-06-01,28,71.625,Patchy rain possible
+Haiti,2021-06-02,28,71.875,Patchy rain possible
+Haiti,2021-06-03,27,73.5,Patchy rain possible
+Haiti,2021-06-04,27,74.375,Patchy rain possible
+Haiti,2021-06-05,28,73.25,Patchy rain possible
+Haiti,2021-06-06,28,72.875,Patchy rain possible
+Haiti,2021-06-07,27,76.125,Moderate rain at times
+Haiti,2021-06-08,27,77.0,Patchy rain possible
+Haiti,2021-06-09,26,77.125,Patchy rain possible
+Haiti,2021-06-10,25,80.0,Patchy light rain
+Haiti,2021-06-11,27,75.125,Patchy light rain
+Haiti,2021-06-12,28,74.0,Patchy rain possible
+Haiti,2021-06-13,29,73.0,Patchy light rain
+Haiti,2021-06-14,29,69.625,Patchy rain possible
+Haiti,2021-06-15,29,69.5,Partly cloudy
+Haiti,2021-06-16,30,67.0,Partly cloudy
+Haiti,2021-06-17,30,66.375,Partly cloudy
+Haiti,2021-06-18,28,68.875,Patchy rain possible
+Haiti,2021-06-19,30,67.875,Partly cloudy
+Haiti,2021-06-20,30,68.125,Patchy rain possible
+Haiti,2021-06-21,29,71.5,Patchy rain possible
+Haiti,2021-06-22,28,74.375,Moderate rain at times
+Haiti,2021-06-23,28,73.75,Patchy rain possible
+Haiti,2021-06-24,29,72.625,Moderate or heavy rain shower
+Haiti,2021-06-25,27,76.125,Patchy rain possible
+Haiti,2021-06-26,28,73.625,Light rain shower
+Haiti,2021-06-27,27,75.375,Patchy rain possible
+Haiti,2021-06-28,27,68.875,Moderate or heavy rain shower
+Haiti,2021-06-29,29,67.375,Patchy rain possible
+Haiti,2021-06-30,28,67.875,Partly cloudy
+Haiti,2021-07-01,29,68.875,Patchy rain possible
+Haiti,2021-07-01,29,68.875,Patchy rain possible
+Haiti,2021-07-02,30,67.25,Partly cloudy
+Haiti,2021-07-03,30,67.375,Partly cloudy
+Haiti,2021-07-04,27,74.5,Patchy light rain
+Haiti,2021-07-05,28,68.875,Partly cloudy
+Haiti,2021-07-06,29,65.625,Partly cloudy
+Haiti,2021-07-07,31,63.5,Partly cloudy
+Haiti,2021-07-08,30,63.0,Partly cloudy
+Haiti,2021-07-09,30,68.75,Partly cloudy
+Haiti,2021-07-10,29,63.0,Patchy rain possible
+Haiti,2021-07-11,31,60.875,Patchy rain possible
+Haiti,2021-07-12,25,77.625,Patchy rain possible
+Haiti,2021-07-13,30,69.5,Partly cloudy
+Haiti,2021-07-14,29,73.0,Patchy rain possible
+Haiti,2021-07-15,27,78.625,Heavy rain at times
+Haiti,2021-07-16,28,71.25,Patchy rain possible
+Haiti,2021-07-17,28,73.5,Partly cloudy
+Haiti,2021-07-18,31,69.75,Patchy rain possible
+Haiti,2021-07-19,30,67.375,Partly cloudy
+Haiti,2021-07-20,30,66.375,Patchy rain possible
+Haiti,2021-07-21,30,63.375,Partly cloudy
+Haiti,2021-07-22,30,65.5,Patchy rain possible
+Haiti,2021-07-23,29,64.125,Partly cloudy
+Haiti,2021-07-24,30,69.375,Patchy rain possible
+Haiti,2021-07-25,28,74.25,Patchy rain possible
+Haiti,2021-07-26,27,76.875,Patchy rain possible
+Haiti,2021-07-27,29,74.375,Moderate rain at times
+Haiti,2021-07-28,27,72.125,Patchy rain possible
+Haiti,2021-07-29,28,72.5,Light rain shower
+Haiti,2021-07-30,28,73.625,Partly cloudy
+Haiti,2021-07-31,29,70.25,Light rain shower
+Haiti,2021-08-01,30,67.0,Patchy rain possible
+Haiti,2021-08-01,30,67.0,Patchy rain possible
+Haiti,2021-08-02,28,68.0,Partly cloudy
+Haiti,2021-08-03,29,72.25,Light rain shower
+Haiti,2021-08-04,30,68.75,Patchy rain possible
+Haiti,2021-08-05,29,69.0,Partly cloudy
+Haiti,2021-08-06,30,69.0,Patchy rain possible
+Haiti,2021-08-07,30,68.375,Patchy rain possible
+Haiti,2021-08-08,28,72.625,Patchy rain possible
+Haiti,2021-08-09,29,75.5,Patchy rain possible
+Haiti,2021-08-10,28,69.875,Patchy rain possible
+Haiti,2021-08-11,27,77.5,Patchy rain possible
+Haiti,2021-08-12,27,79.0,Patchy rain possible
+Haiti,2021-08-13,28,72.625,Moderate or heavy rain shower
+Haiti,2021-08-14,27,75.25,Moderate or heavy rain shower
+Haiti,2021-08-15,28,75.875,Patchy rain possible
+Haiti,2021-08-16,28,73.25,Patchy rain possible
+Haiti,2021-08-17,25,79.5,Partly cloudy
+Haiti,2021-08-18,29,64.875,Partly cloudy
+Haiti,2021-08-19,28,67.75,Partly cloudy
+Haiti,2021-08-20,29,70.25,Patchy rain possible
+Haiti,2021-08-21,28,72.125,Partly cloudy
+Haiti,2021-08-22,30,70.875,Patchy rain possible
+Haiti,2021-08-23,29,65.375,Patchy rain possible
+Haiti,2021-08-24,29,70.125,Partly cloudy
+Haiti,2021-08-25,28,75.75,Patchy rain possible
+Haiti,2021-08-26,28,70.125,Partly cloudy
+Haiti,2021-08-27,30,67.5,Partly cloudy
+Haiti,2021-08-28,30,64.25,Partly cloudy
+Haiti,2021-08-29,30,71.0,Partly cloudy
+Haiti,2021-08-30,29,73.125,Patchy rain possible
+Haiti,2021-08-31,28,74.25,Patchy rain possible
+Haiti,2021-09-01,25,76.75,Patchy rain possible
+Haiti,2021-09-01,25,76.75,Patchy rain possible
+Haiti,2021-09-02,27,69.375,Partly cloudy
+Haiti,2021-09-03,29,72.25,Patchy rain possible
+Haiti,2021-09-04,30,69.625,Partly cloudy
+Haiti,2021-09-05,30,70.0,Light rain shower
+Haiti,2021-09-06,31,71.875,Patchy rain possible
+Haiti,2021-09-07,30,74.0,Patchy rain possible
+Haiti,2021-09-08,28,72.875,Patchy rain possible
+Haiti,2021-09-09,27,72.75,Patchy rain possible
+Haiti,2021-09-10,28,70.875,Partly cloudy
+Haiti,2021-09-11,29,70.25,Patchy rain possible
+Haiti,2021-09-12,29,66.625,Partly cloudy
+Haiti,2021-09-13,28,68.625,Partly cloudy
+Haiti,2021-09-14,27,74.0,Partly cloudy
+Haiti,2021-09-15,28,70.5,Patchy rain possible
+Haiti,2021-09-16,27,72.75,Patchy rain possible
+Haiti,2021-09-17,28,69.125,Patchy rain possible
+Haiti,2021-09-18,28,75.25,Partly cloudy
+Haiti,2021-09-19,27,78.625,Patchy rain possible
+Haiti,2021-09-20,27,75.75,Patchy rain possible
+Haiti,2021-09-21,27,74.25,Partly cloudy
+Haiti,2021-09-22,27,77.375,Partly cloudy
+Haiti,2021-09-23,27,77.625,Patchy rain possible
+Haiti,2021-09-24,28,72.0,Patchy rain possible
+Haiti,2021-09-25,28,78.875,Patchy rain possible
+Haiti,2021-09-26,27,75.0,Patchy rain possible
+Haiti,2021-09-27,27,78.75,Light rain shower
+Haiti,2021-09-28,26,78.0,Patchy rain possible
+Haiti,2021-09-29,26,79.125,Patchy rain possible
+Haiti,2021-09-30,26,77.25,Patchy rain possible
+Haiti,2021-10-01,24,81.875,Patchy rain possible
+Haiti,2021-10-01,24,81.875,Patchy rain possible
+Haiti,2021-10-02,27,73.75,Patchy rain possible
+Haiti,2021-10-03,24,78.5,Partly cloudy
+Haiti,2021-10-04,23,78.25,Partly cloudy
+Haiti,2021-10-05,26,71.125,Partly cloudy
+Haiti,2021-10-06,28,69.875,Partly cloudy
+Haiti,2021-10-07,27,72.375,Partly cloudy
+Haiti,2021-10-08,28,74.0,Partly cloudy
+Haiti,2021-10-09,27,74.25,Patchy rain possible
+Haiti,2021-10-10,27,73.875,Patchy rain possible
+Haiti,2021-10-11,27,72.5,Partly cloudy
+Haiti,2021-10-12,27,79.25,Partly cloudy
+Haiti,2021-10-13,25,81.875,Patchy rain possible
+Haiti,2021-10-14,25,75.125,Patchy rain possible
+Haiti,2021-10-15,27,75.25,Partly cloudy
+Haiti,2021-10-16,27,78.875,Patchy rain possible
+Haiti,2021-10-17,27,80.25,Patchy rain possible
+Haiti,2021-10-18,26,79.375,Patchy rain possible
+Haiti,2021-10-19,26,82.25,Patchy rain possible
+Haiti,2021-10-20,26,82.0,Patchy rain possible
+Haiti,2021-10-21,27,77.75,Partly cloudy
+Haiti,2021-10-22,27,76.125,Patchy rain possible
+Haiti,2021-10-23,27,74.5,Clear
+Haiti,2021-10-24,27,68.5,Clear
+Haiti,2021-10-25,27,63.375,Clear
+Haiti,2021-10-26,26,73.375,Clear
+Haiti,2021-10-27,25,76.0,Patchy rain possible
+Haiti,2021-10-28,27,71.875,Clear
+Haiti,2021-10-29,27,75.25,Partly cloudy
+Haiti,2021-10-30,26,76.375,Clear
+Haiti,2021-10-31,27,76.375,Clear
+Haiti,2021-11-01,27,74.375,Patchy rain possible
+Haiti,2021-11-01,27,74.375,Patchy rain possible
+Haiti,2021-11-02,27,76.125,Partly cloudy
+Haiti,2021-11-03,26,76.25,Patchy rain possible
+Haiti,2021-11-04,26,74.0,Patchy rain possible
+Haiti,2021-11-05,27,74.0,Clear
+Haiti,2021-11-06,27,74.125,Partly cloudy
+Haiti,2021-11-07,27,76.125,Clear
+Haiti,2021-11-08,26,75.5,Clear
+Haiti,2021-11-09,26,78.125,Patchy rain possible
+Haiti,2021-11-10,26,77.5,Partly cloudy
+Haiti,2021-11-11,26,75.125,Clear
+Haiti,2021-11-12,27,77.0,Clear
+Haiti,2021-11-13,25,78.375,Clear
+Haiti,2021-11-14,27,71.5,Clear
+Haiti,2021-11-15,27,72.625,Clear
+Haiti,2021-11-16,26,73.0,Clear
+Haiti,2021-11-17,26,77.375,Partly cloudy
+Haiti,2021-11-18,25,75.625,Partly cloudy
+Haiti,2021-11-19,26,72.5,Clear
+Haiti,2021-11-20,25,70.5,Clear
+Haiti,2021-11-21,25,78.0,Clear
+Haiti,2021-11-22,25,79.875,Light rain shower
+Haiti,2021-11-23,26,79.75,Partly cloudy
+Haiti,2021-11-24,25,79.25,Clear
+Haiti,2021-11-25,24,80.5,Partly cloudy
+Haiti,2021-11-26,24,78.75,Clear
+Haiti,2021-11-27,24,73.125,Patchy rain possible
+Haiti,2021-11-28,24,70.75,Patchy rain possible
+Haiti,2021-11-29,24,73.5,Clear
+Haiti,2021-11-30,26,74.0,Partly cloudy
+Haiti,2021-12-01,25,76.75,Clear

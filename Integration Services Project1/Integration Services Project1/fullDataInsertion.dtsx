@@ -1,0 +1,3386 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/17/2021 10:07:47 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="LAPTOP-K4BV46H6"
+  DTS:CreatorName="LAPTOP-K4BV46H6\Barborka"
+  DTS:DTSID="{45F9B478-2BD0-4AC0-92FC-40C83FDAD0F2}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.170"
+  DTS:LocaleID="8192"
+  DTS:ObjectName="fullDataInsertion"
+  DTS:PackageType="5"
+  DTS:VersionBuild="45"
+  DTS:VersionGUID="{0902D472-85D5-44A1-B53D-2E86DEBD31AE}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{724E4259-4D7B-4750-9BB0-5E8A677495D3}"
+      DTS:ObjectName="DestinationConnectionOLEDB">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 1]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{5A8DAA72-DE42-4049-AF77-04CD7256E774}"
+      DTS:ObjectName="DestinationConnectionOLEDB 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 10]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{CBC84897-40AA-4D11-8279-61FFB01D02FB}"
+      DTS:ObjectName="DestinationConnectionOLEDB 10">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 2]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{896A67FF-E218-4592-AB9B-4FDD040CB951}"
+      DTS:ObjectName="DestinationConnectionOLEDB 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 3]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{99658BB0-B1CB-4E31-B34B-6D051B8FAB2D}"
+      DTS:ObjectName="DestinationConnectionOLEDB 3">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 4]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{319824EB-F680-43A3-9212-87FBA8FB1626}"
+      DTS:ObjectName="DestinationConnectionOLEDB 4">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 5]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{198FD7BC-E7F4-495E-975D-EC895CC9D0B5}"
+      DTS:ObjectName="DestinationConnectionOLEDB 5">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 6]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{855C17DE-6E17-4332-BAE5-EC190E967F6F}"
+      DTS:ObjectName="DestinationConnectionOLEDB 6">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 7]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{5BEF3062-16C9-4A04-AE29-0C0165C734C6}"
+      DTS:ObjectName="DestinationConnectionOLEDB 7">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 8]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{AFFF71FC-E0AC-47D8-A5D4-69DFB8ABCDF3}"
+      DTS:ObjectName="DestinationConnectionOLEDB 8">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DestinationConnectionOLEDB 9]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{9DC37FC3-FFD4-440D-A287-06DFC0441520}"
+      DTS:ObjectName="DestinationConnectionOLEDB 9">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11;Integrated Security=SSPI;Auto Translate=false;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[LAPTOP-K4BV46H6.covid19]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{35F21AFD-F5CB-4486-A4D5-D2AFC6ABC0FB}"
+      DTS:ObjectName="LAPTOP-K4BV46H6.covid19">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=LAPTOP-K4BV46H6;Initial Catalog=covid19;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Restrictions]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{AD1C1F4F-6F95-44B7-9FE5-94C00E7324CC}"
+      DTS:ObjectName="Restrictions">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\restrictions.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="name"
+              DTS:DTSID="{D72D9C3C-3700-4782-B01E-D5FE337DE5B5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="code"
+              DTS:DTSID="{E84A01EB-3029-4B5C-828D-B6AC7DF729D1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="date"
+              DTS:DTSID="{6866007E-ADDB-4AB4-9D3E-3CF7B1BDD5E7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="masks"
+              DTS:DTSID="{C957C9AD-8823-4E90-8B02-EA8C6A4CF666}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="type_travel_controle"
+              DTS:DTSID="{35E37F5B-60C4-43A7-9F7D-B7F914E5226E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="public_events"
+              DTS:DTSID="{BA2F9CF4-5825-4301-9A21-A01FDD1597F5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_schools"
+              DTS:DTSID="{943DFA35-B90C-4FBF-BBEA-B254E0417757}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="stay_at_home"
+              DTS:DTSID="{71937D78-E106-4910-81DD-BEAF7479785D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="16"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_workplace"
+              DTS:DTSID="{E21344D9-2549-4A37-AA49-BD7977B6B9CC}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{1DB5121D-F87E-4861-A771-DE51193128D3}"
+      DTS:ObjectName="SourceConnectionFlatFile">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\weather.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="name"
+              DTS:DTSID="{9D559F51-5392-444B-8BFB-B573B5B65C49}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="date"
+              DTS:DTSID="{85D4FA88-2485-46A8-89DB-81AC005CA3AC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="temperature"
+              DTS:DTSID="{F845E7F7-6B02-4623-B556-1F27CD321D1C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="humidity"
+              DTS:DTSID="{6AC1E9F8-B429-4702-A741-24BF84DD5BEC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="description"
+              DTS:DTSID="{DCDE040F-9FFF-40CD-863D-098559F3E3C3}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 1]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{579ED145-419F-46F0-B8B7-CEF9FF5555FF}"
+      DTS:ObjectName="SourceConnectionFlatFile 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\covid-19-testing-policy.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Entity"
+              DTS:DTSID="{AB6D4AAF-E3C3-4CE7-A6A4-ECE16AC33892}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Code"
+              DTS:DTSID="{3B4EEEC0-A207-4BB4-A543-FFB406B6F66D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Day"
+              DTS:DTSID="{FEBCA896-7E7D-40FF-A6C0-91C5E6F2A698}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="testing_policy"
+              DTS:DTSID="{61AF8768-8BEC-4654-98F4-723BF4BDDD2E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 10]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{B4C298A1-D9F4-4247-9843-305902CFA7C7}"
+      DTS:ObjectName="SourceConnectionFlatFile 10">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_weather.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="description"
+              DTS:DTSID="{49DACC64-5CA0-4463-B149-DD2A4DE41C37}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 2]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{2E9F1E85-18E5-452B-BF9B-50985917A16E}"
+      DTS:ObjectName="SourceConnectionFlatFile 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\testing-policy.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="code"
+              DTS:DTSID="{CF8FAE42-0A5E-4F67-AF54-15A0D41EEC94}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="continent"
+              DTS:DTSID="{03DF35C3-A8E5-441D-871C-7C276183AE75}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="name"
+              DTS:DTSID="{4EF25F55-C196-47F0-A00A-DDD6D1AEB921}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="date"
+              DTS:DTSID="{59A83783-CE49-49CA-AAEF-4B445170FB58}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="total_cases"
+              DTS:DTSID="{D6E981D0-B5F9-4B03-9CD3-BA13A30BDAFE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="positive_increase"
+              DTS:DTSID="{5D96DBDB-54E9-4C45-822E-A39CD8EC56E6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="number_of_deaths"
+              DTS:DTSID="{F7506A1B-6D52-4372-AEF0-63453F30390D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="number_of_tests"
+              DTS:DTSID="{8FCF6F5A-B480-4C86-8414-74979764C364}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="new_vaccinations"
+              DTS:DTSID="{F476604E-96E2-418E-AD39-3288D045B36F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="testing_policy"
+              DTS:DTSID="{A0143885-653A-490C-BCF2-D669215135FE}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 3]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{908E714C-E301-4B85-838E-575F74D6ED15}"
+      DTS:ObjectName="SourceConnectionFlatFile 3">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\restrictions.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="name"
+              DTS:DTSID="{B7868608-1462-4A59-B5A1-EC882829FE60}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="code"
+              DTS:DTSID="{347BB940-D0B4-4332-A9C1-90ABD660E2CF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="date"
+              DTS:DTSID="{086003E4-58C9-44A5-9836-5C94A1C0216C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="masks"
+              DTS:DTSID="{E1A95669-27D7-49FF-9015-4218EB518B9C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="type_travel_controle"
+              DTS:DTSID="{F7A1FDED-CC86-4DC2-9749-5BEF9A97CB58}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="public_events"
+              DTS:DTSID="{83EBEAA5-AAB2-47C3-8973-11792C4893DC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_schools"
+              DTS:DTSID="{E0E5D417-30FF-4B10-AE66-A6803341781B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="stay_at_home"
+              DTS:DTSID="{F68B259E-2354-41A0-9B15-6A0CA68C3B03}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_workplace"
+              DTS:DTSID="{E61A7D6A-85A3-45D2-AAE0-9121AE4A66DF}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 4]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{52C03DCA-51B0-415C-8455-2C583C64E498}"
+      DTS:ObjectName="SourceConnectionFlatFile 4">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\Barborka\Downloads\testing-policy.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="code"
+              DTS:DTSID="{707FD51F-A1F3-4622-9DCD-49A3A671AB05}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="continent"
+              DTS:DTSID="{A21B47BB-44E2-4428-87D4-1FBC598A1250}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="name"
+              DTS:DTSID="{8B8CC07D-044B-4397-B06D-EDB45228E880}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="date"
+              DTS:DTSID="{A8BC1A46-4A91-4E38-A279-77ACCA4B3139}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="total_cases"
+              DTS:DTSID="{A91C6230-C221-4F42-995F-F4EDA925F87F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="positive_increase"
+              DTS:DTSID="{5051D993-003D-411F-819F-5A93F5228564}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="number_of_deaths"
+              DTS:DTSID="{A1C3DC19-6FCE-4FC7-B6C7-F9073367269E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="number_of_tests"
+              DTS:DTSID="{F76D019B-EBE4-4CA5-A962-EF0886345453}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="new_vaccinations"
+              DTS:DTSID="{FC2E69E0-6D38-411A-9104-9A689E7E918D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="testing_policy"
+              DTS:DTSID="{0912E119-5C92-4710-85B3-836A32568484}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 5]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{FEA99A21-948F-4F36-BF94-FC0DDCC72B4E}"
+      DTS:ObjectName="SourceConnectionFlatFile 5">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_type_travel_controle.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="type_travel_controle"
+              DTS:DTSID="{CDB397A8-B858-4343-B07E-64CAACEB5DA6}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 6]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{36A0F3A4-6638-42B4-8619-FB2115E660D7}"
+      DTS:ObjectName="SourceConnectionFlatFile 6">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_testing_policy.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="testing_policy"
+              DTS:DTSID="{07702F9C-7179-4B51-8229-EF9C9BD7644E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 7]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{8833C35D-6F74-432B-9980-B1227CCC6F21}"
+      DTS:ObjectName="SourceConnectionFlatFile 7">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_masks.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="masks"
+              DTS:DTSID="{654EAFDB-28E0-418B-87BF-1CCAAF370161}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 8]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{2B3F46AC-EDD4-4E30-A714-9DD6DBB3789C}"
+      DTS:ObjectName="SourceConnectionFlatFile 8">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_lockdown.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="public_events"
+              DTS:DTSID="{EB3F49C7-BB35-4485-A016-5CE8015E0C13}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="stay_at_home"
+              DTS:DTSID="{79B976FD-CE14-4F13-AB53-591B2E605AE5}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SourceConnectionFlatFile 9]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{01949AC1-5605-4CCF-9116-C98ABF7974AF}"
+      DTS:ObjectName="SourceConnectionFlatFile 9">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="8192"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="D:\Dokumenty\PEF\BIDS\source data\resultData\dim_table_closure.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_schools"
+              DTS:DTSID="{F3D4BE4E-EFFF-4398-8DF2-3C05EC1B57A6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closure_workplace"
+              DTS:DTSID="{61DB8C54-2488-4F43-969D-05C552BD901C}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Task"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{6BEFD567-856F-4079-A951-6638C34FB77A}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Task"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{35F21AFD-F5CB-4486-A4D5-D2AFC6ABC0FB}"
+          SQLTask:SqlStatementSource="TRUNCATE TABLE weather;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Task 1"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{566C510F-4931-48B7-ACE7-42A315157859}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Task 1"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{35F21AFD-F5CB-4486-A4D5-D2AFC6ABC0FB}"
+          SQLTask:SqlStatementSource="TRUNCATE TABLE covid;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Task 2"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{94CDED08-D16B-4DF3-A703-5AC70DC586E8}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Task 2"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{35F21AFD-F5CB-4486-A4D5-D2AFC6ABC0FB}"
+          SQLTask:SqlStatementSource="TRUNCATE TABLE restrictions;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Increase numbers data"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:DTSID="{68d8433c-d417-46e1-9869-e534fc350957}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:FailPackageOnFailure="True"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Increase numbers data"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          defaultBufferSize="3145728"
+          version="1">
+          <components>
+            <component
+              refId="Package\Increase numbers data\Data Conversion 0 - 0"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion 0 - 0"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[date]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="date"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[positive_increase]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="positive_increase"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[positive_increase]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[number_of_deaths]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="number_of_deaths"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_deaths]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[number_of_tests]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="number_of_tests"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_tests]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[new_vaccinations]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="new_vaccinations"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[new_vaccinations]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[testing_policy]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="testing_policy"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[testing_policy]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[date]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[positive_increase]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[positive_increase]"
+                      name="positive_increase"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[positive_increase]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_deaths]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_deaths]"
+                      name="number_of_deaths"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_deaths]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_tests]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_tests]"
+                      name="number_of_tests"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_tests]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[new_vaccinations]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[new_vaccinations]"
+                      name="new_vaccinations"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[new_vaccinations]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[testing_policy]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[testing_policy]"
+                      name="testing_policy"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[testing_policy]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Increase numbers data\Destination - covid"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="Destination - covid"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[covid]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Increase numbers data\Destination - covid.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinationConnectionOLEDB 4]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinationConnectionOLEDB 4]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[name]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[date]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="date"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[date]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[positive_increase]"
+                      cachedDataType="i4"
+                      cachedName="positive_increase"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[positive_increase]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[positive_increase]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[number_of_deaths]"
+                      cachedDataType="i4"
+                      cachedName="number_of_deaths"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[number_of_deaths]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_deaths]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[number_of_tests]"
+                      cachedDataType="i4"
+                      cachedName="number_of_tests"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[number_of_tests]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[number_of_tests]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[new_vaccinations]"
+                      cachedDataType="i4"
+                      cachedName="new_vaccinations"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[new_vaccinations]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[new_vaccinations]" />
+                    <inputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].Columns[testing_policy]"
+                      cachedDataType="i4"
+                      cachedName="testing_policy"
+                      externalMetadataColumnId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[testing_policy]"
+                      lineageId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[testing_policy]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[date]"
+                      dataType="dbTimeStamp"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[testing_policy]"
+                      dataType="i4"
+                      name="testing_policy" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[number_of_deaths]"
+                      dataType="i4"
+                      name="number_of_deaths" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[number_of_tests]"
+                      dataType="i4"
+                      name="number_of_tests" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[positive_increase]"
+                      dataType="i4"
+                      name="positive_increase" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input].ExternalColumns[new_vaccinations]"
+                      dataType="i4"
+                      name="new_vaccinations" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Increase numbers data\Destination - covid.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Destination - covid.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Increase numbers data\Destination - covid.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Destination - covid.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Increase numbers data\Source - testing-policy_csv"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="8192"
+              name="Source - testing-policy_csv"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Increase numbers data\Source - testing-policy_csv.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[SourceConnectionFlatFile 4]"
+                  connectionManagerRefId="Package.ConnectionManagers[SourceConnectionFlatFile 4]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[code]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[code]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[code]"
+                      name="code"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[continent]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[continent]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[continent]"
+                      name="continent"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[name]"
+                      name="name"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[total_cases]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[total_cases]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[total_cases]"
+                      name="total_cases"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[positive_increase]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[positive_increase]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[positive_increase]"
+                      name="positive_increase"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_deaths]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[number_of_deaths]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_deaths]"
+                      name="number_of_deaths"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_tests]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[number_of_tests]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[number_of_tests]"
+                      name="number_of_tests"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[new_vaccinations]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[new_vaccinations]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[new_vaccinations]"
+                      name="new_vaccinations"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[testing_policy]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[testing_policy]"
+                      length="50"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].Columns[testing_policy]"
+                      name="testing_policy"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[code]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="code" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[continent]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="continent" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[total_cases]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="total_cases" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[positive_increase]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="positive_increase" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[number_of_deaths]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="number_of_deaths" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[number_of_tests]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="number_of_tests" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[new_vaccinations]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="new_vaccinations" />
+                    <externalMetadataColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output].ExternalColumns[testing_policy]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="testing_policy" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="1252"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Increase numbers data.Paths[Data Conversion Output]"
+              endId="Package\Increase numbers data\Destination - covid.Inputs[Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Increase numbers data\Data Conversion 0 - 0.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Increase numbers data.Paths[Flat File Source Output]"
+              endId="Package\Increase numbers data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+              name="Flat File Source Output"
+              startId="Package\Increase numbers data\Source - testing-policy_csv.Outputs[Flat File Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert restriction data"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:DTSID="{408e5f58-3fed-4d4d-9a2f-5c6a9daa6118}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:FailPackageOnFailure="True"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert restriction data"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          defaultBufferSize="3145728"
+          version="1">
+          <components>
+            <component
+              refId="Package\Insert restriction data\Data Conversion 0 - 0"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion 0 - 0"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[date]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="date"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[masks]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="masks"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[masks]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[type_travel_controle]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="type_travel_controle"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[type_travel_controle]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[public_events]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="public_events"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[public_events]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[closure_schools]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="closure_schools"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_schools]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[stay_at_home]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="stay_at_home"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[stay_at_home]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[closure_workplace]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="closure_workplace"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_workplace]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[date]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[masks]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[masks]"
+                      name="masks"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[masks]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[type_travel_controle]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[type_travel_controle]"
+                      name="type_travel_controle"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[type_travel_controle]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[public_events]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[public_events]"
+                      name="public_events"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[public_events]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_schools]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_schools]"
+                      name="closure_schools"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_schools]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[stay_at_home]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[stay_at_home]"
+                      name="stay_at_home"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[stay_at_home]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_workplace]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_workplace]"
+                      name="closure_workplace"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_workplace]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Insert restriction data\Destination - restrictions"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="Destination - restrictions"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[restrictions]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Insert restriction data\Destination - restrictions.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinationConnectionOLEDB 3]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinationConnectionOLEDB 3]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[name]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[code]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="code"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[code]"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[code]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[date]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="date"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[date]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[masks]"
+                      cachedDataType="i4"
+                      cachedName="masks"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[masks]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[masks]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[type_travel_controle]"
+                      cachedDataType="i4"
+                      cachedName="type_travel_controle"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[type_travel_controle]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[type_travel_controle]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[public_events]"
+                      cachedDataType="i4"
+                      cachedName="public_events"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[public_events]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[public_events]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[closure_schools]"
+                      cachedDataType="i4"
+                      cachedName="closure_schools"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[closure_schools]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_schools]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[stay_at_home]"
+                      cachedDataType="i4"
+                      cachedName="stay_at_home"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[stay_at_home]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[stay_at_home]" />
+                    <inputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].Columns[closure_workplace]"
+                      cachedDataType="i4"
+                      cachedName="closure_workplace"
+                      externalMetadataColumnId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[closure_workplace]"
+                      lineageId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[closure_workplace]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[code]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="code" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[day]"
+                      dataType="i4"
+                      name="day" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[month]"
+                      dataType="i4"
+                      name="month" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[year]"
+                      dataType="i4"
+                      name="year" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[date]"
+                      dataType="dbTimeStamp"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[stay_at_home]"
+                      dataType="i4"
+                      name="stay_at_home" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[closure_schools]"
+                      dataType="i4"
+                      name="closure_schools" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[closure_workplace]"
+                      dataType="i4"
+                      name="closure_workplace" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[type_travel_controle]"
+                      dataType="i4"
+                      name="type_travel_controle" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[public_events]"
+                      dataType="i4"
+                      name="public_events" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input].ExternalColumns[masks]"
+                      dataType="i4"
+                      name="masks" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Insert restriction data\Destination - restrictions.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Destination - restrictions.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert restriction data\Destination - restrictions.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Destination - restrictions.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Insert restriction data\Source - restrictions_csv"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="8192"
+              name="Source - restrictions_csv"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Insert restriction data\Source - restrictions_csv.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[SourceConnectionFlatFile 3]"
+                  connectionManagerRefId="Package.ConnectionManagers[SourceConnectionFlatFile 3]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[name]"
+                      name="name"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[code]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[code]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[code]"
+                      name="code"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[masks]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[masks]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[masks]"
+                      name="masks"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[type_travel_controle]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[type_travel_controle]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[type_travel_controle]"
+                      name="type_travel_controle"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[public_events]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[public_events]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[public_events]"
+                      name="public_events"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_schools]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[closure_schools]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_schools]"
+                      name="closure_schools"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[stay_at_home]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[stay_at_home]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[stay_at_home]"
+                      name="stay_at_home"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_workplace]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[closure_workplace]"
+                      length="50"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].Columns[closure_workplace]"
+                      name="closure_workplace"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[code]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="code" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[masks]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="masks" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[type_travel_controle]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="type_travel_controle" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[public_events]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="public_events" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[closure_schools]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="closure_schools" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[stay_at_home]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="stay_at_home" />
+                    <externalMetadataColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output].ExternalColumns[closure_workplace]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="closure_workplace" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="1250"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Insert restriction data.Paths[Data Conversion Output]"
+              endId="Package\Insert restriction data\Destination - restrictions.Inputs[Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Insert restriction data\Data Conversion 0 - 0.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Insert restriction data.Paths[Flat File Source Output]"
+              endId="Package\Insert restriction data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+              name="Flat File Source Output"
+              startId="Package\Insert restriction data\Source - restrictions_csv.Outputs[Flat File Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Insert weather data"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:DTSID="{db9ba4e0-246e-4a4a-aab2-e27fd6c20acb}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:FailPackageOnFailure="True"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Insert weather data"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          defaultBufferSize="3145728"
+          version="1">
+          <components>
+            <component
+              refId="Package\Insert weather data\Data Conversion 0 - 0"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion 0 - 0"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[date]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="date"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[temperature]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="temperature"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[temperature]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input].Columns[humidity]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="humidity"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[humidity]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[date]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[temperature]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[temperature]"
+                      name="temperature"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[temperature]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[humidity]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[humidity]"
+                      name="humidity"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[humidity]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Insert weather data\Destination - weather"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="Destination - weather"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[weather]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Insert weather data\Destination - weather.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinationConnectionOLEDB]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinationConnectionOLEDB]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].Columns[name]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="name"
+                      externalMetadataColumnId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[name]"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[name]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].Columns[date]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="date"
+                      externalMetadataColumnId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[date]"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[date]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].Columns[temperature]"
+                      cachedDataType="r8"
+                      cachedName="temperature"
+                      externalMetadataColumnId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[temperature]"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[temperature]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].Columns[humidity]"
+                      cachedDataType="i4"
+                      cachedName="humidity"
+                      externalMetadataColumnId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[humidity]"
+                      lineageId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output].Columns[humidity]" />
+                    <inputColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].Columns[description]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="description"
+                      externalMetadataColumnId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[description]"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[description]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[id]"
+                      dataType="i4"
+                      name="id" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[date]"
+                      dataType="dbTimeStamp"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[temperature]"
+                      dataType="r8"
+                      name="temperature" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[humidity]"
+                      dataType="i4"
+                      name="humidity" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Destination - weather.Inputs[Destination Input].ExternalColumns[description]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="description" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Insert weather data\Destination - weather.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Insert weather data\Destination - weather.Inputs[Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert weather data\Destination - weather.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Destination - weather.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert weather data\Destination - weather.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Destination - weather.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Insert weather data\Source - weather_csv"
+              componentClassID="Microsoft.FlatFileSource"
+              contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Source"
+              localeId="8192"
+              name="Source - weather_csv"
+              usesDispositions="true"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether zero-length columns are treated as null."
+                  name="RetainNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                  name="FileNameColumnName"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Insert weather data\Source - weather_csv.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[SourceConnectionFlatFile]"
+                  connectionManagerRefId="Package.ConnectionManagers[SourceConnectionFlatFile]"
+                  name="FlatFileConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output]"
+                  name="Flat File Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      length="50"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[name]"
+                      name="name"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      length="50"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[date]"
+                      name="date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[temperature]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[temperature]"
+                      length="50"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[temperature]"
+                      name="temperature"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[humidity]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[humidity]"
+                      length="50"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[humidity]"
+                      name="humidity"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[description]"
+                      codePage="1250"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[description]"
+                      length="50"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].Columns[description]"
+                      name="description"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[name]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="name" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[date]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="date" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[temperature]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="temperature" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[humidity]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="humidity" />
+                    <externalMetadataColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output].ExternalColumns[description]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="description" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output]"
+                  isErrorOut="true"
+                  name="Flat File Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      codePage="1252"
+                      dataType="text"
+                      description="Flat File Source Error Output Column"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      name="Flat File Source Error Output Column" />
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Insert weather data.Paths[Data Conversion Output]"
+              endId="Package\Insert weather data\Destination - weather.Inputs[Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Insert weather data\Data Conversion 0 - 0.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Insert weather data.Paths[Flat File Source Output]"
+              endId="Package\Insert weather data\Data Conversion 0 - 0.Inputs[Data Conversion Input]"
+              name="Flat File Source Output"
+              startId="Package\Insert weather data\Source - weather_csv.Outputs[Flat File Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{D409EC91-CC3C-43CE-A5FE-6F3C2BCE0860}"
+      DTS:From="Package\Execute SQL Task"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Insert weather data" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{2471D375-6889-46DD-A93F-04AD18AB78DA}"
+      DTS:From="Package\Execute SQL Task 1"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 1"
+      DTS:To="Package\Increase numbers data" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{5B68E5C6-F279-4CB1-9D97-6B287836A1D5}"
+      DTS:From="Package\Execute SQL Task 2"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 2"
+      DTS:To="Package\Insert restriction data" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="184.8,41.6"
+          Id="Package\Increase numbers data"
+          TopLeft="325.833320385881,200.200001591046" />
+        <NodeLayout
+          Size="175.2,41.6"
+          Id="Package\Insert restriction data"
+          TopLeft="565.4999777476,224.666667644713" />
+        <NodeLayout
+          Size="167.2,41.6"
+          Id="Package\Insert weather data"
+          TopLeft="58.3333310153745,188.933334834841" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\Execute SQL Task"
+          TopLeft="55.8333311147161,68.4666672107908" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="140.083331065045,110.066667210791">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,78.8666676240503"
+              Start="0,0"
+              End="0,71.3666676240503">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,71.3666676240503" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="173.6,41.6"
+          Id="Package\Execute SQL Task 1"
+          TopLeft="327.49998698632,75.4000005992253" />
+        <NodeLayout
+          Size="173.6,41.6"
+          Id="Package\Execute SQL Task 2"
+          TopLeft="558.333311147161,71.0666672314537" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="416.2666536861,117.000000599225">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,83.2000009918205"
+              Start="0,0"
+              End="0,75.7000009918205">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,75.7000009918205" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="649.116644447381,112.666667231454">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,112.000000413259"
+              Start="0,0"
+              End="0,104.500000413259">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,104.500000413259" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Increase numbers data">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Increase numbers data\Destination - covid"
+          TopLeft="24.7,208.7" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\Increase numbers data\Data Conversion 0 - 0"
+          TopLeft="17.1,107.1" />
+        <NodeLayout
+          Size="202.4,41.6"
+          Id="Package\Increase numbers data\Source - testing-policy_csv"
+          TopLeft="5.50000000000001,5.49999999999995" />
+        <EdgeLayout
+          Id="Package\Increase numbers data.Paths[Flat File Source Output]"
+          TopLeft="106.7,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Increase numbers data.Paths[Data Conversion Output]"
+          TopLeft="106.7,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <TaskHost
+    design-time-name="Package\Insert restriction data">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="192,41.6"
+          Id="Package\Insert restriction data\Source - restrictions_csv"
+          TopLeft="5.50000000000001,5.49999999999995" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\Insert restriction data\Data Conversion 0 - 0"
+          TopLeft="11.9,107.1" />
+        <NodeLayout
+          Size="189.6,41.6"
+          Id="Package\Insert restriction data\Destination - restrictions"
+          TopLeft="6.70000000000003,208.7" />
+        <EdgeLayout
+          Id="Package\Insert restriction data.Paths[Flat File Source Output]"
+          TopLeft="101.5,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Insert restriction data.Paths[Data Conversion Output]"
+          TopLeft="101.5,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <TaskHost
+    design-time-name="Package\Insert weather data">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="176.8,41.6"
+          Id="Package\Insert weather data\Destination - weather"
+          TopLeft="6.70000000000002,208.7" />
+        <NodeLayout
+          Size="179.2,41.6"
+          Id="Package\Insert weather data\Data Conversion 0 - 0"
+          TopLeft="5.50000000000003,107.1" />
+        <NodeLayout
+          Size="178.4,41.6"
+          Id="Package\Insert weather data\Source - weather_csv"
+          TopLeft="5.90000000000001,5.49999999999995" />
+        <EdgeLayout
+          Id="Package\Insert weather data.Paths[Flat File Source Output]"
+          TopLeft="95.1,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Insert weather data.Paths[Data Conversion Output]"
+          TopLeft="95.1,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

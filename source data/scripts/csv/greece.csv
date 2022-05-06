@@ -1,0 +1,692 @@
+country,date,temp,humidity,weatherDesc
+Greece,2020-01-01,6,57.5,Clear
+Greece,2020-01-02,5,63.5,Patchy rain possible
+Greece,2020-01-03,7,61.75,Clear
+Greece,2020-01-04,11,48.0,Cloudy
+Greece,2020-01-05,8,70.25,Overcast
+Greece,2020-01-06,4,85.25,Moderate rain
+Greece,2020-01-07,4,82.875,Moderate or heavy sleet
+Greece,2020-01-08,5,64.875,Clear
+Greece,2020-01-09,6,63.375,Partly cloudy
+Greece,2020-01-10,10,57.875,Partly cloudy
+Greece,2020-01-11,9,62.25,Partly cloudy
+Greece,2020-01-12,9,76.0,Clear
+Greece,2020-01-13,10,76.875,Cloudy
+Greece,2020-01-14,10,73.375,Partly cloudy
+Greece,2020-01-15,9,76.125,Cloudy
+Greece,2020-01-16,8,72.125,Partly cloudy
+Greece,2020-01-17,7,72.125,Partly cloudy
+Greece,2020-01-18,8,72.0,Partly cloudy
+Greece,2020-01-19,8,73.0,Clear
+Greece,2020-01-20,7,73.875,Partly cloudy
+Greece,2020-01-21,6,67.875,Partly cloudy
+Greece,2020-01-22,10,58.0,Clear
+Greece,2020-01-23,9,54.125,Partly cloudy
+Greece,2020-01-24,9,62.375,Clear
+Greece,2020-01-25,10,72.375,Clear
+Greece,2020-01-26,11,73.625,Overcast
+Greece,2020-01-27,13,80.625,Partly cloudy
+Greece,2020-01-28,12,71.75,Partly cloudy
+Greece,2020-01-29,13,75.375,Overcast
+Greece,2020-01-30,14,67.5,Partly cloudy
+Greece,2020-01-31,12,62.625,Partly cloudy
+Greece,2020-02-01,14,66.5,Clear
+Greece,2020-02-01,14,66.5,Clear
+Greece,2020-02-02,13,72.375,Partly cloudy
+Greece,2020-02-03,14,77.25,Partly cloudy
+Greece,2020-02-04,14,76.0,Partly cloudy
+Greece,2020-02-05,10,66.75,Partly cloudy
+Greece,2020-02-06,5,68.75,Patchy rain possible
+Greece,2020-02-07,5,63.0,Patchy heavy snow
+Greece,2020-02-08,4,67.375,Partly cloudy
+Greece,2020-02-09,8,67.125,Partly cloudy
+Greece,2020-02-10,10,76.25,Partly cloudy
+Greece,2020-02-11,13,74.875,Partly cloudy
+Greece,2020-02-12,15,71.75,Partly cloudy
+Greece,2020-02-13,13,72.875,Cloudy
+Greece,2020-02-14,12,71.625,Partly cloudy
+Greece,2020-02-15,11,84.25,Moderate or heavy rain shower
+Greece,2020-02-16,9,72.125,Partly cloudy
+Greece,2020-02-17,10,65.875,Clear
+Greece,2020-02-18,13,53.375,Clear
+Greece,2020-02-19,13,63.875,Partly cloudy
+Greece,2020-02-20,13,73.375,Overcast
+Greece,2020-02-21,9,72.125,Moderate rain at times
+Greece,2020-02-22,8,67.375,Partly cloudy
+Greece,2020-02-23,10,65.125,Partly cloudy
+Greece,2020-02-24,13,56.875,Partly cloudy
+Greece,2020-02-25,15,63.25,Clear
+Greece,2020-02-26,14,70.875,Clear
+Greece,2020-02-27,13,69.625,Partly cloudy
+Greece,2020-02-28,11,56.0,Partly cloudy
+Greece,2020-02-29,10,49.75,Clear
+Greece,2020-03-01,11,59.375,Partly cloudy
+Greece,2020-03-01,11,59.375,Partly cloudy
+Greece,2020-03-02,14,67.875,Clear
+Greece,2020-03-03,15,69.75,Partly cloudy
+Greece,2020-03-04,15,70.75,Partly cloudy
+Greece,2020-03-05,13,62.125,Partly cloudy
+Greece,2020-03-06,13,67.375,Partly cloudy
+Greece,2020-03-07,15,71.25,Partly cloudy
+Greece,2020-03-08,16,74.375,Overcast
+Greece,2020-03-09,12,80.25,Heavy rain at times
+Greece,2020-03-10,13,64.5,Partly cloudy
+Greece,2020-03-11,14,61.875,Partly cloudy
+Greece,2020-03-12,14,61.875,Partly cloudy
+Greece,2020-03-13,17,57.125,Clear
+Greece,2020-03-14,18,51.375,Partly cloudy
+Greece,2020-03-15,16,69.625,Partly cloudy
+Greece,2020-03-16,8,64.375,Light drizzle
+Greece,2020-03-17,10,53.25,Clear
+Greece,2020-03-18,11,53.0,Partly cloudy
+Greece,2020-03-19,10,52.75,Light drizzle
+Greece,2020-03-20,13,47.75,Partly cloudy
+Greece,2020-03-21,18,54.5,Clear
+Greece,2020-03-22,15,71.375,Overcast
+Greece,2020-03-23,14,75.0,Patchy rain possible
+Greece,2020-03-24,14,71.125,Moderate rain
+Greece,2020-03-25,12,74.5,Patchy rain possible
+Greece,2020-03-26,11,84.75,Patchy rain possible
+Greece,2020-03-27,10,87.75,Patchy rain possible
+Greece,2020-03-28,12,68.5,Partly cloudy
+Greece,2020-03-29,14,70.75,Partly cloudy
+Greece,2020-03-30,14,71.875,Partly cloudy
+Greece,2020-03-31,15,64.75,Overcast
+Greece,2020-04-01,13,73.25,Partly cloudy
+Greece,2020-04-01,13,73.25,Partly cloudy
+Greece,2020-04-02,11,64.5,Light rain shower
+Greece,2020-04-03,11,75.75,Partly cloudy
+Greece,2020-04-04,11,84.875,Overcast
+Greece,2020-04-05,12,87.125,Torrential rain shower
+Greece,2020-04-06,10,78.0,Patchy light rain
+Greece,2020-04-07,9,74.75,Light rain
+Greece,2020-04-08,10,62.25,Partly cloudy
+Greece,2020-04-09,12,50.375,Partly cloudy
+Greece,2020-04-10,16,50.625,Clear
+Greece,2020-04-11,18,47.25,Clear
+Greece,2020-04-12,16,56.0,Partly cloudy
+Greece,2020-04-13,17,55.0,Partly cloudy
+Greece,2020-04-14,18,56.75,Partly cloudy
+Greece,2020-04-15,15,70.125,Partly cloudy
+Greece,2020-04-16,13,58.5,Partly cloudy
+Greece,2020-04-17,17,42.5,Clear
+Greece,2020-04-18,20,56.0,Clear
+Greece,2020-04-19,20,53.875,Partly cloudy
+Greece,2020-04-20,20,58.0,Partly cloudy
+Greece,2020-04-21,17,68.5,Partly cloudy
+Greece,2020-04-22,13,64.125,Partly cloudy
+Greece,2020-04-23,12,53.625,Partly cloudy
+Greece,2020-04-24,14,51.5,Cloudy
+Greece,2020-04-25,18,45.125,Clear
+Greece,2020-04-26,18,56.0,Clear
+Greece,2020-04-27,19,55.75,Partly cloudy
+Greece,2020-04-28,20,60.375,Partly cloudy
+Greece,2020-04-29,20,55.125,Partly cloudy
+Greece,2020-04-30,22,51.375,Partly cloudy
+Greece,2020-05-01,21,53.5,Partly cloudy
+Greece,2020-05-01,21,53.5,Partly cloudy
+Greece,2020-05-02,21,51.0,Partly cloudy
+Greece,2020-05-03,20,59.5,Partly cloudy
+Greece,2020-05-04,17,55.75,Patchy rain possible
+Greece,2020-05-05,19,48.5,Partly cloudy
+Greece,2020-05-06,21,50.125,Partly cloudy
+Greece,2020-05-07,15,69.25,Overcast
+Greece,2020-05-08,18,50.125,Partly cloudy
+Greece,2020-05-09,21,48.375,Partly cloudy
+Greece,2020-05-10,22,47.75,Partly cloudy
+Greece,2020-05-11,23,47.75,Partly cloudy
+Greece,2020-05-12,26,41.5,Partly cloudy
+Greece,2020-05-13,27,40.875,Clear
+Greece,2020-05-14,27,47.25,Partly cloudy
+Greece,2020-05-15,30,31.75,Partly cloudy
+Greece,2020-05-16,33,26.75,Partly cloudy
+Greece,2020-05-17,32,34.125,Clear
+Greece,2020-05-18,32,38.875,Clear
+Greece,2020-05-19,29,47.125,Clear
+Greece,2020-05-20,26,52.375,Partly cloudy
+Greece,2020-05-21,24,52.125,Clear
+Greece,2020-05-22,19,59.0,Patchy rain possible
+Greece,2020-05-23,21,45.75,Partly cloudy
+Greece,2020-05-24,20,48.875,Partly cloudy
+Greece,2020-05-25,21,59.375,Partly cloudy
+Greece,2020-05-26,19,58.875,Light rain shower
+Greece,2020-05-27,17,62.75,Moderate or heavy rain shower
+Greece,2020-05-28,19,56.0,Partly cloudy
+Greece,2020-05-29,20,55.875,Partly cloudy
+Greece,2020-05-30,21,51.25,Partly cloudy
+Greece,2020-05-31,21,54.25,Partly cloudy
+Greece,2020-06-01,22,52.75,Partly cloudy
+Greece,2020-06-01,22,52.75,Partly cloudy
+Greece,2020-06-02,21,56.875,Moderate or heavy rain shower
+Greece,2020-06-03,21,61.25,Partly cloudy
+Greece,2020-06-04,23,57.25,Partly cloudy
+Greece,2020-06-05,22,58.625,Clear
+Greece,2020-06-06,23,63.25,Partly cloudy
+Greece,2020-06-07,24,56.875,Partly cloudy
+Greece,2020-06-08,26,53.625,Partly cloudy
+Greece,2020-06-09,27,50.25,Partly cloudy
+Greece,2020-06-10,26,48.0,Partly cloudy
+Greece,2020-06-11,25,38.875,Partly cloudy
+Greece,2020-06-12,25,44.0,Partly cloudy
+Greece,2020-06-13,26,47.125,Partly cloudy
+Greece,2020-06-14,27,45.125,Partly cloudy
+Greece,2020-06-15,28,37.5,Clear
+Greece,2020-06-16,27,46.5,Partly cloudy
+Greece,2020-06-17,26,46.0,Clear
+Greece,2020-06-18,27,46.75,Partly cloudy
+Greece,2020-06-19,29,40.0,Partly cloudy
+Greece,2020-06-20,29,41.25,Partly cloudy
+Greece,2020-06-21,27,48.625,Partly cloudy
+Greece,2020-06-22,25,56.5,Partly cloudy
+Greece,2020-06-23,25,61.5,Patchy light rain with thunder
+Greece,2020-06-24,25,63.375,Partly cloudy
+Greece,2020-06-25,26,58.25,Partly cloudy
+Greece,2020-06-26,26,57.5,Partly cloudy
+Greece,2020-06-27,26,56.625,Partly cloudy
+Greece,2020-06-28,27,43.625,Clear
+Greece,2020-06-29,29,39.0,Clear
+Greece,2020-06-30,32,40.75,Partly cloudy
+Greece,2020-07-01,31,40.0,Partly cloudy
+Greece,2020-07-01,31,40.0,Partly cloudy
+Greece,2020-07-02,30,43.625,Clear
+Greece,2020-07-03,31,45.75,Clear
+Greece,2020-07-04,32,46.25,Partly cloudy
+Greece,2020-07-05,30,45.0,Partly cloudy
+Greece,2020-07-06,28,57.5,Clear
+Greece,2020-07-07,28,55.25,Partly cloudy
+Greece,2020-07-08,27,56.125,Partly cloudy
+Greece,2020-07-09,26,52.875,Partly cloudy
+Greece,2020-07-10,26,53.125,Clear
+Greece,2020-07-11,27,53.625,Clear
+Greece,2020-07-12,28,47.125,Clear
+Greece,2020-07-13,27,51.0,Partly cloudy
+Greece,2020-07-14,25,50.75,Partly cloudy
+Greece,2020-07-15,26,45.0,Partly cloudy
+Greece,2020-07-16,28,49.5,Partly cloudy
+Greece,2020-07-17,28,43.25,Partly cloudy
+Greece,2020-07-18,29,40.625,Partly cloudy
+Greece,2020-07-19,29,42.375,Partly cloudy
+Greece,2020-07-20,30,46.375,Partly cloudy
+Greece,2020-07-21,30,42.125,Partly cloudy
+Greece,2020-07-22,29,43.0,Partly cloudy
+Greece,2020-07-23,28,43.625,Clear
+Greece,2020-07-24,28,42.75,Clear
+Greece,2020-07-25,30,38.625,Partly cloudy
+Greece,2020-07-26,31,41.75,Partly cloudy
+Greece,2020-07-27,31,42.625,Partly cloudy
+Greece,2020-07-28,30,41.75,Partly cloudy
+Greece,2020-07-29,31,38.75,Partly cloudy
+Greece,2020-07-30,32,35.25,Clear
+Greece,2020-07-31,33,34.125,Clear
+Greece,2020-08-01,35,31.5,Partly cloudy
+Greece,2020-08-01,35,31.5,Partly cloudy
+Greece,2020-08-02,31,43.75,Partly cloudy
+Greece,2020-08-03,29,42.75,Partly cloudy
+Greece,2020-08-04,30,40.875,Partly cloudy
+Greece,2020-08-05,30,46.0,Partly cloudy
+Greece,2020-08-06,28,55.25,Clear
+Greece,2020-08-07,27,60.875,Partly cloudy
+Greece,2020-08-08,28,56.875,Partly cloudy
+Greece,2020-08-09,27,56.0,Light rain shower
+Greece,2020-08-10,28,46.25,Partly cloudy
+Greece,2020-08-11,29,38.25,Partly cloudy
+Greece,2020-08-12,31,33.875,Partly cloudy
+Greece,2020-08-13,31,35.75,Partly cloudy
+Greece,2020-08-14,30,37.625,Partly cloudy
+Greece,2020-08-15,30,35.75,Partly cloudy
+Greece,2020-08-16,29,40.0,Partly cloudy
+Greece,2020-08-17,27,45.125,Partly cloudy
+Greece,2020-08-18,29,43.875,Partly cloudy
+Greece,2020-08-19,30,44.75,Partly cloudy
+Greece,2020-08-20,29,42.5,Partly cloudy
+Greece,2020-08-21,28,43.625,Partly cloudy
+Greece,2020-08-22,30,37.25,Partly cloudy
+Greece,2020-08-23,31,34.875,Partly cloudy
+Greece,2020-08-24,31,39.5,Partly cloudy
+Greece,2020-08-25,31,40.625,Partly cloudy
+Greece,2020-08-26,31,45.5,Patchy rain possible
+Greece,2020-08-27,31,42.75,Partly cloudy
+Greece,2020-08-28,31,33.5,Clear
+Greece,2020-08-29,32,35.375,Clear
+Greece,2020-08-30,33,35.5,Clear
+Greece,2020-08-31,33,29.75,Clear
+Greece,2020-09-01,34,31.75,Clear
+Greece,2020-09-01,34,31.75,Clear
+Greece,2020-09-02,32,47.75,Clear
+Greece,2020-09-03,31,47.25,Clear
+Greece,2020-09-04,31,41.875,Partly cloudy
+Greece,2020-09-05,26,48.0,Partly cloudy
+Greece,2020-09-06,28,36.75,Clear
+Greece,2020-09-07,29,35.125,Clear
+Greece,2020-09-08,30,34.75,Clear
+Greece,2020-09-09,28,48.25,Clear
+Greece,2020-09-10,27,43.25,Clear
+Greece,2020-09-11,26,47.875,Clear
+Greece,2020-09-12,25,54.5,Clear
+Greece,2020-09-13,26,54.75,Partly cloudy
+Greece,2020-09-14,27,43.25,Partly cloudy
+Greece,2020-09-15,25,54.625,Partly cloudy
+Greece,2020-09-16,25,57.5,Partly cloudy
+Greece,2020-09-17,26,60.375,Partly cloudy
+Greece,2020-09-18,25,73.875,Cloudy
+Greece,2020-09-19,24,66.125,Light rain shower
+Greece,2020-09-20,21,58.25,Partly cloudy
+Greece,2020-09-21,22,57.0,Clear
+Greece,2020-09-22,24,53.5,Partly cloudy
+Greece,2020-09-23,25,58.625,Partly cloudy
+Greece,2020-09-24,26,55.75,Partly cloudy
+Greece,2020-09-25,27,52.5,Partly cloudy
+Greece,2020-09-26,27,57.0,Partly cloudy
+Greece,2020-09-27,23,51.5,Clear
+Greece,2020-09-28,25,61.25,Partly cloudy
+Greece,2020-09-29,24,60.625,Partly cloudy
+Greece,2020-09-30,23,47.75,Partly cloudy
+Greece,2020-10-01,22,55.625,Partly cloudy
+Greece,2020-10-01,22,55.625,Partly cloudy
+Greece,2020-10-02,23,56.625,Partly cloudy
+Greece,2020-10-03,24,70.875,Partly cloudy
+Greece,2020-10-04,25,69.25,Partly cloudy
+Greece,2020-10-05,27,58.75,Partly cloudy
+Greece,2020-10-06,30,43.0,Partly cloudy
+Greece,2020-10-07,29,44.5,Partly cloudy
+Greece,2020-10-08,24,47.625,Thundery outbreaks possible
+Greece,2020-10-09,22,51.25,Partly cloudy
+Greece,2020-10-10,22,54.0,Partly cloudy
+Greece,2020-10-11,23,61.0,Partly cloudy
+Greece,2020-10-12,23,68.125,Overcast
+Greece,2020-10-13,22,59.0,Light rain shower
+Greece,2020-10-14,21,53.25,Partly cloudy
+Greece,2020-10-15,22,58.0,Clear
+Greece,2020-10-16,23,64.125,Partly cloudy
+Greece,2020-10-17,24,58.875,Partly cloudy
+Greece,2020-10-18,22,52.125,Clear
+Greece,2020-10-19,19,63.625,Partly cloudy
+Greece,2020-10-20,17,56.25,Partly cloudy
+Greece,2020-10-21,16,69.25,Partly cloudy
+Greece,2020-10-22,20,57.875,Partly cloudy
+Greece,2020-10-23,22,49.25,Partly cloudy
+Greece,2020-10-24,23,52.75,Clear
+Greece,2020-10-25,22,56.0,Overcast
+Greece,2020-10-26,22,60.0,Partly cloudy
+Greece,2020-10-27,20,66.0,Partly cloudy
+Greece,2020-10-28,18,74.5,Partly cloudy
+Greece,2020-10-29,19,65.75,Partly cloudy
+Greece,2020-10-30,19,60.375,Partly cloudy
+Greece,2020-10-31,17,49.25,Partly cloudy
+Greece,2020-11-01,19,56.0,Partly cloudy
+Greece,2020-11-01,19,56.0,Partly cloudy
+Greece,2020-11-02,18,60.5,Partly cloudy
+Greece,2020-11-03,18,67.625,Partly cloudy
+Greece,2020-11-04,18,68.125,Partly cloudy
+Greece,2020-11-05,16,63.875,Partly cloudy
+Greece,2020-11-06,15,70.25,Partly cloudy
+Greece,2020-11-07,14,60.875,Partly cloudy
+Greece,2020-11-08,14,69.125,Partly cloudy
+Greece,2020-11-09,15,72.875,Cloudy
+Greece,2020-11-10,15,74.625,Partly cloudy
+Greece,2020-11-11,15,70.875,Partly cloudy
+Greece,2020-11-12,15,70.375,Partly cloudy
+Greece,2020-11-13,15,65.625,Partly cloudy
+Greece,2020-11-14,15,67.75,Partly cloudy
+Greece,2020-11-15,15,65.125,Partly cloudy
+Greece,2020-11-16,16,64.125,Partly cloudy
+Greece,2020-11-17,16,70.5,Partly cloudy
+Greece,2020-11-18,14,72.5,Partly cloudy
+Greece,2020-11-19,13,70.625,Patchy rain possible
+Greece,2020-11-20,12,64.75,Partly cloudy
+Greece,2020-11-21,12,67.375,Partly cloudy
+Greece,2020-11-22,12,70.625,Patchy rain possible
+Greece,2020-11-23,12,69.375,Partly cloudy
+Greece,2020-11-24,12,71.625,Partly cloudy
+Greece,2020-11-25,10,66.125,Partly cloudy
+Greece,2020-11-26,11,65.0,Clear
+Greece,2020-11-27,14,64.0,Clear
+Greece,2020-11-28,13,63.375,Clear
+Greece,2020-11-29,15,76.0,Partly cloudy
+Greece,2020-11-30,13,81.75,Heavy rain
+Greece,2020-12-01,11,78.0,Cloudy
+Greece,2021-01-01,13,64.625,Clear
+Greece,2021-01-02,13,70.0,Clear
+Greece,2021-01-03,15,75.125,Light rain shower
+Greece,2021-01-04,14,82.5,Patchy rain possible
+Greece,2021-01-05,13,68.125,Clear
+Greece,2021-01-06,12,70.5,Overcast
+Greece,2021-01-07,13,70.5,Partly cloudy
+Greece,2021-01-08,15,82.125,Partly cloudy
+Greece,2021-01-09,17,85.625,Cloudy
+Greece,2021-01-10,17,79.375,Partly cloudy
+Greece,2021-01-11,18,78.5,Partly cloudy
+Greece,2021-01-12,16,83.5,Partly cloudy
+Greece,2021-01-13,12,66.125,Partly cloudy
+Greece,2021-01-14,9,67.125,Moderate rain at times
+Greece,2021-01-15,7,66.5,Partly cloudy
+Greece,2021-01-16,5,80.0,Overcast
+Greece,2021-01-17,3,70.0,Patchy sleet possible
+Greece,2021-01-18,3,79.0,Overcast
+Greece,2021-01-19,5,69.5,Partly cloudy
+Greece,2021-01-20,8,57.625,Clear
+Greece,2021-01-21,10,69.5,Overcast
+Greece,2021-01-22,11,75.75,Partly cloudy
+Greece,2021-01-23,12,74.875,Partly cloudy
+Greece,2021-01-24,13,72.125,Patchy rain possible
+Greece,2021-01-25,13,65.125,Partly cloudy
+Greece,2021-01-26,14,72.75,Partly cloudy
+Greece,2021-01-27,6,62.625,Moderate rain
+Greece,2021-01-28,8,43.375,Partly cloudy
+Greece,2021-01-29,9,55.875,Partly cloudy
+Greece,2021-01-30,14,71.875,Partly cloudy
+Greece,2021-01-31,13,77.0,Partly cloudy
+Greece,2021-02-01,14,79.875,Patchy rain possible
+Greece,2021-02-01,14,79.875,Patchy rain possible
+Greece,2021-02-02,14,80.875,Partly cloudy
+Greece,2021-02-03,14,73.375,Partly cloudy
+Greece,2021-02-04,16,69.75,Partly cloudy
+Greece,2021-02-05,15,65.5,Partly cloudy
+Greece,2021-02-06,16,64.5,Partly cloudy
+Greece,2021-02-07,16,60.125,Clear
+Greece,2021-02-08,16,72.75,Partly cloudy
+Greece,2021-02-09,14,70.375,Partly cloudy
+Greece,2021-02-10,14,70.0,Partly cloudy
+Greece,2021-02-11,14,69.0,Cloudy
+Greece,2021-02-12,13,65.25,Clear
+Greece,2021-02-13,9,76.0,Overcast
+Greece,2021-02-14,4,88.75,Moderate rain
+Greece,2021-02-15,2,77.5,Patchy heavy snow
+Greece,2021-02-16,-0,81.25,Patchy heavy snow
+Greece,2021-02-17,4,65.375,Cloudy
+Greece,2021-02-18,8,61.125,Cloudy
+Greece,2021-02-19,12,60.875,Partly cloudy
+Greece,2021-02-20,11,70.375,Partly cloudy
+Greece,2021-02-21,9,74.875,Partly cloudy
+Greece,2021-02-22,11,68.375,Partly cloudy
+Greece,2021-02-23,13,57.875,Partly cloudy
+Greece,2021-02-24,13,59.625,Clear
+Greece,2021-02-25,11,73.375,Partly cloudy
+Greece,2021-02-26,14,72.875,Partly cloudy
+Greece,2021-02-27,16,58.375,Clear
+Greece,2021-02-28,12,70.0,Clear
+Greece,2021-03-01,11,65.25,Partly cloudy
+Greece,2021-03-01,11,65.25,Partly cloudy
+Greece,2021-03-02,9,63.25,Cloudy
+Greece,2021-03-03,10,63.5,Partly cloudy
+Greece,2021-03-04,14,52.25,Clear
+Greece,2021-03-05,14,58.5,Partly cloudy
+Greece,2021-03-06,15,58.5,Partly cloudy
+Greece,2021-03-07,11,72.25,Partly cloudy
+Greece,2021-03-08,12,70.625,Cloudy
+Greece,2021-03-09,14,68.0,Partly cloudy
+Greece,2021-03-10,14,62.625,Partly cloudy
+Greece,2021-03-11,10,71.875,Partly cloudy
+Greece,2021-03-12,11,65.75,Partly cloudy
+Greece,2021-03-13,14,68.0,Partly cloudy
+Greece,2021-03-14,15,70.75,Partly cloudy
+Greece,2021-03-15,14,63.5,Partly cloudy
+Greece,2021-03-16,12,52.125,Overcast
+Greece,2021-03-17,12,52.25,Partly cloudy
+Greece,2021-03-18,11,52.375,Partly cloudy
+Greece,2021-03-19,13,66.25,Overcast
+Greece,2021-03-20,12,84.375,Overcast
+Greece,2021-03-21,15,81.25,Cloudy
+Greece,2021-03-22,15,69.125,Mist
+Greece,2021-03-23,9,72.375,Overcast
+Greece,2021-03-24,9,58.25,Patchy rain possible
+Greece,2021-03-25,7,68.5,Patchy rain possible
+Greece,2021-03-26,10,56.625,Partly cloudy
+Greece,2021-03-27,12,65.375,Partly cloudy
+Greece,2021-03-28,14,62.0,Partly cloudy
+Greece,2021-03-29,16,57.625,Clear
+Greece,2021-03-30,12,62.25,Partly cloudy
+Greece,2021-03-31,10,60.5,Light drizzle
+Greece,2021-04-01,9,67.375,Partly cloudy
+Greece,2021-04-01,9,67.375,Partly cloudy
+Greece,2021-04-02,14,60.875,Partly cloudy
+Greece,2021-04-03,16,67.625,Partly cloudy
+Greece,2021-04-04,17,70.875,Partly cloudy
+Greece,2021-04-05,15,77.25,Patchy light rain
+Greece,2021-04-06,17,73.875,Partly cloudy
+Greece,2021-04-07,17,60.25,Clear
+Greece,2021-04-08,10,57.75,Partly cloudy
+Greece,2021-04-09,10,46.25,Partly cloudy
+Greece,2021-04-10,13,45.0,Partly cloudy
+Greece,2021-04-11,14,49.0,Clear
+Greece,2021-04-12,15,52.25,Partly cloudy
+Greece,2021-04-13,16,63.5,Partly cloudy
+Greece,2021-04-14,18,58.875,Partly cloudy
+Greece,2021-04-15,17,56.375,Clear
+Greece,2021-04-16,16,67.25,Partly cloudy
+Greece,2021-04-17,18,66.5,Patchy rain possible
+Greece,2021-04-18,18,73.875,Clear
+Greece,2021-04-19,17,63.375,Patchy rain possible
+Greece,2021-04-20,16,52.375,Partly cloudy
+Greece,2021-04-21,17,50.75,Partly cloudy
+Greece,2021-04-22,18,49.5,Partly cloudy
+Greece,2021-04-23,19,55.375,Partly cloudy
+Greece,2021-04-24,15,74.125,Patchy light drizzle
+Greece,2021-04-25,14,74.0,Thundery outbreaks possible
+Greece,2021-04-26,18,61.125,Clear
+Greece,2021-04-27,18,61.25,Partly cloudy
+Greece,2021-04-28,20,58.875,Cloudy
+Greece,2021-04-29,22,56.5,Clear
+Greece,2021-04-30,25,51.375,Partly cloudy
+Greece,2021-05-01,26,44.0,Cloudy
+Greece,2021-05-01,26,44.0,Cloudy
+Greece,2021-05-02,26,37.0,Partly cloudy
+Greece,2021-05-03,28,33.75,Partly cloudy
+Greece,2021-05-04,24,49.875,Partly cloudy
+Greece,2021-05-05,22,45.75,Partly cloudy
+Greece,2021-05-06,23,53.75,Partly cloudy
+Greece,2021-05-07,24,50.625,Partly cloudy
+Greece,2021-05-08,25,48.25,Overcast
+Greece,2021-05-09,18,56.625,Cloudy
+Greece,2021-05-10,18,47.375,Clear
+Greece,2021-05-11,20,41.5,Partly cloudy
+Greece,2021-05-12,21,40.625,Partly cloudy
+Greece,2021-05-13,22,53.5,Clear
+Greece,2021-05-14,23,47.5,Clear
+Greece,2021-05-15,22,45.75,Partly cloudy
+Greece,2021-05-16,21,53.625,Partly cloudy
+Greece,2021-05-17,23,54.125,Partly cloudy
+Greece,2021-05-18,26,45.125,Clear
+Greece,2021-05-19,26,48.5,Partly cloudy
+Greece,2021-05-20,25,33.375,Clear
+Greece,2021-05-21,20,46.625,Clear
+Greece,2021-05-22,21,52.5,Partly cloudy
+Greece,2021-05-23,25,47.125,Partly cloudy
+Greece,2021-05-24,29,35.0,Clear
+Greece,2021-05-25,30,34.875,Clear
+Greece,2021-05-26,29,43.25,Partly cloudy
+Greece,2021-05-27,27,40.375,Clear
+Greece,2021-05-28,26,46.375,Clear
+Greece,2021-05-29,23,56.875,Partly cloudy
+Greece,2021-05-30,23,54.875,Partly cloudy
+Greece,2021-05-31,23,56.125,Partly cloudy
+Greece,2021-06-01,20,62.0,Patchy rain possible
+Greece,2021-06-01,20,62.0,Patchy rain possible
+Greece,2021-06-02,21,52.25,Patchy rain possible
+Greece,2021-06-03,23,54.75,Partly cloudy
+Greece,2021-06-04,23,50.125,Partly cloudy
+Greece,2021-06-05,24,45.75,Partly cloudy
+Greece,2021-06-06,25,51.0,Partly cloudy
+Greece,2021-06-07,27,45.25,Partly cloudy
+Greece,2021-06-08,25,58.625,Partly cloudy
+Greece,2021-06-09,23,63.75,Patchy rain possible
+Greece,2021-06-10,25,49.125,Partly cloudy
+Greece,2021-06-11,25,51.5,Partly cloudy
+Greece,2021-06-12,25,52.125,Partly cloudy
+Greece,2021-06-13,24,59.375,Partly cloudy
+Greece,2021-06-14,24,44.75,Partly cloudy
+Greece,2021-06-15,20,50.375,Partly cloudy
+Greece,2021-06-16,24,46.5,Partly cloudy
+Greece,2021-06-17,26,48.5,Partly cloudy
+Greece,2021-06-18,27,43.125,Partly cloudy
+Greece,2021-06-19,27,53.0,Partly cloudy
+Greece,2021-06-20,27,56.875,Partly cloudy
+Greece,2021-06-21,28,57.0,Partly cloudy
+Greece,2021-06-22,29,54.0,Patchy rain possible
+Greece,2021-06-23,31,49.125,Clear
+Greece,2021-06-24,36,42.0,Partly cloudy
+Greece,2021-06-25,35,39.625,Partly cloudy
+Greece,2021-06-26,33,41.125,Partly cloudy
+Greece,2021-06-27,33,39.625,Partly cloudy
+Greece,2021-06-28,31,42.5,Partly cloudy
+Greece,2021-06-29,32,40.5,Partly cloudy
+Greece,2021-06-30,35,38.5,Partly cloudy
+Greece,2021-07-01,35,37.625,Partly cloudy
+Greece,2021-07-01,35,37.625,Partly cloudy
+Greece,2021-07-02,34,30.625,Clear
+Greece,2021-07-03,29,46.5,Partly cloudy
+Greece,2021-07-04,28,46.5,Partly cloudy
+Greece,2021-07-05,30,49.0,Partly cloudy
+Greece,2021-07-06,30,47.375,Partly cloudy
+Greece,2021-07-07,31,42.875,Partly cloudy
+Greece,2021-07-08,31,42.5,Partly cloudy
+Greece,2021-07-09,29,47.25,Partly cloudy
+Greece,2021-07-10,29,40.125,Partly cloudy
+Greece,2021-07-11,29,38.625,Partly cloudy
+Greece,2021-07-12,30,36.875,Partly cloudy
+Greece,2021-07-13,32,33.625,Partly cloudy
+Greece,2021-07-14,32,33.375,Partly cloudy
+Greece,2021-07-15,33,32.625,Clear
+Greece,2021-07-16,33,33.125,Clear
+Greece,2021-07-17,32,41.5,Clear
+Greece,2021-07-18,31,51.125,Partly cloudy
+Greece,2021-07-19,29,58.0,Clear
+Greece,2021-07-20,29,58.0,Partly cloudy
+Greece,2021-07-21,31,47.25,Partly cloudy
+Greece,2021-07-22,29,42.125,Partly cloudy
+Greece,2021-07-23,28,40.5,Partly cloudy
+Greece,2021-07-24,28,39.0,Partly cloudy
+Greece,2021-07-25,28,39.375,Partly cloudy
+Greece,2021-07-26,29,33.375,Clear
+Greece,2021-07-27,32,26.625,Clear
+Greece,2021-07-28,33,26.375,Clear
+Greece,2021-07-29,34,27.0,Clear
+Greece,2021-07-30,36,24.375,Partly cloudy
+Greece,2021-07-31,37,25.875,Partly cloudy
+Greece,2021-08-01,38,25.25,Clear
+Greece,2021-08-01,38,25.25,Clear
+Greece,2021-08-02,39,26.5,Clear
+Greece,2021-08-03,39,17.625,Clear
+Greece,2021-08-04,39,20.75,Partly cloudy
+Greece,2021-08-05,39,24.5,Partly cloudy
+Greece,2021-08-06,35,22.625,Partly cloudy
+Greece,2021-08-07,30,40.125,Partly cloudy
+Greece,2021-08-08,33,30.625,Clear
+Greece,2021-08-09,36,29.5,Clear
+Greece,2021-08-10,35,29.75,Clear
+Greece,2021-08-11,34,35.5,Clear
+Greece,2021-08-12,30,40.25,Partly cloudy
+Greece,2021-08-13,31,32.5,Partly cloudy
+Greece,2021-08-14,29,38.5,Partly cloudy
+Greece,2021-08-15,29,37.125,Clear
+Greece,2021-08-16,30,32.75,Clear
+Greece,2021-08-17,32,31.5,Clear
+Greece,2021-08-18,32,35.5,Clear
+Greece,2021-08-19,32,36.0,Partly cloudy
+Greece,2021-08-20,30,39.75,Partly cloudy
+Greece,2021-08-21,29,34.25,Clear
+Greece,2021-08-22,28,42.25,Clear
+Greece,2021-08-23,29,37.75,Clear
+Greece,2021-08-24,29,36.5,Clear
+Greece,2021-08-25,32,33.0,Clear
+Greece,2021-08-26,32,40.875,Partly cloudy
+Greece,2021-08-27,32,48.625,Partly cloudy
+Greece,2021-08-28,31,48.625,Partly cloudy
+Greece,2021-08-29,31,46.0,Clear
+Greece,2021-08-30,31,44.625,Clear
+Greece,2021-08-31,29,52.0,Partly cloudy
+Greece,2021-09-01,30,44.625,Partly cloudy
+Greece,2021-09-01,30,44.625,Partly cloudy
+Greece,2021-09-02,27,50.875,Partly cloudy
+Greece,2021-09-03,26,45.5,Clear
+Greece,2021-09-04,27,50.25,Partly cloudy
+Greece,2021-09-05,26,44.625,Partly cloudy
+Greece,2021-09-06,24,51.75,Partly cloudy
+Greece,2021-09-07,21,54.25,Partly cloudy
+Greece,2021-09-08,21,67.125,Partly cloudy
+Greece,2021-09-09,21,64.5,Partly cloudy
+Greece,2021-09-10,23,56.125,Partly cloudy
+Greece,2021-09-11,26,50.5,Partly cloudy
+Greece,2021-09-12,26,41.0,Partly cloudy
+Greece,2021-09-13,26,42.75,Partly cloudy
+Greece,2021-09-14,26,39.625,Partly cloudy
+Greece,2021-09-15,29,34.5,Partly cloudy
+Greece,2021-09-16,29,39.25,Partly cloudy
+Greece,2021-09-17,29,44.25,Partly cloudy
+Greece,2021-09-18,33,37.0,Partly cloudy
+Greece,2021-09-19,33,33.625,Partly cloudy
+Greece,2021-09-20,31,38.5,Clear
+Greece,2021-09-21,30,37.625,Partly cloudy
+Greece,2021-09-22,24,57.5,Partly cloudy
+Greece,2021-09-23,18,61.0,Patchy rain possible
+Greece,2021-09-24,22,44.25,Clear
+Greece,2021-09-25,26,35.25,Clear
+Greece,2021-09-26,27,31.125,Clear
+Greece,2021-09-27,28,33.5,Clear
+Greece,2021-09-28,27,43.125,Partly cloudy
+Greece,2021-09-29,22,60.75,Partly cloudy
+Greece,2021-09-30,21,55.0,Partly cloudy
+Greece,2021-10-01,20,52.375,Partly cloudy
+Greece,2021-10-01,20,52.375,Partly cloudy
+Greece,2021-10-02,19,55.75,Partly cloudy
+Greece,2021-10-03,21,54.375,Clear
+Greece,2021-10-04,21,52.25,Overcast
+Greece,2021-10-05,22,55.875,Clear
+Greece,2021-10-06,20,57.25,Clear
+Greece,2021-10-07,20,55.25,Partly cloudy
+Greece,2021-10-08,22,68.875,Cloudy
+Greece,2021-10-09,18,73.125,Partly cloudy
+Greece,2021-10-10,19,76.625,Patchy rain possible
+Greece,2021-10-11,21,78.0,Patchy rain possible
+Greece,2021-10-12,20,56.25,Partly cloudy
+Greece,2021-10-13,18,66.5,Clear
+Greece,2021-10-14,18,79.75,Cloudy
+Greece,2021-10-15,15,82.25,Moderate or heavy rain shower
+Greece,2021-10-16,17,72.375,Patchy rain possible
+Greece,2021-10-17,17,71.75,Partly cloudy
+Greece,2021-10-18,17,67.75,Cloudy
+Greece,2021-10-19,18,66.625,Clear
+Greece,2021-10-20,18,63.25,Clear
+Greece,2021-10-21,19,63.625,Clear
+Greece,2021-10-22,20,63.75,Clear
+Greece,2021-10-23,20,68.75,Clear
+Greece,2021-10-24,19,69.0,Clear
+Greece,2021-10-25,14,64.625,Light drizzle
+Greece,2021-10-26,14,64.625,Partly cloudy
+Greece,2021-10-27,15,65.875,Clear
+Greece,2021-10-28,16,65.0,Clear
+Greece,2021-10-29,16,65.75,Clear
+Greece,2021-10-30,15,65.25,Clear
+Greece,2021-10-31,15,71.25,Clear
+Greece,2021-11-01,16,64.375,Clear
+Greece,2021-11-01,16,64.375,Clear
+Greece,2021-11-02,18,75.5,Partly cloudy
+Greece,2021-11-03,20,69.25,Clear
+Greece,2021-11-04,19,66.0,Clear
+Greece,2021-11-05,22,62.25,Overcast
+Greece,2021-11-06,23,57.375,Clear
+Greece,2021-11-07,20,58.5,Clear
+Greece,2021-11-08,20,57.25,Clear
+Greece,2021-11-09,19,82.0,Clear
+Greece,2021-11-10,15,76.5,Clear
+Greece,2021-11-11,12,62.125,Clear
+Greece,2021-11-12,14,64.75,Clear
+Greece,2021-11-13,13,65.25,Clear
+Greece,2021-11-14,15,69.5,Overcast
+Greece,2021-11-15,13,76.625,Cloudy
+Greece,2021-11-16,13,71.625,Partly cloudy
+Greece,2021-11-17,13,63.75,Partly cloudy
+Greece,2021-11-18,14,68.0,Clear
+Greece,2021-11-19,14,73.5,Partly cloudy
+Greece,2021-11-20,14,63.0,Partly cloudy
+Greece,2021-11-21,16,65.875,Clear
+Greece,2021-11-22,16,77.125,Partly cloudy
+Greece,2021-11-23,16,81.5,Overcast
+Greece,2021-11-24,13,83.0,Light drizzle
+Greece,2021-11-25,12,67.625,Clear
+Greece,2021-11-26,13,85.875,Overcast
+Greece,2021-11-27,16,77.375,Overcast
+Greece,2021-11-28,18,63.75,Clear
+Greece,2021-11-29,17,69.375,Clear
+Greece,2021-11-30,14,56.625,Partly cloudy
+Greece,2021-12-01,12,58.0,Clear
